@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+    @font-face {
+        font-family: 'LexendMega';
+        src: url('/fonts/LexendMega.woff2') format('woff2');
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Archivo';
+        src: url('/fonts/Archivo.woff2') format('woff2');
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'ArchivoItalic';
+        src: url('/fonts/Archivo-Italic.woff2') format('woff2');
+        font-display: swap;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'Archivo', sans-serif;
+    }
+}

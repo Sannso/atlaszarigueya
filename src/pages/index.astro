@@ -1,0 +1,31 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Header from "@components/Header.astro";
+import Hero from "@components/Hero.astro";
+import Description from "@components/Description.astro";
+import Features from "@components/Features.astro";
+import Cta from "@components/Cta.astro";
+import Footer from "@components/Footer.astro";
+---
+
+<Layout>
+	<section class="flex flex-col relative pt-2 h-screen lg:h-1/2">
+		<Header />
+		<Hero />
+		<video
+			class="absolute top-0 left-0 w-full h-full object-cover -z-20"
+			src="/videos/herovideo.mp4"
+			autoplay
+			loop
+			muted
+			playsinline></video>
+		<div
+			class="absolute top-0 left-0 w-full h-full -z-10 bg-black/30"
+		></div>
+	</section>
+
+	<Description />
+	<Features />
+	<Cta />
+	<Footer />
+</Layout>
