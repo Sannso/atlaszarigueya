@@ -1,6 +1,9 @@
 @import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
 
 @layer base {
+
     @font-face {
         font-family: 'LexendMega';
         src: url('/fonts/LexendMega.woff2') format('woff2');
@@ -19,12 +22,11 @@
         font-display: swap;
     }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        font-family: 'Archivo', sans-serif;
-    }
+    
+}
+
+@theme {
+    --font-lexend-mega: 'LexendMega', sans-serif;
+    --font-archivo: 'Archivo', sans-serif;
+    --font-archivo-italic: 'ArchivoItalic', sans-serif;
 }

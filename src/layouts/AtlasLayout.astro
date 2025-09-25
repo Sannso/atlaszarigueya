@@ -1,0 +1,45 @@
+---
+import Layout from "@layouts/Layout.astro";
+import AtlasSidebar from "@components/AtlasSidebar.astro";
+
+interface Props {
+  lang: "es" | "en";
+  currentPath: string;
+}
+
+const { lang, currentPath } = Astro.props as Props;
+---
+
+<Layout>
+  <header
+    class={`flex items-center justify-between p-2 md:p-6
+           bg-orange-100 text-black dark:bg-neutral-800 dark:text-orange-100
+            border-b border-neutral-200 dark:border-neutral-900`}
+  >
+    <h1 class="text-md font-bold font-lexend-mega">
+      <a href="http://localhost:4321">Atlas Zarigueya</a>
+    </h1>
+    <button
+      class="cursor-pointer"
+      id="theme-toggle"
+      type="button"
+      aria-label="Cambiar tema">Tema</button
+    >
+  </header>
+  <section class="flex min-h-screen bg-orange-100 text-black dark:bg-neutral-900 dark:text-orange-100">
+    <aside class="min-h-screen w-64 shrink-0 hidden md:block bg-orange-100 text-black dark:bg-neutral-800 dark:text-orange-100 px-4 md:px-6 py-6">
+      <AtlasSidebar lang={lang} currentPath={currentPath} />
+    </aside>
+    <slot />
+  </section>
+</Layout>
+
+<script>
+  const btn = document.getElementById("theme-toggle");
+  btn?.addEventListener("click", function () {
+    const root = document.documentElement;
+    const nowDark = !root.classList.contains("dark");
+    root.classList.toggle("dark", nowDark);
+    localStorage.setItem("theme", nowDark ? "dark" : "light");
+  });
+</script>

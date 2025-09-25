@@ -1,0 +1,39 @@
+---
+import AtlasLayout from "@layouts/AtlasLayout.astro";
+import { getCollection, type CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const langs = ["es", "en"];
+  return langs.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: "es" | "en" };
+const overviewSlug = `${lang}/overview`;
+const entries = await getCollection(
+  "atlas",
+  (e: CollectionEntry<"atlas">) => e.slug === overviewSlug,
+);
+const overview = entries[0];
+const Content = overview ? (await overview.render()).Content : null;
+---
+
+<AtlasLayout lang={lang} currentPath={Astro.url.pathname}>
+  <section
+    class={`flex w-full flex-col gap-4 mx-4 md:mx-12 py-6
+    [&>h1]:text-3xl [&>h1]:font-bold
+    [&>h2]:text-2xl [&>h2]:font-bold
+   `}
+  >
+    {
+      Content ? (
+        <Content />
+      ) : (
+        <p class="text-neutral-700">
+          {lang === "es"
+            ? "No hay contenido de portada todavía."
+            : "No overview content yet."}
+        </p>
+      )
+    }
+  </section>
+</AtlasLayout>

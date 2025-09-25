@@ -1,0 +1,79 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+
+interface Props {
+  lang: "es" | "en";
+  currentPath: string;
+}
+const { lang, currentPath } = Astro.props as Props;
+
+const entries = await getCollection(
+  "atlas",
+  (e: CollectionEntry<"atlas">) => !e.data.draft && e.slug.startsWith(`${lang}/`),
+);
+
+// Build a flat, ordered list with depth for indentation
+type FlatItem = {
+  title: string;
+  href: string;
+  depth: number; // 0 for top-level files, 1 for first-level subfolder files, etc.
+  order: number;
+};
+
+function prettify(segment: string) {
+  return segment.replace(/[-_]/g, " ").replace(/\b\w/g, (m) => m.toUpperCase());
+}
+
+const flatItems: FlatItem[] = entries.map((e: CollectionEntry<'atlas'>) => {
+  const rel = e.slug.replace(/^([^/]+)\//, ""); // remove lang/
+  const parts = rel.split("/");
+  const depth = Math.max(0, parts.length - 1);
+  const title = e.data.title || prettify(parts[parts.length - 1]);
+  const href = `/atlas/${lang}/${parts.join("/")}`;
+  return { title, href, depth, order: e.data.order ?? 9999 };
+});
+
+// Sort by order, then by href (which groups by folders naturally)
+flatItems.sort((a, b) => {
+  if (a.order !== b.order) return a.order - b.order;
+  // Then by href (which groups by folders naturally)
+  return a.href.localeCompare(b.href);
+});
+
+---
+
+<nav aria-label="Atlas navigation" class={`flex flex-col text-sm gap-8`}>
+
+  <ul class={`flex flex-col gap-1 rounded-2xl p-1
+             bg-orange-100 text-black dark:bg-neutral-900 dark:text-orange-100
+             [&>li]:rounded-xl [&>li]:px-3 [&>li]:py-2 [&>li]:font-semibold 
+             [&>li]:hover:bg-neutral-200 [&>li]:hover:text-orange-600
+             dark:[&>li]:hover:bg-neutral-800 dark:[&>li]:hover:text-orange-400`}>
+    <li>
+      <button>Introducción</button>
+    </li>
+    <li>
+      <button>Organos Sanos</button>
+    </li>
+    <li>
+      <button>Organos Enfermos</button>
+    </li>
+  </ul>
+
+  <ul class="flex flex-col gap-2">
+    {flatItems.map((item: FlatItem) => {
+      const isActive = currentPath.replace(/\/$/, "") === item.href;
+      return (
+        <li>
+          <a
+            href={item.href}
+            class={`block px-3 py-1 rounded-lg ${isActive ? "bg-orange-100 text-neutral-900 font-semibold" : ""}`}
+            style={`padding-left: ${8 + item.depth * 12}px;`}
+          >
+            {item.title}
+          </a>
+        </li>
+      );
+    })}
+  </ul>
+</nav>

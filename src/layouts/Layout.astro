@@ -1,5 +1,5 @@
 ---
-import '@styles/global.css';
+import "@styles/global.css";
 ---
 
 <!doctype html>
@@ -10,6 +10,12 @@ import '@styles/global.css';
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Atlas Zarigueya</title>
+		<script type="module" is:inline>
+			const theme = localStorage?.getItem("theme") || "light";
+			document.documentElement.classList.add(
+				theme === "dark" ? "dark" : "light",
+			);
+		</script>
 	</head>
 	<body>
 		<slot />
