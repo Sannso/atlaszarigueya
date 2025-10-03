@@ -17,16 +17,51 @@
     }
 
     @font-face {
-        font-family: 'ArchivoItalic';
-        src: url('/fonts/Archivo-Italic.woff2') format('woff2');
+        font-family: 'Montserrat';
+        src: url('/fonts/Montserrat-Regular.ttf') format('truetype');
         font-display: swap;
     }
 
-    
+    @font-face {
+        font-family: 'Montserrat-Medium';
+        src: url('/fonts/Montserrat-Medium.ttf') format('truetype');
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Montserrat-Thin';
+        src: url('/fonts/Montserrat-Thin.ttf') format('truetype');
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Montserrat-Light';
+        src: url('/fonts/Montserrat-Light.ttf') format('truetype');
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Montserrat-Bold';
+        src: url('/fonts/Montserrat-Bold.ttf') format('truetype');
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Montserrat-ExtraBold';
+        src: url('/fonts/Montserrat-Black.ttf') format('truetype');
+        font-display: swap;
+    }
+
 }
 
 @theme {
     --font-lexend-mega: 'LexendMega', sans-serif;
     --font-archivo: 'Archivo', sans-serif;
     --font-archivo-italic: 'ArchivoItalic', sans-serif;
+    --font-montserrat: 'Montserrat', sans-serif;
+    --font-montserrat-thin: 'Montserrat-Thin', sans-serif;
+    --font-montserrat-light: 'Montserrat-Light', sans-serif;
+    --font-montserrat-medium: 'Montserrat-Medium', sans-serif;
+    --font-montserrat-bold: 'Montserrat-Bold', sans-serif;
+    --font-montserrat-extrabold: 'Montserrat-ExtraBold', sans-serif;
 }

@@ -21,9 +21,10 @@ const { Content } = await entry.render();
 ---
 
 <AtlasLayout currentPath={Astro.url.pathname} lang={entry?.data.lang as 'es' | 'en'}>
-  <section class={`flex w-full flex-col gap-4 mx-4 md:mx-12 py-6
-                   [&>h1]:text-3xl [&>h1]:font-bold
-                   [&>h2]:text-2xl [&>h2]:font-bold
+  <section class={`flex w-full flex-col gap-4 mx-4 md:mx-12 py-6 font-montserrat
+                   [&>h1]:text-3xl [&>h1]:font-montserrat-bold 
+                   [&>h2]:text-2xl [&>h2]:font-montserrat-bold
+                   
                   `}>
     <h1 class="text-center">{entry?.data.title}</h1>
     <Content />

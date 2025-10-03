@@ -42,12 +42,14 @@ flatItems.sort((a, b) => {
 
 ---
 
-<nav aria-label="Atlas navigation" class={`flex flex-col text-sm gap-8`}>
+<nav aria-label="Atlas navigation" class={`flex flex-col text-sm tracking-wide gap-8`}>
 
-  <ul class={`flex flex-col gap-1 rounded-2xl p-1
-             bg-orange-100 text-black dark:bg-neutral-900 dark:text-orange-100
+  <ul class={`flex flex-col gap-1 rounded-2xl p-1 text-black inset-shadow-2xs
+              bg-stone-300 
+              dark:bg-neutral-900 dark:text-orange-100
+             
              [&>li]:rounded-xl [&>li]:px-3 [&>li]:py-2 [&>li]:font-semibold 
-             [&>li]:hover:bg-neutral-200 [&>li]:hover:text-orange-600
+             [&>li]:hover:bg-neutral-100 [&>li]:hover:text-orange-600
              dark:[&>li]:hover:bg-neutral-800 dark:[&>li]:hover:text-orange-400`}>
     <li>
       <button>Introducción</button>
@@ -67,7 +69,7 @@ flatItems.sort((a, b) => {
         <li>
           <a
             href={item.href}
-            class={`block px-3 py-1 rounded-lg ${isActive ? "bg-orange-100 text-neutral-900 font-semibold" : ""}`}
+            class={`block px-3 py-1 rounded-lg ${isActive ? "text-neutral-900 font-semibold" : ""}`}
             style={`padding-left: ${8 + item.depth * 12}px;`}
           >
             {item.title}

@@ -1,0 +1,57 @@
+---
+import MoonIcon from "./icons/MoonIcon.astro";
+import SunIcon from "./icons/SunIcon.astro";
+---
+
+<header
+    class={`flex items-center justify-between px-2 md:px-6 md:py-2
+           text-black dark:bg-neutral-800 dark:text-orange-100
+            shadow-md dark:border-b dark:border-neutral-900`}
+>
+    <h1 class="text-md font-bold font-montserrat-bold tracking-wider">
+        <a href="http://localhost:4321">Atlas Zarigueya</a>
+    </h1>
+    <button
+        class="cursor-pointer relative w-6 h-6"
+        id="theme-toggle"
+        type="button"
+        aria-label="Cambiar tema"
+    >
+        <div class="hide absolute top-0 left-0 transition-all delay-100 duration-500 ease-in-out" id="theme-toggle-light"><SunIcon /></div>
+        <div class="hide absolute top-0 left-0 transition-all delay-100 duration-500 ease-in-out" id="theme-toggle-dark"><MoonIcon /></div>
+    </button>
+</header>
+
+
+<style>
+    .hide {
+        opacity: 0;
+        visibility: hidden;
+    }
+</style>
+
+
+<script>
+    const theme = localStorage.getItem("theme");
+    const btnLight = document.getElementById("theme-toggle-light");
+    const btnDark = document.getElementById("theme-toggle-dark");
+    if (theme === "dark") {
+        btnDark?.classList.add("hide");
+        btnLight?.classList.remove("hide");
+    } else {
+        btnDark?.classList.remove("hide");
+        btnLight?.classList.add("hide");
+    }
+
+
+    const btn = document.getElementById("theme-toggle");
+    btn?.addEventListener("click", function () {
+        const root = document.documentElement;
+        const nowDark = !root.classList.contains("dark");
+        root.classList.toggle("dark", nowDark);
+        localStorage.setItem("theme", nowDark ? "dark" : "light");
+
+        btnDark?.classList.toggle("hide");
+        btnLight?.classList.toggle("hide");
+    });
+</script>
