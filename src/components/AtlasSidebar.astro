@@ -9,7 +9,8 @@ const { lang, currentPath } = Astro.props as Props;
 
 const entries = await getCollection(
   "atlas",
-  (e: CollectionEntry<"atlas">) => !e.data.draft && e.slug.startsWith(`${lang}/`),
+  (e: CollectionEntry<"atlas">) =>
+    !e.data.draft && e.slug.startsWith(`${lang}/`),
 );
 
 // Build a flat, ordered list with depth for indentation
@@ -18,19 +19,26 @@ type FlatItem = {
   href: string;
   depth: number; // 0 for top-level files, 1 for first-level subfolder files, etc.
   order: number;
+  tags: string[];
+};
+
+type Topic = {
+  topic: string;
+  href: string;
 };
 
 function prettify(segment: string) {
   return segment.replace(/[-_]/g, " ").replace(/\b\w/g, (m) => m.toUpperCase());
 }
 
-const flatItems: FlatItem[] = entries.map((e: CollectionEntry<'atlas'>) => {
+const flatItems: FlatItem[] = entries.map((e: CollectionEntry<"atlas">) => {
   const rel = e.slug.replace(/^([^/]+)\//, ""); // remove lang/
   const parts = rel.split("/");
   const depth = Math.max(0, parts.length - 1);
   const title = e.data.title || prettify(parts[parts.length - 1]);
   const href = `/atlas/${lang}/${parts.join("/")}`;
-  return { title, href, depth, order: e.data.order ?? 9999 };
+  const tags = e.data.tags;
+  return { title, href, depth, order: e.data.order ?? 9999, tags };
 });
 
 // Sort by order, then by href (which groups by folders naturally)
@@ -40,42 +48,72 @@ flatItems.sort((a, b) => {
   return a.href.localeCompare(b.href);
 });
 
+// Principal Box (tags)
+let principalBox: Topic[] = [];
+flatItems.forEach((item: FlatItem) => {
+  const link = item.href.split("/", 4);
+  const href =
+    link[3] == "overview" ? link.join("/") : link.join("/") + "/intro";
+  principalBox.push({ topic: item.tags[0], href });
+});
+// Remove duplicates
+principalBox = [
+  ...new Map(principalBox.map((obj) => [obj.topic, obj])).values(),
+];
+
+//console.log(flatItems);
 ---
 
-<nav aria-label="Atlas navigation" class={`flex flex-col text-sm tracking-wide gap-8`}>
-
-  <ul class={`flex flex-col gap-1 rounded-2xl p-1 text-black inset-shadow-2xs
+<nav
+  aria-label="Atlas navigation"
+  class={`flex flex-col text-sm tracking-wide gap-8`}
+>
+  <ul
+    class={`flex flex-col gap-1 rounded-2xl p-1 text-stone-700 inset-shadow-2xs
               bg-stone-300 
               dark:bg-neutral-900 dark:text-orange-100
              
-             [&>li]:rounded-xl [&>li]:px-3 [&>li]:py-2 [&>li]:font-semibold 
-             [&>li]:hover:bg-neutral-100 [&>li]:hover:text-orange-600
-             dark:[&>li]:hover:bg-neutral-800 dark:[&>li]:hover:text-orange-400`}>
-    <li>
-      <button>Introducción</button>
-    </li>
-    <li>
-      <button>Organos Sanos</button>
-    </li>
-    <li>
-      <button>Organos Enfermos</button>
-    </li>
+             [&>li]:rounded-xl [&>li]:px-3 [&>li]:py-2 [&>li]:font-semibold [&>li]:uppercase`}
+  >
+    {
+      principalBox.map((item: Topic) => {
+        const isActive = currentPath.replace(/\/$/, "") === item.href;
+        return (
+          <li
+            class={`[&>a]:capitalize ${isActive ? "text-black bg-neutral-100 dark:bg-neutral-800 dark:text-stone-100 hover:bg-neutral-100 dark:hover:bg-neutral-800" : "hover:bg-neutral-100/70 dark:hover:bg-neutral-800/30"}`}
+          >
+            <a class="block w-full" href={item.href}>
+              {item.topic}
+            </a>
+          </li>
+        );
+      })
+    }
   </ul>
 
   <ul class="flex flex-col gap-2">
-    {flatItems.map((item: FlatItem) => {
-      const isActive = currentPath.replace(/\/$/, "") === item.href;
-      return (
-        <li>
-          <a
-            href={item.href}
-            class={`block px-3 py-1 rounded-lg ${isActive ? "text-neutral-900 font-semibold" : ""}`}
-            style={`padding-left: ${8 + item.depth * 12}px;`}
-          >
-            {item.title}
-          </a>
-        </li>
-      );
-    })}
+    {
+      flatItems.map((item: FlatItem) => {
+        // Pricipal folder
+        const itemPrincipalFolder = item.href.split("/")[3];
+        const currentFolder = currentPath.split("/")[3];
+
+        // Active item
+        const isActive = currentPath.replace(/\/$/, "") === item.href;
+
+        if (itemPrincipalFolder === currentFolder) {
+          return (
+            <li>
+              <a
+                href={item.href}
+                class={`block px-3 py-1 rounded-lg ${isActive ? "text-neutral-900 dark:text-stone-200 font-semibold" : ""}`}
+              >
+                {item.title}
+              </a>
+            </li>
+          );
+        }
+      })
+    }
   </ul>
 </nav>

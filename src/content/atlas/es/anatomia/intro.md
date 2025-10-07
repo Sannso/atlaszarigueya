@@ -3,7 +3,7 @@ title: Anatomía - Introducción
 lang: es
 order: 10
 description: Conceptos básicos de anatomía de la zarigüeya.
-tags: [anatomia]
+tags: [anatomía]
 ---
 
 ## Panorama general
