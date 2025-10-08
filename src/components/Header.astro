@@ -1,15 +1,97 @@
-<header class={`flex justify-center items-center w-full max-w-6xl mx-auto
-                bg-neutral-900 text-white px-6 py-4 rounded-3xl shadow-2xl`}>
-    <div class="max-w-5xl w-full flex justify-between items-center">
-        <h1 class="w-full text-2xl font-bold text-center md:text-left">Atlas de la Zarigüeya</h1>
-        <nav class="hidden md:flex gap-4">
-            <a href="#descripcion" class="hover:underline mx-2"
-                >Descripción</a
-            >
-            <a href="#caracteristicas" class="hover:underline mx-2"
+<header
+    id="header"
+    class={`fixed top-2 left-0 right-0
+            flex justify-center items-center w-full max-w-6xl mx-auto
+            bg-white/10 backdrop-blur-lg border border-white/4
+            px-6 py-4 rounded-3xl transition-all duration-300`} 
+>
+    <div class="max-w-5xl w-full flex justify-between items-center text-stone-50">
+        <h1 class="w-full text-2xl font-bold text-center md:text-left">
+            Atlas de la Zarigüeya
+        </h1>
+        <nav class={`hidden md:flex gap-4 font-semibold [&>a]:text-stone-50/60
+                     [&>a]:hover:text-white [&>a]:hover:scale-110 [&>a]:mx-2
+                     [&>a]:transition-all [&>a]:duration-300`}>
+
+            <a href="#descripcion">Descripción</a>
+            <a href="#caracteristicas"
                 >Características</a
             >
-            <a href="#explorar" class="hover:underline mx-2">Explorar</a>
+            <a href="#explorar">Explorar</a>
         </nav>
     </div>
 </header>
+
+<style is:inline>
+    .headerFull {
+        padding-block: 0.5rem;
+        min-width: 100%;
+        animation: slideDown 1s ease-in-out both;
+    }
+
+    .headerFull div {
+        min-width: 100%;
+        animation: incWidth 1s ease-in-out both;
+    }
+
+    .headerFull h1 {
+        font-size: 1rem;
+    }
+
+    .headerFull nav a {
+        font-size: 0.9rem;
+    }
+
+    @keyframes slideDown {
+        from {
+            opacity: 0;
+            top: 0.5rem;
+            left: 0;
+            border-radius: 1.5rem;
+        }
+        to {
+            top: 0;
+            left: 0;
+            border-radius: 0;
+            opacity: 1;
+        }
+    }
+
+    @keyframes incWidth {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+</style>
+
+
+<script is:inline>
+    const header = document.getElementById("header");
+    const divHeader = header.querySelector("div");
+    const nav = divHeader.querySelector("nav");
+    const links = document.querySelectorAll("nav a");
+
+    window.addEventListener("scroll", () => {
+        if (window.scrollY > 150) {
+            header.classList.add("shadow-lg");
+            header.classList.add("headerFull");
+
+            nav.classList.add("flex");
+            links.forEach((link) => {
+                link.classList.add("text-stone-50/60");
+            });
+        } else {
+            header.classList.remove("headerFull");
+            header.classList.remove("shadow-lg");
+            nav.classList.remove("flex");
+
+
+            links.forEach((link) => {
+                link.classList.remove("text-stone-50/60");
+            });
+        }
+    });
+</script>
