@@ -1,32 +1,56 @@
 <section id="caracteristicas" class="pb-32 pt-10 px-6">
-    <div class="max-w-6xl mx-auto [&>div>div]:shadow-2xl [&>div>div]:balance-text">
-        <h3 class="text-2xl font-bold text-center mb-12">
+    <div
+        class="max-w-6xl mx-auto [&>div>div]:shadow-2xl [&>div>div]:balance-text"
+    >
+        <h3 class="text-2xl font-bold text-center mb-12 animate-jump">
             Características del Atlas
         </h3>
-        <div class="grid md:grid-cols-3 gap-14">
-            <div class="bg-neutral-100 text-neutral-900 p-6 rounded-lg shadow-xl">
+        <div id="features" class="grid md:grid-cols-3 gap-14 [&>div]:opacity-0">
+            <div
+                class="bg-neutral-100 text-neutral-900 p-6 rounded-lg shadow-xl"
+            >
                 <h4 class="font-semibold text-lg mb-2">Imágenes HD</h4>
                 <p>
                     Galerías de imágenes microscópicas y macroscópicas con
                     calidad académica.
                 </p>
             </div>
-            <div class="bg-neutral-100 text-neutral-900 p-6 rounded-lg shadow">
+            <div class="bg-neutral-100 text-neutral-900 p-6 rounded-lg shadow-xl md:delay-300">
                 <h4 class="font-semibold text-lg mb-2">
                     Anotaciones Científicas
                 </h4>
                 <p>
-                    Descripción precisa de lesiones, órganos y estructuras
-                    con terminología especializada.
+                    Descripción precisa de lesiones, órganos y estructuras con
+                    terminología especializada.
                 </p>
             </div>
-            <div class="bg-neutral-100 text-neutral-900 p-6 rounded-lg shadow">
+            <div class="bg-neutral-100 text-neutral-900 p-6 rounded-lg shadow-xl md:delay-600">
                 <h4 class="font-semibold text-lg mb-2">Acceso Abierto</h4>
                 <p>
-                    Disponible para estudiantes, docentes e investigadores
-                    sin restricciones.
+                    Disponible para estudiantes, docentes e investigadores sin
+                    restricciones.
                 </p>
             </div>
         </div>
     </div>
 </section>
+
+<script is:inline>
+    const featuresContent = document.getElementById("features");
+    const features = Array.from(featuresContent.children);
+    features.forEach((feature, index) => {
+        console.log(index);
+        const observer = new IntersectionObserver(
+            (entries) => {
+                if (entries[0].isIntersecting) {
+                    entries[0].target.classList.add("animate-card-jump-in");
+                }
+            },
+            {
+                threshold: 0.1,
+            },
+        );
+
+        observer.observe(feature);
+    });
+</script>

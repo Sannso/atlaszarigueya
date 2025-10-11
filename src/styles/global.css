@@ -65,6 +65,29 @@
     --font-montserrat-medium: 'Montserrat-Medium', sans-serif;
     --font-montserrat-bold: 'Montserrat-Bold', sans-serif;
     --font-montserrat-extrabold: 'Montserrat-ExtraBold', sans-serif;
+
+
+                        /* Animations */
+    --animate-card-jump-in: jump-in 1s ease-in-out both;
+    
+    @keyframes jump-in {
+        0% {
+            opacity: 0;
+            transform: scale(0.6);
+        }
+        25% {
+            opacity: 0.5;
+            transform: scale(0.4);
+        }
+        50% {
+            opacity: 1;
+            transform: scale(1.1);
+        }
+        100% {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
 }
 
 @theme inline {
