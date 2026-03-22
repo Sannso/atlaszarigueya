@@ -1,6 +1,10 @@
 ---
 import MoonIcon from "./icons/MoonIcon.astro";
 import SunIcon from "./icons/SunIcon.astro";
+
+const link = import.meta.env.DEV
+    ? "http://localhost:4321"
+    : "https://atlaszarigueya.vercel.app";
 ---
 
 <header
@@ -17,11 +21,20 @@ import SunIcon from "./icons/SunIcon.astro";
         type="button"
         aria-label="Cambiar tema"
     >
-        <div class="hide absolute top-0 left-0 transition-all delay-100 duration-500 ease-in-out" id="theme-toggle-light"><SunIcon /></div>
-        <div class="hide absolute top-0 left-0 transition-all delay-100 duration-500 ease-in-out" id="theme-toggle-dark"><MoonIcon /></div>
+        <div
+            class="hide absolute top-0 left-0 transition-all delay-100 duration-500 ease-in-out"
+            id="theme-toggle-light"
+        >
+            <SunIcon />
+        </div>
+        <div
+            class="hide absolute top-0 left-0 transition-all delay-100 duration-500 ease-in-out"
+            id="theme-toggle-dark"
+        >
+            <MoonIcon />
+        </div>
     </button>
 </header>
-
 
 <style>
     .hide {
@@ -29,7 +42,6 @@ import SunIcon from "./icons/SunIcon.astro";
         visibility: hidden;
     }
 </style>
-
 
 <script>
     const theme = localStorage.getItem("theme");
@@ -42,7 +54,6 @@ import SunIcon from "./icons/SunIcon.astro";
         btnDark?.classList.remove("hide");
         btnLight?.classList.add("hide");
     }
-
 
     const btn = document.getElementById("theme-toggle");
     btn?.addEventListener("click", function () {

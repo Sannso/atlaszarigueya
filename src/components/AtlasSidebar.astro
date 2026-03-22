@@ -25,6 +25,7 @@ type FlatItem = {
 type Topic = {
   topic: string;
   href: string;
+  link: string;
 };
 
 function prettify(segment: string) {
@@ -54,7 +55,8 @@ flatItems.forEach((item: FlatItem) => {
   const link = item.href.split("/", 4);
   const href =
     link[3] == "overview" ? link.join("/") : link.join("/") + "/intro";
-  principalBox.push({ topic: item.tags[0], href });
+  //const flagForActive = link;
+  principalBox.push({ topic: item.tags[0], href, link: link.join("/") });
 });
 // Remove duplicates
 principalBox = [
@@ -77,7 +79,7 @@ principalBox = [
   >
     {
       principalBox.map((item: Topic) => {
-        const isActive = currentPath.replace(/\/$/, "") === item.href;
+        const isActive = currentPath.split("/", 4).join("/") === item.link;
         return (
           <li
             class={`[&>a]:capitalize ${isActive ? "text-black bg-neutral-100 dark:bg-neutral-800 dark:text-stone-100 hover:bg-neutral-100 dark:hover:bg-neutral-800" : "hover:bg-neutral-100/70 dark:hover:bg-neutral-800/30"}`}
