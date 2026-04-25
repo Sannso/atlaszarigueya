@@ -1,0 +1,245 @@
+---
+// SistemaTegumentario.astro - Componente para el sistema tegumentario con subcontenido
+---
+
+<div class="subcontent-wrapper">
+  <div class="subcontent-buttons mb-8">
+    <div class="flex flex-wrap gap-3 justify-center">
+      <button 
+        class="subcontent-btn px-6 py-3 rounded-lg font-medium transition-all duration-300 bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600"
+        data-target="pelaje"
+        onclick="showSubcontent('pelaje')"
+      >
+        <div class="text-center">
+          <div class="font-semibold">Pelaje</div>
+          <div class="text-xs opacity-75 mt-1">Tipos y características</div>
+        </div>
+      </button>
+
+      <button 
+        class="subcontent-btn active px-6 py-3 rounded-lg font-medium transition-all duration-300 bg-blue-600 text-white shadow-lg transform scale-105"
+        data-target="piel"
+        onclick="showSubcontent('piel')"
+      >
+        <div class="text-center">
+          <div class="font-semibold">Piel</div>
+          <div class="text-xs opacity-75 mt-1">Estructura y funciones</div>
+        </div>
+      </button>
+      
+      
+      <button 
+        class="subcontent-btn px-6 py-3 rounded-lg font-medium transition-all duration-300 bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600"
+        data-target="glandulas"
+        onclick="showSubcontent('glandulas')"
+      >
+        <div class="text-center">
+          <div class="font-semibold">Glándulas</div>
+          <div class="text-xs opacity-75 mt-1">Sudoríparas y sebáceas</div>
+        </div>
+      </button>
+    </div>
+  </div>
+
+  <div class="subcontent-container min-h-[300px]">
+    <div id="subcontent-piel" class="subcontent-panel">
+      <h2>Piel</h2>
+      
+      <p>La piel de la zarigüeya es una estructura compleja que cumple múltiples funciones vitales para el organismo.</p>
+      
+      <h3>Estructura</h3>
+      
+      <p>La piel se compone de tres capas principales:</p>
+      
+      <ul>
+        <li><strong>Epidermis</strong>: Capa externa delgada que protege contra el ambiente</li>
+        <li><strong>Dermis</strong>: Capa intermedia con vasos sanguíneos, nervios y folículos pilosos</li>
+        <li><strong>Hipodermis</strong>: Capa subcutánea de tejido adiposo que proporciona aislamiento</li>
+      </ul>
+      
+      <h3>Características específicas de la zarigüeya</h3>
+      
+      <ul>
+        <li>Piel relativamente delgada y flexible</li>
+        <li>Alta densidad de glándulas sudoríparas y sebáceas</li>
+        <li>Capacidad de regeneración rápida</li>
+        <li>Pigmentación adaptativa al entorno</li>
+      </ul>
+      
+      <h3>Funciones</h3>
+      
+      <ol>
+        <li><strong>Protección</strong>: Barrera contra microorganismos y elementos externos</li>
+        <li><strong>Termorregulación</strong>: Control de temperatura corporal</li>
+        <li><strong>Sensación</strong>: Recepción de estímulos táctiles, térmicos y dolorosos</li>
+        <li><strong>Excreción</strong>: Eliminación de toxinas a través del sudor</li>
+        <li><strong>Síntesis</strong>: Producción de vitamina D por exposición solar</li>
+      </ol>
+      
+      <blockquote>
+        <p>La piel de la zarigüeya presenta adaptaciones especiales que le permiten sobrevivir en diversos ambientes, desde zonas tropicales hasta áreas más templadas.</p>
+      </blockquote>
+    </div>
+
+    <div id="subcontent-pelaje" class="subcontent-panel hidden">
+      <h2>Pelaje</h2>
+      
+      <p>El pelaje de la zarigüeya es una característica distintiva que cumple funciones importantes para su supervivencia.</p>
+      
+      <h3>Tipos de pelo</h3>
+      
+      <p>El pelaje se compone de diferentes tipos de pelos:</p>
+      
+      <ul>
+        <li><strong>Pelo de guarda</strong>: Largo y grueso, proporciona protección principal</li>
+        <li><strong>Pelo lanoso</strong>: Corto y denso, ofrece aislamiento térmico</li>
+        <li><strong>Vibrisas</strong>: Pelos sensoriales táctiles en la cara y patas</li>
+      </ul>
+      
+      <h3>Características del pelaje de zarigüeya</h3>
+      
+      <ul>
+        <li>Coloración variable: grisáceo, parduzco o negruzco</li>
+        <li>Textura gruesa y áspera</li>
+        <li>Mayor longitud en la espalda y cola</li>
+        <li>Cambios estacionales en densidad</li>
+      </ul>
+      
+      <h3>Funciones del pelaje</h3>
+      
+      <ol>
+        <li><strong>Aislamiento térmico</strong>: Regulación de temperatura corporal</li>
+        <li><strong>Protección</strong>: Defensa contra elementos y depredadores</li>
+        <li><strong>Camuflaje</strong>: Adaptación al entorno</li>
+        <li><strong>Comunicación</strong>: Expresión de estados emocionales</li>
+        <li><strong>Sensorial</strong>: Detección del entorno a través de vibrisas</li>
+      </ol>
+      
+      <h3>Patrones de coloración</h3>
+      
+      <ul>
+        <li><strong>Dorso</strong>: Generalmente más oscuro que el vientre</li>
+        <li><strong>Vientre</strong>: Coloración más clara, blancuzca o grisácea</li>
+        <li><strong>Cola</strong>: Pelaje más denso y oscuro</li>
+        <li><strong>Cara</strong>: Parches faciales característicos</li>
+      </ul>
+      
+      <blockquote>
+        <p>El pelaje de la zarigüeya puede presentar variaciones regionales según el hábitat y las condiciones ambientales locales.</p>
+      </blockquote>
+    </div>
+
+    <div id="subcontent-glandulas" class="subcontent-panel hidden">
+      <h2>Glándulas</h2>
+      
+      <p>El sistema tegumentario de la zarigüeya contiene diversas glándulas especializadas con funciones específicas.</p>
+      
+      <h3>Tipos de glándulas</h3>
+      
+      <h4>Glándulas Sudoríparas</h4>
+      <ul>
+        <li><strong>Distribución</strong>: Principalmente en patas y abdomen</li>
+        <li><strong>Función</strong>: Termorregulación y excreción</li>
+        <li><strong>Características</strong>: Pequeñas y dispersas</li>
+      </ul>
+      
+      <h4>Glándulas Sebáceas</h4>
+      <ul>
+        <li><strong>Ubicación</strong>: Asociadas a folículos pilosos</li>
+        <li><strong>Función</strong>: Lubricación e impermeabilización</li>
+        <li><strong>Secreción</strong>: Sebo con propiedades protectoras</li>
+      </ul>
+      
+      <h4>Glándulas Scent (Oloríferas)</h4>
+      <ul>
+        <li><strong>Localización</strong>: Base de la cola, axilas y región perineal</li>
+        <li><strong>Función</strong>: Marcado territorial y comunicación</li>
+        <li><strong>Importancia</strong>: Comportamiento social y reproducción</li>
+      </ul>
+      
+      <h3>Glándulas especializadas de la zarigüeya</h3>
+      
+      <ol>
+        <li><strong>Glándulas anales</strong>: Producción de secreciones defensivas</li>
+        <li><strong>Glándulas mamarias</strong>: Desarrollo durante lactancia</li>
+        <li><strong>Glándulas perineales</strong>: Marcado territorial</li>
+      </ol>
+      
+      <h3>Funciones glandulares</h3>
+      
+      <ul>
+        <li><strong>Defensa</strong>: Producción de olores desagradables</li>
+        <li><strong>Comunicación</strong>: Señales químicas entre individuos</li>
+        <li><strong>Protección</strong>: Mantenimiento de la piel y pelaje</li>
+        <li><strong>Reproducción</strong>: Atracción de parejas</li>
+      </ul>
+      
+      <h3>Regulación hormonal</h3>
+      
+      <p>La actividad glandular está controlada por:</p>
+      <ul>
+        <li>Hormonas del estrés</li>
+        <li>Hormonas reproductivas</li>
+        <li>Factores ambientales</li>
+        <li>Estado nutricional</li>
+      </ul>
+      
+      <blockquote>
+        <p>Las glándulas scent de la zarigüeya son particularmente importantes para su comportamiento territorial y social, desempeñando un papel crucial en la comunicación intraespecífica.</p>
+      </blockquote>
+    </div>
+  </div>
+</div>
+
+<style>
+  .subcontent-btn {
+    border: 2px solid transparent;
+    cursor: pointer;
+    min-width: 120px;
+  }
+  
+  .subcontent-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .subcontent-panel {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+  
+  .subcontent-panel.hidden {
+    display: none;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
+<script>
+  function showSubcontent(targetId: string) {
+    // Ocultar todos los paneles
+    const panels = document.querySelectorAll('.subcontent-panel');
+    panels.forEach(panel => panel.classList.add('hidden'));
+    
+    // Mostrar el panel seleccionado
+    const selectedPanel = document.getElementById(`subcontent-${targetId}`);
+    if (selectedPanel) {
+      selectedPanel.classList.remove('hidden');
+    }
+    
+    // Actualizar estado de los botones
+    const buttons = document.querySelectorAll('.subcontent-btn');
+    buttons.forEach((btn) => {
+      const buttonElement = btn as HTMLElement;
+      if (buttonElement.dataset.target === targetId) {
+        buttonElement.classList.add('bg-blue-600', 'text-white', 'shadow-lg', 'transform', 'scale-105');
+        buttonElement.classList.remove('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200', 'dark:bg-gray-700', 'dark:text-gray-300', 'dark:hover:bg-gray-600');
+      } else {
+        buttonElement.classList.remove('bg-blue-600', 'text-white', 'shadow-lg', 'transform', 'scale-105');
+        buttonElement.classList.add('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200', 'dark:bg-gray-700', 'dark:text-gray-300', 'dark:hover:bg-gray-600');
+      }
+    });
+  }
+</script>

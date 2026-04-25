@@ -1,32 +1,136 @@
 ---
 import AtlasLayout from "@layouts/AtlasLayout.astro";
-import { getCollection } from 'astro:content';
-
+import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
-  const all = await getCollection('atlas');
+  const all = await getCollection("atlas");
 
   return all.map((entry) => {
-    const parts = entry.slug.split('/'); // e.g., ['es','anatomia','intro']
+    const parts = entry.slug.split("/"); // e.g., ['es','anatomia','intro']
     const lang = parts[0];
     // For a rest parameter, slug must be an array of segments
-    return { params: { lang, slug: parts.slice(1).join('/') }, props: { entry } };
+    return {
+      params: { lang, slug: parts.slice(1).join("/") },
+      props: { entry },
+    };
   });
 }
 
-
 const { entry } = Astro.props;
 const { Content } = await entry.render();
-
 ---
 
-<AtlasLayout currentPath={Astro.url.pathname} lang={entry?.data.lang as 'es' | 'en'}>
-  <section class={`flex w-full flex-col gap-4 mx-4 md:mx-12 py-6 font-montserrat
+<AtlasLayout
+  currentPath={Astro.url.pathname}
+  lang={entry?.data.lang as "es" | "en"}
+>
+  <section
+    class={`flex w-full flex-col gap-4 mx-4 md:mx-12 py-6 font-montserrat
                    [&>h1]:text-3xl [&>h1]:font-montserrat-bold 
                    [&>h2]:text-2xl [&>h2]:font-montserrat-bold
-                   
-                  `}>
+                   [&>h3]:text-xl
+                  `}
+  >
     <h1 class="text-center">{entry?.data.title}</h1>
     <Content />
   </section>
+
+  <!-- Image Modal -->
+  <div id="imageModal" class="fixed inset-0 z-50 hidden opacity-0 transition-opacity duration-300">
+    <div class="absolute inset-0 bg-black bg-opacity-90 backdrop-blur-sm" onclick="closeImageModal()"></div>
+    <div class="relative h-full flex items-center justify-center p-4 pb-0">
+      <button id="closeModalButton" class="absolute top-4 right-4 text-white hover:text-gray-300 transition-colors z-10">
+        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+      <div class="relative max-w-6xl max-h-full">
+        <img
+          id="modalImage"
+          src=""
+          alt=""
+          class="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
+        />
+        <div
+          class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-6"
+        >
+          <h3 id="modalTitle" class="text-white text-xl font-semibold mb-2">
+          </h3>
+          <p id="modalDescription" class="text-gray-200 text-sm"></p>
+        </div>
+      </div>
+    </div>
+  </div>
 </AtlasLayout>
+
+<script>
+  function openImageModal(imgSrc: string, title: string, description: string) {
+    const modal = document.getElementById("imageModal");
+    const modalImg = document.getElementById("modalImage") as HTMLImageElement;
+    const modalTitle = document.getElementById("modalTitle");
+    const modalDescription = document.getElementById("modalDescription");
+
+    if (modalImg && modalTitle && modalDescription && modal) {
+      modalImg.src = imgSrc;
+      modalImg.alt = title;
+      modalTitle.textContent = title;
+      modalDescription.textContent = description;
+
+      modal.classList.remove("hidden");
+      document.body.style.overflow = "hidden";
+
+      // Add animation
+      requestAnimationFrame(() => {
+        modal.classList.remove("opacity-0");
+        modal.classList.add("opacity-100");
+      });
+    }
+  }
+
+  function closeImageModal() {
+    const modal = document.getElementById("imageModal");
+    if (modal) {
+      modal.classList.remove("opacity-100");
+      modal.classList.add("opacity-0");
+
+      setTimeout(() => {
+        modal.classList.add("hidden");
+        document.body.style.overflow = "auto";
+      }, 300);
+    }
+  }
+
+  // Add click handlers to all image cards
+  document.addEventListener("DOMContentLoaded", function () {
+    const imageCards = document.querySelectorAll(".image-card");
+    const modal = document.getElementById("imageModal");
+    const closeButton = document.getElementById("closeModalButton");
+
+    imageCards.forEach((card) => {
+      card.addEventListener("click", function (this: HTMLElement) {
+        const img = this.querySelector("img") as HTMLImageElement;
+        const title = this.querySelector("h4")?.textContent || "";
+        const description = this.querySelector("p")?.textContent || "";
+
+        if (img && img.src) {
+          openImageModal(img.src, title, description);
+        }
+      });
+    });
+
+    // Close modal with Escape key
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") {
+        closeImageModal();
+      }
+    });
+
+    // Close modal with X button click
+    if (closeButton) {
+      closeButton.addEventListener("click", function(e) {
+        e.stopPropagation();
+        closeImageModal();
+      });
+    }
+  });
+</script>

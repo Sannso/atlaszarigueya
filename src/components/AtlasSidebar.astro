@@ -39,8 +39,11 @@ const flatItems: FlatItem[] = entries.map((e: CollectionEntry<"atlas">) => {
   const title = e.data.title || prettify(parts[parts.length - 1]);
   const href = `/atlas/${lang}/${parts.join("/")}`;
   const tags = e.data.tags;
-  return { title, href, depth, order: e.data.order ?? 9999, tags };
-});
+  if (tags.length < 2) {
+    return { title, href, depth, order: e.data.order ?? 9999, tags };
+  }
+  return undefined;
+}).filter((item) => item !== undefined) as FlatItem[];
 
 // Sort by order, then by href (which groups by folders naturally)
 flatItems.sort((a, b) => {

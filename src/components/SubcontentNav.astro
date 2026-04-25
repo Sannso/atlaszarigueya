@@ -1,0 +1,109 @@
+---
+interface SubcontentItem {
+  id: string;
+  title: string;
+  description: string;
+}
+
+interface Props {
+  items: SubcontentItem[];
+  activeId?: string;
+}
+
+const { items, activeId } = Astro.props;
+---
+
+<div class="subcontent-nav mb-8">
+  <div class="flex flex-wrap gap-3 justify-center">
+    {items.map((item) => (
+      <button
+        class={`subcontent-btn px-6 py-3 rounded-lg font-medium transition-all duration-300 ${
+          activeId === item.id
+            ? 'bg-blue-600 text-white shadow-lg transform scale-105'
+            : 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600'
+        }`}
+        data-subcontent={item.id}
+        onclick={`showSubcontent('${item.id}')`}
+      >
+        <div class="text-center">
+          <div class="font-semibold">{item.title}</div>
+          <div class="text-xs opacity-75 mt-1">{item.description}</div>
+        </div>
+      </button>
+    ))}
+  </div>
+</div>
+
+<div id="subcontent-container" class="subcontent-container">
+  {items.map((item) => (
+    <div
+      id={`subcontent-${item.id}`}
+      class={`subcontent-panel ${
+        activeId === item.id ? 'block' : 'hidden'
+      }`}
+    >
+      <slot name={`subcontent-${item.id}`} />
+    </div>
+  ))}
+</div>
+
+<style>
+  .subcontent-btn {
+    border: 2px solid transparent;
+    cursor: pointer;
+    min-width: 120px;
+  }
+  
+  .subcontent-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .subcontent-container {
+    min-height: 300px;
+  }
+  
+  .subcontent-panel {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
+<script>
+  function showSubcontent(id: string) {
+    // Ocultar todos los paneles
+    const panels = document.querySelectorAll('.subcontent-panel');
+    panels.forEach(panel => panel.classList.add('hidden'));
+    
+    // Mostrar el panel seleccionado
+    const selectedPanel = document.getElementById(`subcontent-${id}`);
+    if (selectedPanel) {
+      selectedPanel.classList.remove('hidden');
+    }
+    
+    // Actualizar estado de los botones
+    const buttons = document.querySelectorAll('.subcontent-btn');
+    buttons.forEach((btn) => {
+      const buttonElement = btn as HTMLElement;
+      if (buttonElement.dataset.subcontent === id) {
+        buttonElement.classList.add('bg-blue-600', 'text-white', 'shadow-lg', 'transform', 'scale-105');
+        buttonElement.classList.remove('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200', 'dark:bg-gray-700', 'dark:text-gray-300', 'dark:hover:bg-gray-600');
+      } else {
+        buttonElement.classList.remove('bg-blue-600', 'text-white', 'shadow-lg', 'transform', 'scale-105');
+        buttonElement.classList.add('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200', 'dark:bg-gray-700', 'dark:text-gray-300', 'dark:hover:bg-gray-600');
+      }
+    });
+  }
+  
+  // Inicializar con el primer subcontenido
+  document.addEventListener('DOMContentLoaded', () => {
+    const firstBtn = document.querySelector('.subcontent-btn') as HTMLElement;
+    if (firstBtn && firstBtn.dataset.subcontent) {
+      showSubcontent(firstBtn.dataset.subcontent);
+    }
+  });
+</script>

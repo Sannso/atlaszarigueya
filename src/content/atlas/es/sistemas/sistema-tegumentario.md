@@ -10,9 +10,13 @@ tags: [sistemas]
 
 El sistema tegumentario incluye la piel, el pelaje y las glándulas, desempeñando funciones de protección, termorregulación y sensación en la zarigüeya.
 
-### Contenidos sugeridos
-- Estructura de la piel y pelaje
-- Glándulas sudoríparas y sebáceas
-- Funciones del tegumento
+## Importancia del sistema tegumentario
 
-> Añade esquemas, tablas de estructuras y enlaces cruzados a otros sistemas.
+El sistema tegumentario es fundamental para la supervivencia de la zarigüeya, proporcionando:
+
+- **Adaptación ambiental**: Capacidad para responder a cambios climáticos
+- **Defensa**: Protección contra patógenos y depredadores
+- **Comunicación**: Interacción social con otros individuos
+- **Homeostasis**: Mantenimiento del equilibrio corporal
+
+Este sistema representa una de las adaptaciones más importantes que han permitido a las zarigüeyas colonizar diversos hábitats en el continente americano.

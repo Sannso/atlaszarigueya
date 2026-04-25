@@ -1,0 +1,191 @@
+---
+export interface Props {
+  organName: string;
+  organTitle: string;
+  description: string;
+  href: string;
+  imageUrl?: string;
+  system?: string;
+}
+
+const { organName, organTitle, description, href, imageUrl, system } = Astro.props;
+---
+
+<a href={href} class="organ-card">
+  <div class="card-content">
+    <div class="card-header">
+      <div class="organ-icon">
+        {imageUrl ? (
+          <img src={imageUrl} alt={`${organTitle} icon`} class="organ-image" />
+        ) : (
+          <div class="organ-placeholder">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        )}
+      </div>
+      <div class="organ-info">
+        <h3 class="organ-title">{organTitle}</h3>
+        {system && <span class="system-tag">{system}</span>}
+      </div>
+    </div>
+    
+    <p class="organ-description">{description}</p>
+    
+    <div class="card-footer">
+      <span class="view-more">Ver más</span>
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M6 3L11 8L6 13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+  </div>
+</a>
+
+<style>
+  .organ-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 24px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .organ-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+    transform: translateY(-100%);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .organ-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border-color: #d1d5db;
+  }
+
+  .organ-card:hover::before {
+    transform: translateY(0);
+  }
+
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap: 16px;
+  }
+
+  .card-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .organ-icon {
+    flex-shrink: 0;
+    width: 56px;
+    height: 56px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #f3f4f6, #e5e7eb);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .organ-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .organ-placeholder {
+    color: #6b7280;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .organ-info {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .organ-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #111827;
+    margin: 0 0 8px 0;
+    line-height: 1.2;
+  }
+
+  .system-tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #6b7280;
+    background: #f3f4f6;
+    padding: 4px 8px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .organ-description {
+    color: #6b7280;
+    line-height: 1.6;
+    margin: 0;
+    flex: 1;
+    font-size: 0.95rem;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: auto;
+    padding-top: 8px;
+  }
+
+  .view-more {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #3b82f6;
+  }
+
+  .card-footer svg {
+    color: #3b82f6;
+    transition: transform 0.2s ease;
+  }
+
+  .organ-card:hover .card-footer svg {
+    transform: translateX(2px);
+  }
+
+  @media (max-width: 768px) {
+    .organ-card {
+      padding: 20px;
+    }
+    
+    .organ-icon {
+      width: 48px;
+      height: 48px;
+    }
+    
+    .organ-title {
+      font-size: 1.125rem;
+    }
+  }
+</style>
