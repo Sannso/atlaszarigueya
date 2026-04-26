@@ -1,7 +1,7 @@
 ---
 title: Sistema Linfático
 lang: es
-order: 7
+order: 30
 description: Ganglios, vasos linfáticos y sistema inmunológico en la zarigüeya.
 tags: [sistemas]
 ---

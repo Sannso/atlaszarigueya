@@ -1,7 +1,7 @@
 ---
 title: Sistema Digestivo
 lang: es
-order: 6
+order: 20
 description: Órganos digestivos y procesos de digestión en la zarigüeya.
 tags: [sistemas]
 ---

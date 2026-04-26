@@ -1,9 +1,9 @@
 ---
 title: Sistema Cavidades
 lang: es
-order: 7
+order: 3
 description: Cavidades corporales en la zarigüeya.
-tags: [sistemas]
+tags: [cavidades]
 ---
 
 ## Visión general

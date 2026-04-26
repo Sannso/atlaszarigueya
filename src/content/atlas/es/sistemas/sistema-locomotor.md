@@ -1,7 +1,7 @@
 ---
 title: Sistema Locomotor
 lang: es
-order: 8
+order: 40
 description: Huesos, músculos y articulaciones en la zarigüeya.
 tags: [sistemas]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sistema Tegumentario
 lang: es
-order: 3
+order: 70
 description: Piel, pelaje, glándulas y funciones del tegumento de la zarigüeya.
 tags: [sistemas]
 ---

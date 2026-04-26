@@ -1,7 +1,7 @@
 ---
 title: Sistema Urinario
 lang: es
-order: 9
+order: 80
 description: Riñones, uréteres y vejiga en la zarigüeya.
 tags: [sistemas]
 ---

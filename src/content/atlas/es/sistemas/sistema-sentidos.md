@@ -1,7 +1,7 @@
 ---
-title: Sistema Nervioso y Órganos de los Sentidos
+title: Órganos de los Sentidos
 lang: es
-order: 5
+order: 90
 description: Cerebro, médula espinal y receptores sensoriales en la zarigüeya.
 tags: [sistemas]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Cambios Postmortem - Introducción
 lang: es
-order: 60
+order: 4
 description: Conceptos básicos de cambios postmortem de la zarigüeya.
 tags: [cambios postmortem]
 ---

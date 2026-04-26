@@ -2,8 +2,10 @@
 // People.astro - Componente para mostrar el equipo del proyecto
 ---
 
-<section class="people-section py-16 px-4 bg-gray-50">
-  <div class="max-w-6xl mx-auto">
+<section class="people-section py-16 px-4 bg-cover bg-center bg-no-repeat relative">
+  <div class="absolute inset-0 bg-[url('/images/atlas/general/bgPeople.jpg')] bg-cover bg-center bg-no-repeat top-1.5" style="filter: blur(3px);"></div>
+  <div class="absolute inset-0 bg-gradient-to-b from-[#F0F8E8] via-[#F8FCF4] to-[#F8FCF4] via-transparent to-transparent z-10"></div>
+  <div class="max-w-6xl mx-auto relative z-40">
     
     <!-- Título de la sección -->
     <h2 class="text-4xl font-bold text-center mb-4 text-gray-800">Nuestro Equipo</h2>
@@ -17,9 +19,9 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         
         <!-- Investigadora 1 -->
-        <div class="person-card bg-white rounded-lg shadow-md p-6 text-center">
-          <div class="w-32 h-32 mx-auto mb-4 bg-gray-200 rounded-full flex items-center justify-center">
-            <svg class="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <div class="person-card bg-blue-50 rounded-lg shadow-md p-6 text-center">
+          <div class="w-32 h-32 mx-auto mb-4 bg-blue-100 rounded-full flex items-center justify-center">
+            <svg class="w-16 h-16 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/>
             </svg>
           </div>
@@ -30,9 +32,9 @@
         </div>
 
         <!-- Investigadora 2 -->
-        <div class="person-card bg-white rounded-lg shadow-md p-6 text-center">
-          <div class="w-32 h-32 mx-auto mb-4 bg-gray-200 rounded-full flex items-center justify-center">
-            <svg class="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <div class="person-card bg-blue-50 rounded-lg shadow-md p-6 text-center">
+          <div class="w-32 h-32 mx-auto mb-4 bg-blue-100 rounded-full flex items-center justify-center">
+            <svg class="w-16 h-16 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/>
             </svg>
           </div>
@@ -43,9 +45,9 @@
         </div>
 
         <!-- Investigadora 3 -->
-        <div class="person-card bg-white rounded-lg shadow-md p-6 text-center">
-          <div class="w-32 h-32 mx-auto mb-4 bg-gray-200 rounded-full flex items-center justify-center">
-            <svg class="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <div class="person-card bg-blue-50 rounded-lg shadow-md p-6 text-center">
+          <div class="w-32 h-32 mx-auto mb-4 bg-blue-100 rounded-full flex items-center justify-center">
+            <svg class="w-16 h-16 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/>
             </svg>
           </div>
@@ -63,9 +65,9 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
         
         <!-- Docente 1 -->
-        <div class="person-card bg-white rounded-lg shadow-md p-6 text-center">
-          <div class="w-32 h-32 mx-auto mb-4 bg-gray-200 rounded-full flex items-center justify-center">
-            <svg class="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <div class="person-card bg-gray-200 rounded-lg shadow-md p-6 text-center">
+          <div class="w-32 h-32 mx-auto mb-4 bg-gray-300 rounded-full flex items-center justify-center">
+            <svg class="w-16 h-16 text-gray-600" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/>
             </svg>
           </div>
@@ -76,9 +78,9 @@
         </div>
 
         <!-- Docente 2 -->
-        <div class="person-card bg-white rounded-lg shadow-md p-6 text-center">
-          <div class="w-32 h-32 mx-auto mb-4 bg-gray-200 rounded-full flex items-center justify-center">
-            <svg class="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <div class="person-card bg-gray-200 rounded-lg shadow-md p-6 text-center">
+          <div class="w-32 h-32 mx-auto mb-4 bg-gray-300 rounded-full flex items-center justify-center">
+            <svg class="w-16 h-16 text-gray-600" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/>
             </svg>
           </div>
@@ -96,9 +98,9 @@
       <div class="grid grid-cols-2 md:grid-cols-2 gap-8 max-w-3xl mx-auto">
         
         <!-- Institución 1 -->
-        <div class="institution-card bg-white rounded-lg shadow-md p-8 text-center">
-          <div class="w-24 h-24 mx-auto mb-4 bg-gray-200 rounded-lg flex items-center justify-center">
-            <svg class="w-12 h-12 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <div class="institution-card bg-blue-50 rounded-lg shadow-md p-8 text-center">
+          <div class="w-24 h-24 mx-auto mb-4 bg-blue-100 rounded-lg flex items-center justify-center">
+            <svg class="w-12 h-12 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
               <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.968 8.968 0 00-5.35 2.524 1 1 0 01-1.4 0zM6 18a1 1 0 001-1v-2.065a8.935 8.935 0 00-2-.712V17a1 1 0 001 1z"/>
             </svg>
           </div>
@@ -107,9 +109,9 @@
         </div>
 
         <!-- Institución 2 -->
-        <div class="institution-card bg-white rounded-lg shadow-md p-8 text-center">
-          <div class="w-24 h-24 mx-auto mb-4 bg-gray-200 rounded-lg flex items-center justify-center">
-            <svg class="w-12 h-12 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <div class="institution-card bg-blue-50 rounded-lg shadow-md p-8 text-center">
+          <div class="w-24 h-24 mx-auto mb-4 bg-blue-100 rounded-lg flex items-center justify-center">
+            <svg class="w-12 h-12 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
               <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.968 8.968 0 00-5.35 2.524 1 1 0 01-1.4 0zM6 18a1 1 0 001-1v-2.065a8.935 8.935 0 00-2-.712V17a1 1 0 001 1z"/>
             </svg>
           </div>

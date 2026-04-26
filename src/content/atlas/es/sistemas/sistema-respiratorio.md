@@ -1,7 +1,7 @@
 ---
 title: Sistema Respiratorio
 lang: es
-order: 5
+order: 60
 description: Vías respiratorias y mecanismos de ventilación en la zarigüeya.
 tags: [sistemas]
 ---

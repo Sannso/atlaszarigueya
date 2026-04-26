@@ -1,7 +1,7 @@
 ---
 title: Sistema Cardiovascular
 lang: es
-order: 4
+order: 10
 description: Corazón, vasos sanguíneos y circulación en la zarigüeya.
 tags: [sistemas]
 ---
