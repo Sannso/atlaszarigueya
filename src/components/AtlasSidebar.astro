@@ -71,12 +71,11 @@ principalBox = [
 
 <nav
   aria-label="Atlas navigation"
-  class={`flex flex-col text-sm tracking-wide gap-8`}
+  class={`flex flex-col w-full h-full text-sm tracking-wide gap-8 bg-[#FFDAB9]/20 px-4 md:px-6 py-6`}
 >
   <ul
-    class={`flex flex-col gap-1 rounded-2xl p-1 text-stone-700 inset-shadow-2xs
-              bg-stone-300 
-              dark:bg-neutral-900 dark:text-orange-100
+    class={`flex flex-col gap-1 rounded-xl p-1 text-stone-700 inset-shadow-2xs
+              bg-[#FFDAB9]/60 dark:bg-stone-800/70
              
              [&>li]:rounded-xl [&>li]:px-3 [&>li]:py-2 [&>li]:font-semibold [&>li]:uppercase`}
   >
@@ -85,7 +84,7 @@ principalBox = [
         const isActive = currentPath.split("/", 4).join("/") === item.link;
         return (
           <li
-            class={`[&>a]:capitalize ${isActive ? "text-black bg-neutral-100 dark:bg-neutral-800 dark:text-stone-100 hover:bg-neutral-100 dark:hover:bg-neutral-800" : "hover:bg-neutral-100/70 dark:hover:bg-neutral-800/30"}`}
+            class={`[&>a]:capitalize transition-colors ${isActive ? "text-stone-800 bg-[#FF9B71]/60 dark:bg-[#FF9B71]/80 dark:text-stone-100 hover:bg-[#FF9B71]/70 dark:hover:bg-[#FF9B71]/90" : "hover:bg-[#FF9B71]/30 dark:hover:bg-[#FF9B71]/40 dark:text-stone-100/70"}`}
           >
             <a class="block w-full" href={item.href}>
               {item.topic}
@@ -111,7 +110,7 @@ principalBox = [
             <li>
               <a
                 href={item.href}
-                class={`block px-3 py-1 rounded-lg ${isActive ? "text-neutral-900 dark:text-stone-200 font-semibold" : ""}`}
+                class={`block px-3 py-1 rounded-lg transition-colors ${isActive ? "text-stone-800 dark:text-stone-100 font-semibold bg-[#FF9B71]/40 dark:bg-[#FF9B71]/60" : "hover:bg-[#FF9B71]/20 dark:hover:bg-[#FF9B71]/30"}`}
               >
                 {item.title}
               </a>
