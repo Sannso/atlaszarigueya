@@ -15,12 +15,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Glándulas Saludables</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/normal/2.png" 
                alt="Glándula Normal 1" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula Normal 1</h4>
@@ -31,12 +31,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/normal/2_1.png" 
                alt="Glándula Normal 2" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula Normal 2</h4>
@@ -47,12 +47,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>    
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/normal/4.png" 
                alt="Glándula Normal 3" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula Normal 3</h4>
@@ -63,12 +63,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/normal/6.png" 
                alt="Glándula Normal 4" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula Normal 4</h4>
@@ -79,12 +79,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/normal/6_1.png" 
                alt="Glándula Normal 5" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula Normal 5</h4>
@@ -95,12 +95,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/normal/6_2.png" 
                alt="Glándula Normal 6" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula Normal 6</h4>
@@ -111,12 +111,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/normal/8.png" 
                alt="Glándula Normal 7" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula Normal 7</h4>
@@ -135,12 +135,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/1.png" 
                alt="Patología Glandular 1" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 1</h4>
@@ -151,12 +151,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19.png" 
                alt="Patología Glandular 2" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 2</h4>
@@ -167,12 +167,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19_1.png" 
                alt="Patología Glandular 3" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 3</h4>
@@ -183,12 +183,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19_2.png" 
                alt="Patología Glandular 4" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 4</h4>
@@ -199,12 +199,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19_3.png" 
                alt="Patología Glandular 5" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 5</h4>
@@ -215,12 +215,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19_4.png" 
                alt="Patología Glandular 6" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 6</h4>
@@ -231,12 +231,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19_5.png" 
                alt="Patología Glandular 7" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 7</h4>
@@ -247,12 +247,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19_6.png" 
                alt="Patología Glandular 8" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 8</h4>
@@ -263,12 +263,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/19_7.png" 
                alt="Patología Glandular 9" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 9</h4>
@@ -279,12 +279,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/24.png" 
                alt="Patología Glandular 10" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 10</h4>
@@ -295,12 +295,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/25.png" 
                alt="Patología Glandular 11" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 11</h4>
@@ -311,12 +311,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/9.png" 
                alt="Patología Glandular 12" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 12</h4>
@@ -327,12 +327,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/9_1.png" 
                alt="Patología Glandular 13" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 13</h4>
@@ -343,12 +343,12 @@ Las glándulas del sistema endocrino de la zarigüeya juegan un papel crucial en
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden">
           <img src="/images/atlas/sistemas/sistema-endocrino/glandulas/patologia/9_2.png" 
                alt="Patología Glandular 14" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Glandular 14</h4>

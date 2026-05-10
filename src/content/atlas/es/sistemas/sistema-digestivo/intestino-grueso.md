@@ -17,12 +17,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Intestino Grueso Normal</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/normal/4.png" 
                alt="Intestino Grueso Normal 1" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Intestino Grueso Normal 1</h4>
@@ -41,12 +41,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/1.png" 
                alt="Patología Colónica 1" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 1</h4>
@@ -57,12 +57,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/2.png" 
                alt="Patología Colónica 2" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 2</h4>
@@ -73,12 +73,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/2_1.png" 
                alt="Patología Colónica 3" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 3</h4>
@@ -89,12 +89,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/9.png" 
                alt="Patología Colónica 4" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 4</h4>
@@ -105,12 +105,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/9_1.png" 
                alt="Patología Colónica 5" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 5</h4>
@@ -121,12 +121,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/14.png" 
                alt="Patología Colónica 6" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 6</h4>

@@ -17,7 +17,7 @@ Las articulaciones de la zarigüeya presentan una estructura adaptada para su es
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Articulaciones Normales</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="col-span-full text-center py-12 bg-gray-50 rounded-lg">
+    <div class="col-span-full text-center py-12 bg-gray-50 rounded-xl">
       <div class="text-gray-500 text-lg font-medium">
         <svg class="w-16 h-16 mx-auto mb-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
         No hay imágenes normales disponibles para articulaciones
@@ -31,12 +31,12 @@ Las articulaciones de la zarigüeya presentan una estructura adaptada para su es
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/articulaciones/patologia/12.png" 
                alt="Patología Articular 1" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Articular 1</h4>
@@ -47,12 +47,12 @@ Las articulaciones de la zarigüeya presentan una estructura adaptada para su es
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/articulaciones/patologia/28.png" 
                alt="Patología Articular 2" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Articular 2</h4>

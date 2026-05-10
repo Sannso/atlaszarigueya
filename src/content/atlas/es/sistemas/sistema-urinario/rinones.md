@@ -17,12 +17,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Riñones Normales</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/normal/4.png" 
                alt="Riñón Normal 1" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Riñón Normal 1</h4>
@@ -33,12 +33,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/normal/4_1.png" 
                alt="Riñón Normal 2" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Riñón Normal 2</h4>
@@ -57,12 +57,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/1.png" 
                alt="Patología Renal 1" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 1</h4>
@@ -73,12 +73,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/12.png" 
                alt="Patología Renal 2" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 2</h4>
@@ -89,12 +89,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/16.png" 
                alt="Patología Renal 3" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 3</h4>
@@ -105,12 +105,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/16_1.png" 
                alt="Patología Renal 4" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 4</h4>
@@ -121,12 +121,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/18.png" 
                alt="Patología Renal 5" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 5</h4>
@@ -137,12 +137,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/18_1.png" 
                alt="Patología Renal 6" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 6</h4>
@@ -153,12 +153,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/25.png" 
                alt="Patología Renal 7" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 7</h4>
@@ -169,12 +169,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/25_1.png" 
                alt="Patología Renal 8" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 8</h4>
@@ -185,12 +185,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/25_2.png" 
                alt="Patología Renal 9" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 9</h4>
@@ -201,12 +201,12 @@ Los riñones de la zarigüeya presentan adaptaciones específicas para su estilo
         </div>
       </div>
     </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-lg">
-      <div class="relative overflow-hidden rounded-lg bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-lg shadow-inner flex items-center justify-center min-h-[250px]">
+    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
+      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
+        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/riñones/patologia/26.png" 
                alt="Patología Renal 10" 
-               class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-110"
+               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Renal 10</h4>
