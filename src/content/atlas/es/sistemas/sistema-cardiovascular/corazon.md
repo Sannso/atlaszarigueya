@@ -17,22 +17,26 @@ El corazón es el órgano central del sistema cardiovascular, responsable de bom
 
 ### Estructura cardíaca
 
-El corazón de la zarigüeya presenta características adaptativas específicas que lo diferencian de otros mamíferos.
+El corazón contiene cuatro cavidades musculares (Auriculas: derecha e izquierda y Ventriculos: derecho e izquierdo) que retienen brevemente la sangre antes de bombearla. Los impulsos eléctricos hacen latir el corazón, impulsando la sangre a través de estas cavidades.
+Las paredes del corazón tienen tres capas:
+- Endocardio: Capa interna.
+- Miocardio: Capa muscular media.
+- Epicardio: Capa externa protectora.
 
-## Patologías Cardíacas
+## Patologías/lesiones Cardíacas
 
 <div class="image-gallery mb-12">
-  <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
+  <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones/lesiones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/3.png" 
-               alt="Lesión Cardíaca 1" 
+               alt="borrar esta" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 1</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">borrar esta</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Alteración estructural del tejido cardíaco.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -60,12 +64,13 @@ El corazón de la zarigüeya presenta características adaptativas específicas 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/4.png" 
-               alt="Patología Cardíaca 3" 
+               alt="Lesión Cardíaca 3" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cardíaca 3</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis del tejido cardíaco con afectación funcional.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 3</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa saco pericárdico distendido con contenido de líquido seroso compatible con hidropericardio.
+</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -76,11 +81,11 @@ El corazón de la zarigüeya presenta características adaptativas específicas 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/8.png" 
-               alt="Patología Cardíaca 4" 
+               alt="borrar" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cardíaca 4</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">borrar</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hipertrofia cardíaca con aumento del tamaño.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -92,12 +97,12 @@ El corazón de la zarigüeya presenta características adaptativas específicas 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/8_1.png" 
-               alt="Patología Cardíaca 5" 
+               alt="Lesión Cardíaca 5" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cardíaca 5</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Infiltración inflamatoria del miocardio.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 5</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa saco pericardico distendido con contenido sanguinolento de color rojo oscuro compatible con hemopericardio</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
