@@ -28,11 +28,11 @@ El corazón de la zarigüeya presenta características adaptativas específicas 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/3.png" 
-               alt="Patología Cardíaca 1" 
+               alt="Lesión Cardíaca 1" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cardíaca 1</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 1</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Alteración estructural del tejido cardíaco.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -44,12 +44,12 @@ El corazón de la zarigüeya presenta características adaptativas específicas 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/3_1.png" 
-               alt="Patología Cardíaca 2" 
+               alt="Lesión Cardíaca 2" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cardíaca 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Lesión cardíaca con cambios degenerativos.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 2</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de coágulos post mortem dentro de los ventrículos, junto con la presencia de rugosidades en el endocardio del ventrículo izquierdo </p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
