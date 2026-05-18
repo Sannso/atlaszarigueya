@@ -6,6 +6,12 @@ description: Estructura y función de la piel en la zarigüeya.
 tags: [tegumentario, piel, dermis]
 ---
 
+<a href="/atlas/es/sistemas/sistema-tegumentario/intro" class="back-button absolute top-6 left-0 inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors bg-white/80 backdrop-blur-sm px-3 py-2 rounded-lg shadow-sm">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="sm:mr-2"><path d="M19 12H5M12 19l-7-7 7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  <span class="back-text">Volver al Sistema Tegumentario</span>
+</a>
+
+
 ## Piel
 
 La piel es el órgano más grande del sistema tegumentario de la zarigüeya, proporcionando protección contra el ambiente, regulación térmica y funciones sensoriales esenciales para su supervivencia.
@@ -172,29 +178,13 @@ La piel de la zarigüeya presenta una estructura adaptada para su estilo de vida
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-tegumentario/piel/patologia/4.png" 
-               alt="Patología Cutánea 3" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cutánea 3</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Infección bacteriana.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-tegumentario/piel/patologia/4_1.png" 
                alt="Patología Cutánea 4" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cutánea 4</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Infección fúngica.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesiones por desgaste en dígitos y uñas</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Desgaste ungueal y digital de los miembros anteriores</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -209,8 +199,8 @@ La piel de la zarigüeya presenta una estructura adaptada para su estilo de vida
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cutánea 5</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Infección parasitaria.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Orificio natural con presencia de materia orgánica</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Ano con presencia de materia orgánica</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -273,24 +263,8 @@ La piel de la zarigüeya presenta una estructura adaptada para su estilo de vida
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cutánea 9</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Traumatismo cutáneo.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-tegumentario/piel/patologia/15_1.png" 
-               alt="Patología Cutánea 10" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cutánea 10</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Quemadura cutánea.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesión epidérmica en región frontal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa herida perforante a nivel de la epidermis en la región frontal del cráneo.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -305,8 +279,8 @@ La piel de la zarigüeya presenta una estructura adaptada para su estilo de vida
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cutánea 11</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Alopecia areata.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Laceraciones profundas en región nasal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de laceraciones profundas de bordes irregulares en la región nasal que comprometen la epidermis y dermis</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar

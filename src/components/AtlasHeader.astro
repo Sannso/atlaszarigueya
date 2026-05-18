@@ -1,6 +1,7 @@
 ---
 import MoonIcon from "./icons/MoonIcon.astro";
 import SunIcon from "./icons/SunIcon.astro";
+import MenuIcon from "./icons/MenuIcon.astro";
 
 const link = import.meta.env.DEV
     ? "http://localhost:4321"
@@ -8,11 +9,19 @@ const link = import.meta.env.DEV
 ---
 
 <header
-    class={`flex items-center justify-between px-2 md:px-6 md:py-2
+    class={`flex items-center justify-between px-2 md:px-6 py-3 md:py-2 h-14 md:h-auto
            text-black dark:bg-neutral-800 dark:text-orange-100
             shadow-md dark:border-b dark:border-neutral-900`}
 >
-    <h1 class="text-md font-bold font-montserrat-bold tracking-wider">
+    <button
+        class="cursor-pointer md:hidden relative w-6 h-6"
+        id="sidebar-toggle"
+        type="button"
+        aria-label="Abrir menú"
+    >
+        <MenuIcon />
+    </button>
+    <h1 class="text-md font-bold font-montserrat-bold tracking-wider flex-1 text-center md:text-left">
         <a href={link}>Atlas Zarigueya</a>
     </h1>
     <button
@@ -64,5 +73,20 @@ const link = import.meta.env.DEV
 
         btnDark?.classList.toggle("hide");
         btnLight?.classList.toggle("hide");
+    });
+
+    // Sidebar toggle for mobile
+    const sidebarToggle = document.getElementById("sidebar-toggle");
+    const sidebar = document.getElementById("mobile-sidebar");
+    const sidebarOverlay = document.getElementById("sidebar-overlay");
+
+    sidebarToggle?.addEventListener("click", function () {
+        sidebar?.classList.remove("-translate-x-full");
+        sidebarOverlay?.classList.remove("hidden");
+    });
+
+    sidebarOverlay?.addEventListener("click", function () {
+        sidebar?.classList.add("-translate-x-full");
+        sidebarOverlay?.classList.add("hidden");
     });
 </script>

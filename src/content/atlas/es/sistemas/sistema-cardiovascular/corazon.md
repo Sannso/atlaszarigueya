@@ -6,6 +6,11 @@ description: Estructura y función del corazón en la zarigüeya.
 tags: [cardiovascular, corazon]
 ---
 
+<a href="/atlas/es/sistemas/sistema-cardiovascular/intro" class="back-button absolute top-6 left-0 inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors bg-white/80 backdrop-blur-sm px-3 py-2 rounded-lg shadow-sm">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="sm:mr-2"><path d="M19 12H5M12 19l-7-7 7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  <span class="back-text">Volver al Sistema Cardiovascular</span>
+</a>
+
 ## Corazón
 
 El corazón es el órgano central del sistema cardiovascular, responsable de bombear sangre a través del cuerpo.
@@ -187,8 +192,8 @@ El corazón de la zarigüeya presenta características adaptativas específicas 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Cardíaca 11</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Calcificación del tejido cardíaco.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Adherencias en pericardio</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se hallaron adherencias en la totalidad del pericardio y lesiones fibrosas focalizadas dentro del miocardio izquierdo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar

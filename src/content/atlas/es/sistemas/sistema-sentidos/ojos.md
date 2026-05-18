@@ -6,6 +6,11 @@ description: Estructura y función de los ojos en la zarigüeya.
 tags: [sentidos, ojos, visión]
 ---
 
+<a href="/atlas/es/sistemas/sistema-sentidos/sistema-sentidos" class="back-button absolute top-6 left-0 inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors bg-white/80 backdrop-blur-sm px-3 py-2 rounded-lg shadow-sm">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="sm:mr-2"><path d="M19 12H5M12 19l-7-7 7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  <span class="back-text">Volver al Sistema Sentidos</span>
+</a>
+
 ## Ojos
 
 Los ojos son los órganos principales del sistema visual de la zarigüeya, responsables de la percepción visual, adaptación a diferentes condiciones de luz y detección de movimiento en su entorno nocturno y diurno.

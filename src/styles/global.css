@@ -363,6 +363,7 @@
   transform: translateX(2px);
 }
 
+/* Mobile styles */
 @media (max-width: 768px) {
   .organ-card {
     padding: 20px;
@@ -375,6 +376,12 @@
   
   .organ-title {
     font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .back-text {
+    display: none;
   }
 }
 

@@ -1,5 +1,6 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
+import XIcon from "./icons/XIcon.astro";
 
 interface Props {
   lang: "es" | "en";
@@ -73,6 +74,16 @@ principalBox = [
   aria-label="Atlas navigation"
   class={`flex flex-col w-full h-full text-sm tracking-wide gap-8 bg-[#FFDAB9]/20 px-4 md:px-6 py-6`}
 >
+  <!-- Close button for mobile -->
+  <button
+    id="sidebar-close"
+    class="md:hidden self-end cursor-pointer relative w-6 h-6"
+    type="button"
+    aria-label="Cerrar menú"
+  >
+    <XIcon />
+  </button>
+
   <ul
     class={`flex flex-col gap-1 rounded-xl p-1 text-stone-700 inset-shadow-2xs
               bg-[#FFDAB9]/60 dark:bg-stone-800/70
@@ -86,7 +97,7 @@ principalBox = [
           <li
             class={`[&>a]:capitalize transition-colors ${isActive ? "text-stone-800 bg-[#FF9B71]/60 dark:bg-[#FF9B71]/80 dark:text-stone-100 hover:bg-[#FF9B71]/70 dark:hover:bg-[#FF9B71]/90" : "hover:bg-[#FF9B71]/30 dark:hover:bg-[#FF9B71]/40 dark:text-stone-100/70"}`}
           >
-            <a class="block w-full" href={item.href}>
+            <a class="sidebar-principal-link block w-full" href={item.href}>
               {item.topic}
             </a>
           </li>
@@ -110,7 +121,8 @@ principalBox = [
             <li>
               <a
                 href={item.href}
-                class={`block px-3 py-1 rounded-lg transition-colors ${isActive ? "text-stone-800 dark:text-stone-100 font-semibold bg-[#FF9B71]/40 dark:bg-[#FF9B71]/60" : "hover:bg-[#FF9B71]/20 dark:hover:bg-[#FF9B71]/30"}`}
+                class="sidebar-secondary-link block px-3 py-1 rounded-lg transition-colors"
+                class:list={[{ "text-stone-800 dark:text-stone-100 font-semibold bg-[#FF9B71]/40 dark:bg-[#FF9B71]/60": isActive }, { "hover:bg-[#FF9B71]/20 dark:hover:bg-[#FF9B71]/30": !isActive }]}
               >
                 {item.title}
               </a>
@@ -121,3 +133,31 @@ principalBox = [
     }
   </ul>
 </nav>
+
+<script>
+  const sidebarClose = document.getElementById("sidebar-close");
+  const sidebar = document.getElementById("mobile-sidebar");
+  const sidebarOverlay = document.getElementById("sidebar-overlay");
+
+  sidebarClose?.addEventListener("click", function () {
+    sidebar?.classList.add("-translate-x-full");
+    sidebarOverlay?.classList.add("hidden");
+  });
+
+  // Close sidebar when clicking on secondary links
+  const secondaryLinks = document.querySelectorAll(".sidebar-secondary-link");
+  secondaryLinks.forEach((link) => {
+    link.addEventListener("click", function () {
+      sidebar?.classList.add("-translate-x-full");
+      sidebarOverlay?.classList.add("hidden");
+    });
+  });
+
+  // Prevent sidebar from closing when clicking on principal links
+  const principalLinks = document.querySelectorAll(".sidebar-principal-link");
+  principalLinks.forEach((link) => {
+    link.addEventListener("click", function (e) {
+      e.stopPropagation();
+    });
+  });
+</script>
