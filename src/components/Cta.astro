@@ -6,9 +6,27 @@
         zarigüeya.
     </p>
     <a
-        href="/atlas"
+        id="atlas-link"
+        href="/atlas/es"
         class="bg-white text-neutral-900 font-semibold px-6 py-3 rounded-full hover:bg-orange-100 transition"
     >
         Ir al Atlas
     </a>
 </section>
+
+<script>
+    const atlasLink = document.getElementById("atlas-link") as HTMLAnchorElement;
+    
+    // Detect browser language
+    const browserLang = navigator.language;
+    const langCode = browserLang.startsWith("es") ? "es" : "en";
+    
+    // Check for saved preference
+    const savedLang = localStorage.getItem("atlas-lang");
+    const targetLang = savedLang || langCode;
+    
+    // Update href
+    if (atlasLink) {
+        atlasLink.href = `/atlas/${targetLang}`;
+    }
+</script>
