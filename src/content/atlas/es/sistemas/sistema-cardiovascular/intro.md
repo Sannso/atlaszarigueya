@@ -6,14 +6,15 @@ description: Corazón, vasos sanguíneos y circulación en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema cardiovascular incluye el corazón, los vasos sanguíneos y la circulación, desempeñando funciones de transporte y regulación en la zarigüeya.
+El corazón funciona como una bomba muscular que impulsa la sangre mediante contracciones rítmicas. Los vasos sanguíneos se dividen en arterias, venas y capilares, cada uno con funciones específicas en el transporte y distribución sanguínea. Las arterias llevan la sangre desde el corazón hacia los tejidos, las venas la retornan al corazón y los capilares permiten el intercambio de sustancias entre la sangre y las células.
 
-### Contenidos sugeridos
-- Estructura del corazón
-- Circuitos circulatorios
-- Regulación de la presión arterial
+### FUNCIÓN
+El sistema cardiovascular es el encargado de transportar la sangre a través de todo el cuerpo, permitiendo el suministro de oxígeno, nutrientes y hormonas a las células, así como la eliminación de dióxido de carbono y otros desechos metabólicos. Está conformado principalmente por el corazón, los vasos sanguíneos y la sangre.
+Además de transportar sustancias, el sistema cardiovascular participa en la regulación de la temperatura corporal, el mantenimiento del equilibrio interno y la defensa del organismo, ya que la sangre contiene células y componentes importantes para el sistema inmunológico.
+
+El correcto funcionamiento de este sistema es esencial para la vida, debido a que todos los órganos y tejidos dependen del flujo sanguíneo para recibir oxígeno y nutrientes necesarios para sus funciones.
 
 <div class="subcontent-buttons mb-8">
     <div class="flex flex-wrap gap-3 justify-center">
