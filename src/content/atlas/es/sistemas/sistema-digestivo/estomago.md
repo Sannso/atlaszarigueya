@@ -11,13 +11,13 @@ tags: [digestivo, estomago]
   <span class="back-text">Volver al Sistema Digestivo</span>
 </a>
 
-## Estómago
+## DESCRIPCIÓN
 
-El estómago es el órgano principal del sistema digestivo, responsable de procesar alimentos y secretar enzimas digestivas.
+El estómago es un órgano muscular y distensible del sistema digestivo, ubicado entre el esófago y el intestino delgado. Su función principal es almacenar temporalmente los alimentos, mezclarlos y comenzar su digestión mediante movimientos musculares y la acción de jugos gástricos.
 
-### Estructura gástrica
+### ESTRUCTURA
 
-El estómago de la zarigüeya presenta características adaptativas específicas que lo diferencian de otros mamíferos.
+La pared del estómago está compuesta por capas musculares que permiten la trituración y mezcla del contenido alimenticio, formando una sustancia semilíquida llamada quimo. Además, produce ácido clorhídrico y enzimas digestivas, como la pepsina, que participan en la digestión de proteínas y ayudan a eliminar microorganismos ingeridos.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Estómago Normal</h3>
@@ -26,11 +26,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/normal/8.png" 
-               alt="Estómago Normal 1" 
+               alt="borrar" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Estómago Normal 1</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">borrar</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Vista externa del estómago con estructuras normales.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -42,11 +42,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/normal/8_1.png" 
-               alt="Estómago Normal 2" 
+               alt="borrar" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Estómago Normal 2</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">borrar</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Cámaras gástricas con morfología conservada.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -58,11 +58,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/normal/8_2.png" 
-               alt="Estómago Normal 3" 
+               alt="Estomago normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Estómago Normal 3</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">Estomago normal</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Mucosa gástrica en estado funcional normal.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -73,7 +73,7 @@ El estómago de la zarigüeya presenta características adaptativas específicas
   </div>
 </div>
 
-## Patologías Gástricas
+## Patologías/lesiones Gástricas
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -82,11 +82,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/1.png" 
-               alt="Patología Gástrica 1" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 1</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Alteración estructural del tejido gástrico.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -98,12 +98,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/2.png" 
-               alt="Patología Gástrica 2" 
+               alt="Presencia de alimento" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Lesión gástrica con cambios degenerativos.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Presencia de alimento</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">órgano distendido con adelgazamiento de su pared  y presencia de alimento blando</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -114,12 +114,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/2_1.png" 
-               alt="Patología Gástrica 3" 
+               alt="Distención" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 3</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Degeneración del tejido gástrico con cambios patológicos.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Distención</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay un aumento anormal de tamaño y expansión de sus paredes debido a acumulación de contenido.  La superficie se aprecia tensa y lisa, con pérdida parcial de los pliegues normales.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -130,11 +130,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/2_3.png" 
-               alt="Patología Gástrica 4" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 4</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Anomalía estructural del tejido gástrico con afectación funcional.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -146,11 +146,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/3.png" 
-               alt="Patología Gástrica 5" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 5</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Inflamación crónica del tejido gástrico con infiltrado celular.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -162,12 +162,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/4.png" 
-               alt="Patología Gástrica 6" 
+               alt="Parásitismo" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 6</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Lesión avanzada del tejido gástrico con severas alteraciones.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parásitismo</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay presencia de parásitos con coloración blanquecina de forma cilíndrica compatibles con nematodos y contenido alimentario</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -178,11 +178,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/4_1.png" 
-               alt="Patología Gástrica 7" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 7</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis gástrica con proliferación de tejido conectivo.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -194,11 +194,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/4_2.png" 
-               alt="Patología Gástrica 8" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 8</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis del tejido gástrico con pérdida de arquitectura normal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -210,12 +210,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/4_3.png" 
-               alt="Patología Gástrica 9" 
+               alt="Parásitismo" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 9</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Necrosis gástrica con cambios degenerativos avanzados.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parásitismo</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay presencia de parásitos con coloración blanquecina de forma cilíndrica compatibles con nematodos y contenido alimentario</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -226,11 +226,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/4_4.png" 
-               alt="Patología Gástrica 10" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 10</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hipertrofia gástrica con hiperplasia del tejido afectado.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -242,11 +242,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/5.png" 
-               alt="Patología Gástrica 11" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 11</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Atrofia gástrica con pérdida de parénquima funcional.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -258,11 +258,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/5_1.png" 
-               alt="Patología Gástrica 12" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 12</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumoración gástrica con características neoplásicas.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -274,11 +274,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/5_2.png" 
-               alt="Patología Gástrica 13" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 13</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Infiltración neoplásica con destrucción del tejido gástrico.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -290,12 +290,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/5_3.png" 
-               alt="Patología Gástrica 14" 
+               alt="Úlceras Gástricas" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 14</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Metaplasia gástrica con cambio en el tipo celular.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Úlceras Gástricas</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">La mucosa gástrica se encuentra con úlceras de diversos diámetros distribuidas por todo el cuerpo del estómago de coloracion rojiza y relieve depresivo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -306,11 +306,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/12.png" 
-               alt="Patología Gástrica 15" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 15</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Úlcera gástrica con perforación del tejido.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -322,12 +322,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/12_1.png" 
-               alt="Patología Gástrica 16" 
+               alt="Distención" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 16</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastritis severa con erosión de la mucosa.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Distenión</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa aumento de tamaño del estomago con contenido alimentario y adelgazamiento de la pared</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -338,12 +338,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/14.png" 
-               alt="Patología Gástrica 17" 
+               alt="Parásito" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 17</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hemorragia gástrica con afectación vascular.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parásito</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">1 ejemplar de los parásitos hallados en estomago, compatible con nematodos de coloracion blaquecina y un largo de 4cm</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -354,11 +354,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/14_2.png" 
-               alt="Patología Gástrica 18" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 18</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Obstrucción gástrica con estenosis del píloro.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -370,11 +370,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16.png" 
-               alt="Patología Gástrica 19" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 19</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Adenocarcinoma gástrico con invasión tisular.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -386,11 +386,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_1.png" 
-               alt="Patología Gástrica 20" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 20</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Linfoma gástrico con proliferación linfoide.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -402,11 +402,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_2.png" 
-               alt="Patología Gástrica 21" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 21</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Sarcoma gástrico con tejido mesenquimatoso.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -418,12 +418,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_3.png" 
-               alt="Patología Gástrica 22" 
+               alt="Lesión nodular" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 22</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Pólipo gástrico con crecimiento anormal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesión nodular</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de 2 nodulos y un hematoma en el omento mayor del estomago</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -434,11 +434,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_4.png" 
-               alt="Patología Gástrica 23" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 23</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Divertículo gástrico con protrusión de la pared.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -450,11 +450,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_5.png" 
-               alt="Patología Gástrica 24" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 24</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fisura gástrica con ruptura del tejido.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -466,12 +466,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_6.png" 
-               alt="Patología Gástrica 25" 
+               alt="Úlceras parasitarias" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 25</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Perforación gástrica con comunicacióntercional.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Úlceras parasitarias</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">La mucosa gástrica se encuentra con úlceras de diversos diámetros distribuidas por todo el cuerpo del estómago y ay presencia de parásitos con coloración blanquecina de forma cilíndrica compatibles con nematodos</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -482,11 +482,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_7.png" 
-               alt="Patología Gástrica 26" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 26</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastroenteritis aguda con inflamación severa.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -498,11 +498,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_8.png" 
-               alt="Patología Gástrica 27" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 27</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Íleo paralítico con obstrucción funcional.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -514,12 +514,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_9.png" 
-               alt="Patología Gástrica 28" 
+               alt="Necosis focal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 28</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Volvulus gástrico con torsión del órgano.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Necrosis focal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de una lesión necrotica focalizada con bordes y forma irregular de color negro</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -530,11 +530,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_10.png" 
-               alt="Patología Gástrica 29" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 29</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Intususcepción gástrica con invaginación intestinal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -546,11 +546,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_11.png" 
-               alt="Patología Gástrica 30" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 30</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hernia hiatal con protrusión diafragmática.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -562,12 +562,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_12.png" 
-               alt="Patología Gástrica 31" 
+               alt="Nodulaciones" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 31</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Reflujo gastroesofágico severo con esofagitis.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Nodulaciones</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de nodulaciónes de diversos diametros de forma circular y relieve abultado en la serosa del omento mayor del estomago </p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -578,12 +578,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_13.png" 
-               alt="Patología Gástrica 32" 
+               alt="Parásitos" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 32</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Síndrome de Mallory-Weiss con desgarro esofágico.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parásitos</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay presencia de parásitos con coloración rosacea de forma cilíndrica compatibles con nematodos, abarcando 2/3 del espacio</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -594,11 +594,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_14.png" 
-               alt="Patología Gástrica 33" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 33</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fístula gástrica con comunicación anormal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -610,12 +610,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/16_15.png" 
-               alt="Patología Gástrica 34" 
+               alt="Ulcera Gástrica" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 34</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Bezoar gástrico con acumulación de material.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Ulcera Gástrica</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">se observa una úlcera caracterizada por una pérdida focal de la continuidad de la mucosa, formando una lesión deprimida y bien delimitada. La superficie ulcerada presenta bordes irregulares y fondo de color rojizo negruzco</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -626,12 +626,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/17.png" 
-               alt="Patología Gástrica 35" 
+               alt="Gastritis parasitaria" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 35</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía hipertensiva con cambios vasculares.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Gastritis parasitaria</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Sobre la superficie interna del estómago se evidencian estructuras alargadas, cilíndricas y blanquecinas compatibles con parásitos nematodos adheridos a la mucosa gástrica.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -642,11 +642,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/17_1.png" 
-               alt="Patología Gástrica 36" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 36</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía infiltrativa con depósitos anormales.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -658,11 +658,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/28.png" 
-               alt="Patología Gástrica 37" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 37</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía vascular con ectasia vascular.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -674,12 +674,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/nn.png" 
-               alt="Patología Gástrica 38" 
+               alt="Lesiones puntiformes" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 38</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía metabólica con cambios sistémicos.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesiones puntiformes</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa coloración pálida de manera difusa, con disminución de la coloración rosada normal de la mucosa gástrica. Sobre la superficie mucosal se evidencian múltiples lesiones puntiformes blanquecinas, distribuidas de forma multifocal, compatibles con petequias o pequeños focos de alteración superficial</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -690,11 +690,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/nn1.png" 
-               alt="Patología Gástrica 39" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 39</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía autoinmune con respuesta inmune.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -706,11 +706,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/nn2.png" 
-               alt="Patología Gástrica 40" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 40</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía química con lesión por irritantes.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -722,11 +722,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/nn3.png" 
-               alt="Patología Gástrica 41" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 41</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía infecciosa con colonización bacteriana.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -738,12 +738,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/nn4.png" 
-               alt="Patología Gástrica 42" 
+               alt="Adelgazamiento" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 42</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía congénita con malformación estructural.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Adelgazamiento</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">La mucosa y musculatura se hallaron delgadas, dando la ilusion de transparentarse toda la pared gastrica</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -754,11 +754,11 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/nn5.png" 
-               alt="Patología Gástrica 43" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 43</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía traumática con lesión por impacto.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -770,12 +770,12 @@ El estómago de la zarigüeya presenta características adaptativas específicas
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/nn6.png" 
-               alt="Patología Gástrica 44" 
+               alt="Necrosis" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Gástrica 44</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Gastropatía idiopática de causa desconocida.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Necrosis</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa necrosis en la mucosa gástrica de color grisáceo con aspecto opaco y consistencia friable, pérdida de la integridad tisular y alteración de la coloración normal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
