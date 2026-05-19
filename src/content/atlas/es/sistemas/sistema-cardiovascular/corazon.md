@@ -48,11 +48,11 @@ Las paredes del corazón tienen tres capas:
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/3_1.png" 
-               alt="Lesión Cardíaca 2" 
+               alt="Coágulo" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 2</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">Coágulo</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de coágulos post mortem dentro de los ventrículos, junto con la presencia de rugosidades en el endocardio del ventrículo izquierdo </p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -64,11 +64,11 @@ Las paredes del corazón tienen tres capas:
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/4.png" 
-               alt="Lesión Cardíaca 3" 
+               alt="Hidropericardio" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 3</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">Hidropericardio</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa saco pericárdico distendido con contenido de líquido seroso compatible con hidropericardio.
 </p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
@@ -97,11 +97,11 @@ Las paredes del corazón tienen tres capas:
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/8_1.png" 
-               alt="Lesión Cardíaca 5" 
+               alt="Hemopericardio" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 5</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">Hemopericardio</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa saco pericardico distendido con contenido sanguinolento de color rojo oscuro compatible con hemopericardio</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -129,12 +129,12 @@ Las paredes del corazón tienen tres capas:
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/10.png" 
-               alt="Lesión cardiaca 7" 
+               alt="Adherencias" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesión cardiaca 7</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se hallaron adherencias en la totalidad del pericardio.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Adherencias</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se hallaron adherencias sanguinolentas de coloración rojo carmesí distribuidas en la totalidad del pericardio.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -161,11 +161,11 @@ Las paredes del corazón tienen tres capas:
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/10_2.png" 
-               alt="Lesión Cardíaca 9" 
+               alt="Rugosidades" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 9</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">Rugosidades</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">presencia de rugosidades en el endocardio del ventrículo izquierdo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -177,12 +177,12 @@ Las paredes del corazón tienen tres capas:
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/10_3.png" 
-               alt="Lesión Cardíaca 10" 
+               alt="Lesiones fibrosas" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesiín Cardíaca 10</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">lesiones fibrosas focalizadas dentro del pericardio izquierdo</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesiones fibrosas</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se hallaron lesiones fibrosas focalizadas en la superficie del pericardio izquierdo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -209,12 +209,12 @@ Las paredes del corazón tienen tres capas:
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-cardiovascular/corazon/patologia/15.png" 
-               alt="Lesión Cardíaca 13" 
+               alt="Cardiomegalia" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Lesión Cardíaca 13</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa aumento del tamaño del corazón compatible con cardiomegalia.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Cardiomegalia</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa aumento del tamaño del corazón en relacion con los pulmones y los espacios intercostales, compatible con cardiomegalia.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
