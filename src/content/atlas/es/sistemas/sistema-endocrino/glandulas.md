@@ -17,7 +17,7 @@ Las glándulas son órganos especializados encargados de producir y secretar sus
 
 Las glándulas se clasifican principalmente en endocrinas y exocrinas. Las glándulas endocrinas liberan hormonas directamente al torrente sanguíneo para regular diferentes procesos corporales, mientras que las glándulas exocrinas secretan sustancias a través de conductos hacia superficies internas o externas del cuerpo.
 
-## DESCRIPCIÓN
+## FUNCIONES
 
 Entre las funciones generales de las glándulas se encuentran la regulación del crecimiento y metabolismo, el mantenimiento del equilibrio interno del organismo, la participación en la digestión, la reproducción, la respuesta inmunológica y la protección del cuerpo. Además, ayudan a coordinar diferentes actividades corporales mediante la producción y liberación de sustancias químicas.
 
