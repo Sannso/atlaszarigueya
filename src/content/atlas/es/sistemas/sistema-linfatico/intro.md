@@ -6,14 +6,17 @@ description: Ganglios, vasos linfáticos y sistema inmunológico en la zarigüey
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema linfático incluye los ganglios, los vasos linfáticos y el sistema inmunológico, desempeñando funciones de defensa y regulación en la zarigüeya.
+El sistema linfático es una red de órganos, vasos y tejidos encargados de transportar la linfa y participar en la defensa del organismo frente a agentes infecciosos y sustancias extrañas. Este sistema trabaja de manera estrecha con el sistema inmunológico y el sistema circulatorio para mantener el equilibrio de líquidos y proteger al cuerpo contra enfermedades.
 
-### Contenidos sugeridos
-- Estructura de los ganglios linfáticos
-- Circuitos linfáticos
-- Sistema inmunológico
+Está conformado por vasos linfáticos, ganglios linfáticos y órganos linfoides como el bazo, el timo y las amígdalas. A través de los vasos circula la linfa, un líquido transparente que contiene linfocitos, proteínas y otras sustancias importantes para la respuesta inmunitaria.
+
+### FUNCIÓN
+
+Entre sus funciones principales se encuentran el drenaje del exceso de líquido de los tejidos, el transporte de grasas absorbidas en el sistema digestivo y la producción y movilización de células de defensa. Los ganglios linfáticos actúan como filtros, reteniendo microorganismos y partículas extrañas para ser eliminadas por el sistema inmunológico.
+
+El adecuado funcionamiento del sistema linfático es esencial para mantener la homeostasis y la protección del organismo frente a infecciones y enfermedades.
 
 <div class="subcontent-buttons mb-8">
     <div class="flex flex-wrap gap-3 justify-center">
