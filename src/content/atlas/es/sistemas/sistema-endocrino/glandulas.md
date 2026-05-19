@@ -102,7 +102,7 @@ El correcto funcionamiento de las glándulas es fundamental para mantener la hom
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Glándula mamaria</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">}Se observa con una conformación anatómica conservada, simétrica y bien delimitada, con presencia de cabello en su superficie externa</p>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa con una conformación anatómica conservada, simétrica y bien delimitada, con presencia de cabello en su superficie externa</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
