@@ -11,7 +11,7 @@ tags: [linfatico, bazo]
   <span class="back-text">Volver al Sistema Linfático</span>
 </a>
 
-## Bazo
+## DESCRIPCIÓN
 
 El bazo es el mayor órgano linfático secundario de la zarigüeya, desempeñando funciones cruciales en la filtración de sangre, eliminación de células sanguíneas envejecidas y respuesta inmune.
 
