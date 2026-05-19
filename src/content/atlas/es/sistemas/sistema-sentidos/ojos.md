@@ -41,7 +41,7 @@ Los ojos de la zarigüeya presentan adaptaciones específicas para su estilo de 
   </div>
 </div>
 
-## Patologías de los Ojos
+## Patologías/lesiones de los Ojos
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
