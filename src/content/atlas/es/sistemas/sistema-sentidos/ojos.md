@@ -26,12 +26,12 @@ Los ojos de la zarigüeya presentan adaptaciones específicas para su estilo de 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-sentidos/ojos/normal/img.png" 
-               alt="Ojo Normal 1" 
+               alt="Ojo Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Ojo Normal 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Estructura ocular normal con córnea transparente.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Ojo Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">El globo ocular se observan íntegro, simétrico y correctamente ubicado dentro de las órbita. Presentan tamaño, forma y posición conservada, sin evidencias de protrusión, hundimiento o deformaciones.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -50,12 +50,12 @@ Los ojos de la zarigüeya presentan adaptaciones específicas para su estilo de 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-sentidos/ojos/patologia/img.png" 
-               alt="Patología Ocular 1" 
+               alt="Anoftalmía" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ocular 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Inflamación ocular con enrojecimiento conjuntival.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Anoftalmía</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa ausencia total del globo ocular derecho</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -66,12 +66,12 @@ Los ojos de la zarigüeya presentan adaptaciones específicas para su estilo de 
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-sentidos/ojos/patologia/img1.png" 
-               alt="Patología Ocular 2" 
+               alt="Anoftalmía" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ocular 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Lesión corneal con opacidad y ulceración.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Anoftalmía</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa ausencia total del globo ocular derecho</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
