@@ -15,7 +15,7 @@ El sistema respiratorio incluye las vías aéreas superiores e inferiores, desem
 - Mecanismos de ventilación
 - Gasometría y perfusión
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-respiratorio/pulmones" class="organ-card">
         <div class="card-content">
@@ -39,5 +39,3 @@ El sistema respiratorio incluye las vías aéreas superiores e inferiores, desem
       </a>
     </div>
 </div>
-
-> Añade esquemas, tablas de estructuras y enlaces cruzados a otros sistemas.

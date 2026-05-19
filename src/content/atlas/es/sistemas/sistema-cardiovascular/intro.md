@@ -16,7 +16,7 @@ Además de transportar sustancias, el sistema cardiovascular participa en la reg
 
 El correcto funcionamiento de este sistema es esencial para la vida, debido a que todos los órganos y tejidos dependen del flujo sanguíneo para recibir oxígeno y nutrientes necesarios para sus funciones.
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-cardiovascular/corazon" class="organ-card">
         <div class="card-content">

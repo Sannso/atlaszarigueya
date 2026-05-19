@@ -17,7 +17,7 @@ La cavidad abdominal de la zarigüeya contiene los órganos digestivos principal
 
 ## Imágenes Normales
 
-<div class="system-images-container flex flex-wrap justify-center gap-8">
+<div class="system-images-container flex flex-wrap justify-center gap-8 my-14">
   <div class="system-image-card group relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-6 shadow-lg hover:shadow-2xl transition-all duration-500 hover:scale-105 flex flex-col w-72 h-auto">
     <div class="aspect-square mb-4 bg-white rounded-lg shadow-inner flex items-center justify-center overflow-hidden flex-shrink-0">
       <img src="/images/atlas/sistemas/sistema-cavidades/abdomen/normal/img.png" 
@@ -70,7 +70,7 @@ La cavidad abdominal de la zarigüeya contiene los órganos digestivos principal
 
 ## Imágenes Patológicas
 
-<div class="system-images-container flex flex-wrap justify-center gap-8">
+<div class="system-images-container flex flex-wrap justify-center gap-8 my-14">
   <div class="system-image-card group relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-6 shadow-lg hover:shadow-2xl transition-all duration-500 hover:scale-105 flex flex-col w-72 h-auto">
     <div class="aspect-square mb-4 bg-white rounded-lg shadow-inner flex items-center justify-center overflow-hidden flex-shrink-0">
       <img src="/images/atlas/sistemas/sistema-cavidades/abdomen/patologia/img.png" 
@@ -104,5 +104,3 @@ La cavidad abdominal de la zarigüeya contiene los órganos digestivos principal
     </div>
   </div>
 </div>
-
-> Añade esquemas detallados, tablas comparativas y enlaces cruzados a otros sistemas relacionados.

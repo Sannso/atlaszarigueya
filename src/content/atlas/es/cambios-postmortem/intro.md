@@ -6,13 +6,13 @@ description: Cambios postmortem en la zarigüeya.
 tags: [cambios postmortem]
 ---
 
-## Visión general
+## Visión General
 
 Los cambios postmortem en la zarigüeya incluyen las transformaciones que ocurren después de la muerte, importantes para la comprensión de los procesos de descomposición y la investigación forense.
 
 ## Galería de Cambios Postmortem
 
-<div class="system-gallery mb-12">
+<div class="system-gallery my-14">
   <div class="gallery-intro text-center mb-8">
     <h3 class="text-2xl font-bold text-gray-800 mb-3">Vista General de Cambios</h3>
     <p class="text-gray-600 max-w-2xl mx-auto">Explora las imágenes representativas de los cambios postmortem en la zarigüeya, mostrando las transformaciones características.</p>

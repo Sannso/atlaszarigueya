@@ -15,7 +15,7 @@ El sistema urinario incluye los riñones, uréteres y vejiga, desempeñando func
 - Proceso de filtración
 - Formación de orina
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-urinario/rinones" class="organ-card">
         <div class="card-content">
@@ -59,5 +59,3 @@ El sistema urinario incluye los riñones, uréteres y vejiga, desempeñando func
       </a>
     </div>
 </div>
-
-> Añade esquemas, tablas de estructuras y enlaces cruzados a otros sistemas.

@@ -17,7 +17,7 @@ Cada órgano sensorial contiene receptores especializados capaces de detectar di
 El adecuado funcionamiento de los órganos de los sentidos es fundamental para la supervivencia y la calidad de vida, ya que facilitan la interpretación del entorno y la coordinación de múltiples actividades corporales
 
 <div class="subcontent-buttons mb-8">
-    <div class="flex flex-wrap gap-3 justify-center overflow-hidden">
+    <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-sentidos/ojos" class="organ-card">
         <div class="card-content">
           <div class="card-header">
@@ -40,5 +40,3 @@ El adecuado funcionamiento de los órganos de los sentidos es fundamental para l
       </a>
     </div>
 </div>
-
-> Añade esquemas, tablas de estructuras y enlaces cruzados a otros sistemas.

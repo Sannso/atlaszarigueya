@@ -18,7 +18,7 @@ Entre sus funciones principales se encuentran el drenaje del exceso de líquido 
 
 El adecuado funcionamiento del sistema linfático es esencial para mantener la homeostasis y la protección del organismo frente a infecciones y enfermedades.
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-linfatico/bazo" class="organ-card">
         <div class="card-content">
@@ -62,5 +62,3 @@ El adecuado funcionamiento del sistema linfático es esencial para mantener la h
       </a>
     </div>
 </div>
-
-> Añade esquemas, tablas de estructuras y enlaces cruzados a otros sistemas.

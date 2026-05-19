@@ -19,7 +19,7 @@ El sistema tegumentario es fundamental para la supervivencia de la zarigüeya, p
 - **Comunicación**: Interacción social con otros individuos
 - **Homeostasis**: Mantenimiento del equilibrio corporal
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-tegumentario/piel" class="organ-card">
         <div class="card-content">
@@ -43,5 +43,3 @@ El sistema tegumentario es fundamental para la supervivencia de la zarigüeya, p
       </a>
     </div>
 </div>
-
-Este sistema representa una de las adaptaciones más importantes que han permitido a las zarigüeyas colonizar diversos hábitats en el continente americano.

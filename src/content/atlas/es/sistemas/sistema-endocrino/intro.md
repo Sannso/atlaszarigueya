@@ -19,7 +19,7 @@ El sistema endocrino trabaja de manera estrecha con el sistema nervioso para coo
 
 El adecuado funcionamiento del sistema endocrino es esencial para mantener el equilibrio del organismo, ya que alteraciones en la producción hormonal pueden provocar diferentes enfermedades y trastornos metabólicos.
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-endocrino/glandulas" class="organ-card">
         <div class="card-content">

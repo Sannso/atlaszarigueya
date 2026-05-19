@@ -25,10 +25,11 @@ const { Content } = await entry.render();
   lang={entry?.data.lang as "es" | "en"}
 >
   <section
-    class={`flex w-full flex-col relative gap-14 mx-4 md:mx-12 py-6 font-montserrat
-                   [&>h1]:text-3xl [&>h1]:font-montserrat-bold 
-                   [&>h2]:text-2xl [&>h2]:font-montserrat-bold
-                   [&>h3]:text-xl
+    class={`flex w-full flex-col relative mx-4 md:mx-12 py-6 font-montserrat
+                   [&>h1]:text-3xl [&>h1]:font-montserrat-bold [&>h1]:mt-4 
+                   [&>h2]:text-2xl [&>h2]:font-montserrat-bold [&>h2]:mt-10
+                   [&>h3]:text-xl [&>h3]:font-montserrat-bold [&>h3]:mt-10
+                   [&>p]:mt-4
                   `}
   >
     <h1 class="text-center">{entry?.data.title}</h1>

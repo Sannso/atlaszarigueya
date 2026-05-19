@@ -15,7 +15,7 @@ El sistema locomotor incluye los huesos, músculos y articulaciones, desempeñan
 - Músculos esqueléticos
 - Articulaciones
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-locomotor/articulaciones" class="organ-card">
         <div class="card-content">

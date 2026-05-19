@@ -14,7 +14,7 @@ El sistema digestivo es el conjunto de órganos encargados de la ingestión, dig
 Su función principal es transformar los alimentos en sustancias simples que puedan ser absorbidas y utilizadas por las células para obtener energía, crecer y mantener las funciones vitales. Entre sus funciones principales se encuentran la ingestión de alimentos, la digestión mecánica y química, la absorción de nutrientes, agua y minerales, y la eliminación de residuos mediante la defecación. Además, el sistema digestivo participa en funciones inmunológicas y en el mantenimiento del equilibrio metabólico del organismo.
 El adecuado funcionamiento del sistema digestivo es esencial para conservar la salud, ya que permite el aporte de nutrientes necesarios para el correcto funcionamiento de todos los sistemas corporales.
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-digestivo/estomago" class="organ-card">
         <div class="card-content">
@@ -98,5 +98,3 @@ El adecuado funcionamiento del sistema digestivo es esencial para conservar la s
       </a>
     </div>
 </div>
-
-> Añade esquemas, tablas de estructuras y enlaces cruzados a otros sistemas.

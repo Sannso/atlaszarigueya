@@ -6,13 +6,13 @@ description: Cavidades corporales en la zarigüeya.
 tags: [cavidades]
 ---
 
-## Visión general
+## Visión General
 
 El sistema de cavidades incluye las cavidades corporales, desempeñando funciones de protección y soporte en la zarigüeya.
 
 ## Cavidades Principales
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/cavidades/abdomen" class="organ-card">
         <div class="card-content">
