@@ -6,14 +6,13 @@ description: Órganos digestivos y procesos de digestión en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema digestivo incluye los órganos digestivos y los procesos de digestión, desempeñando funciones de absorción y metabolismo en la zarigüeya.
+El sistema digestivo es el conjunto de órganos encargados de la ingestión, digestión y absorción de los alimentos, así como de la eliminación de los desechos no aprovechados por el organismo. Este sistema está conformado por el tracto gastrointestinal (esofago, estomago, intestino delgado y grueso)  y órganos accesorios (higado, pancreas) que participan en el proceso digestivo. A través de movimientos coordinados y secreciones enzimáticas, los alimentos son descompuestos mecánica y químicamente para facilitar la absorción de nutrientes.
 
-### Contenidos sugeridos
-- Estructura del estómago y intestinos
-- Procesos de digestión
-- Metabolismo y absorción
+### FUNCIÓN
+Su función principal es transformar los alimentos en sustancias simples que puedan ser absorbidas y utilizadas por las células para obtener energía, crecer y mantener las funciones vitales. Entre sus funciones principales se encuentran la ingestión de alimentos, la digestión mecánica y química, la absorción de nutrientes, agua y minerales, y la eliminación de residuos mediante la defecación. Además, el sistema digestivo participa en funciones inmunológicas y en el mantenimiento del equilibrio metabólico del organismo.
+El adecuado funcionamiento del sistema digestivo es esencial para conservar la salud, ya que permite el aporte de nutrientes necesarios para el correcto funcionamiento de todos los sistemas corporales.
 
 <div class="subcontent-buttons mb-8">
     <div class="flex flex-wrap gap-3 justify-center">
