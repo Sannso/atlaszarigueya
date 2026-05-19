@@ -18,12 +18,15 @@
     const atlasLink = document.getElementById("atlas-link") as HTMLAnchorElement;
     
     // Detect browser language
-    const browserLang = navigator.language;
-    const langCode = browserLang.startsWith("es") ? "es" : "en";
+    // const browserLang = navigator.language;
+    // const langCode = browserLang.startsWith("es") ? "es" : "en";
     
     // Check for saved preference
-    const savedLang = localStorage.getItem("atlas-lang");
-    const targetLang = savedLang || langCode;
+    // const savedLang = localStorage.getItem("atlas-lang");
+    // const targetLang = savedLang || langCode;
+    
+    // Always redirect to Spanish version
+    const targetLang = "es";
     
     // Update href
     if (atlasLink) {
