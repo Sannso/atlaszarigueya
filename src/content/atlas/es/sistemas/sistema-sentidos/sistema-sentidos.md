@@ -6,14 +6,15 @@ description: Cerebro, médula espinal y receptores sensoriales en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema nervioso y órganos de los sentidos incluyen el cerebro, médula espinal y receptores sensoriales, desempeñando funciones de percepción y coordinación en la zarigüeya.
+Los órganos de los sentidos son estructuras especializadas encargadas de captar estímulos del medio interno y externo, permitiendo al organismo percibir y responder a diferentes cambios en el entorno. Estos órganos trabajan en conjunto con el sistema nervioso, que interpreta la información recibida y genera respuestas adecuadas.
+Los principales órganos de los sentidos incluyen los ojos, oídos, nariz, lengua y piel, los cuales permiten desarrollar funciones relacionadas con la visión, audición, equilibrio, olfato, gusto y tacto. Además de la percepción sensorial, estos órganos participan en mecanismos de defensa y adaptación del organismo frente a cambios ambientales.
 
-### Contenidos sugeridos
-- Estructura del sistema nervioso
-- Circuitos neuronales
-- Receptores sensoriales
+### FUNCIÓN
+
+Cada órgano sensorial contiene receptores especializados capaces de detectar distintos tipos de estímulos, como luz, sonidos, olores, sabores, temperatura, presión y dolor. Gracias a estas funciones, el cuerpo puede orientarse, comunicarse, protegerse de peligros y mantener interacción con el ambiente.
+El adecuado funcionamiento de los órganos de los sentidos es fundamental para la supervivencia y la calidad de vida, ya que facilitan la interpretación del entorno y la coordinación de múltiples actividades corporales
 
 <div class="subcontent-buttons mb-8">
     <div class="flex flex-wrap gap-3 justify-center overflow-hidden">
