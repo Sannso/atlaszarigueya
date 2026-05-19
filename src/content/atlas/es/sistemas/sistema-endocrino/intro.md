@@ -6,14 +6,18 @@ description: Glándulas y hormonas en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema endocrino incluye glándulas y hormonas, desempeñando funciones de regulación en la zarigüeya.
+El sistema endocrino es el conjunto de glándulas y órganos encargados de producir y liberar hormonas, sustancias químicas que actúan como mensajeros y regulan diferentes funciones del organismo. Estas hormonas viajan a través de la sangre hasta los órganos y tejidos donde ejercen sus efectos.
 
-### Contenidos sugeridos
-- Estructura del sistema endocrino
-- Funciones de las hormonas
-- Regulación hormonal
+
+### FUNCIONES
+
+Este sistema participa en procesos fundamentales como el crecimiento y desarrollo, el metabolismo, la reproducción, el equilibrio de líquidos y sales, la respuesta al estrés y el mantenimiento de la homeostasis. Su funcionamiento depende de la coordinación entre distintas glándulas, como la hipófisis, tiroides, paratiroides, páncreas, suprarrenales y gónadas.
+
+El sistema endocrino trabaja de manera estrecha con el sistema nervioso para coordinar las respuestas del cuerpo frente a cambios internos y externos. Mientras el sistema nervioso genera respuestas rápidas, el endocrino produce efectos más lentos pero prolongados.
+
+El adecuado funcionamiento del sistema endocrino es esencial para mantener el equilibrio del organismo, ya que alteraciones en la producción hormonal pueden provocar diferentes enfermedades y trastornos metabólicos.
 
 <div class="subcontent-buttons mb-8">
     <div class="flex flex-wrap gap-3 justify-center">
