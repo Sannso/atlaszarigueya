@@ -6,14 +6,18 @@ description: Riñones, uréteres y vejiga en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema urinario incluye los riñones, uréteres y vejiga, desempeñando funciones de filtración y excreción en la zarigüeya.
+El sistema urinario está conformado principalmente por los riñones, uréteres, vejiga urinaria y uretra. Es un sistema encargado de la producción, transporte, almacenamiento y eliminación de la orina, producto final del metabolismo corporal.
+Los riñones filtran la sangre a nivel de las nefronas, donde se forma la orina mediante procesos de filtración, reabsorción y secreción. Esta orina es conducida por los uréteres hacia la vejiga urinaria, órgano muscular hueco que actúa como reservorio temporal. Finalmente, la uretra permite la expulsión de la orina hacia el exterior del organismo.
 
-### Contenidos sugeridos
-- Estructura de los riñones
-- Proceso de filtración
-- Formación de orina
+### FUNCIONES
+- Excreción de desechos metabólicos: elimina sustancias como urea, creatinina, ácido úrico y toxinas.
+- Regulación del equilibrio hídrico: controla la cantidad de agua en el organismo.
+- Balance electrolítico: mantiene niveles adecuados de sodio, potasio, cloro y otros iones.
+- Regulación del pH sanguíneo: contribuye al equilibrio ácido-base.
+- Control de la presión arterial: mediante el sistema renina-angiotensina-aldosterona.
+- Función endocrina: producción de eritropoyetina (estimula glóbulos rojos) y activación de vitamina D.
 
 <div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
