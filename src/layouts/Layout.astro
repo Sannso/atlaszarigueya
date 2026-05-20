@@ -1,5 +1,11 @@
 ---
 import "@styles/global.css";
+
+interface Props {
+	forceLightMode?: boolean;
+}
+
+const { forceLightMode = false } = Astro.props;
 ---
 
 <!doctype html>
@@ -10,12 +16,18 @@ import "@styles/global.css";
 		<link rel="icon" type="image/png" href="/favicon.png" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Atlas Zarigueya</title>
-		<script type="module" is:inline>
-			const theme = localStorage?.getItem("theme") || "light";
-			document.documentElement.classList.add(
-				theme === "dark" ? "dark" : "light",
-			);
-		</script>
+		{forceLightMode ? (
+			<script type="module" is:inline>
+				document.documentElement.classList.add("light");
+			</script>
+		) : (
+			<script type="module" is:inline>
+				const theme = localStorage?.getItem("theme") || "light";
+				document.documentElement.classList.add(
+					theme === "dark" ? "dark" : "light",
+				);
+			</script>
+		)}
 	</head>
 	<body>
 		<slot />
