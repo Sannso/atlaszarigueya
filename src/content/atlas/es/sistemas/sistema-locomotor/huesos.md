@@ -11,13 +11,17 @@ tags: [locomotor, huesos]
   <span class="back-text">Volver al Sistema Locomotor</span>
 </a>
 
-## Huesos
+## DESCRIPCIÓN
 
-Los huesos forman el esqueleto de la zarigüeya, proporcionando soporte estructural, protección de órganos vitales y sirviendo como reservorio de minerales y sitio de producción de células sanguíneas.
+Los huesos son estructuras rígidas y mineralizadas que conforman el esqueleto del organismo. Están compuestos por tejido óseo compacto y esponjoso, recubiertos externamente por periostio y asociados a médula ósea en su interior.
 
-### Estructura y función ósea
+### FUNCIONES
 
-El sistema óseo de la zarigüeya presenta características adaptativas específicas para su estilo de vida, con huesos ligeros pero resistentes que facilitan tanto la locomoción terrestre como el trepado.
+- Brindar soporte y forma al cuerpo.
+- Proteger órganos internos.
+- Permitir el movimiento junto con músculos y articulaciones.
+- Almacenar minerales como calcio y fósforo.
+- Participar en la producción de células sanguíneas mediante la médula ósea.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Huesos Normales</h3>
@@ -31,7 +35,7 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
   </div>
 </div>
 
-## Patologías de los Huesos
+## Patologías/lesiones de los Huesos
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -40,11 +44,11 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/4.png" 
-               alt="Patología Ósea 1" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 1</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fractura ósea aguda.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -56,12 +60,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/4_1.png" 
-               alt="Patología Ósea 2" 
+               alt="Fractura isquion" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Osteomielitis infecciosa.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura isquion</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa fractura conminuta en aproximadamente 8 piezas del isquion</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -72,12 +76,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/9.png" 
-               alt="Patología Ósea 3" 
+               alt="Fractura fémur" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 3</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Osteoporosis severa.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura fémur</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fractura completa del fémur derecho</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -88,11 +92,11 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/9_1.png" 
-               alt="Patología Ósea 4" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 4</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor óseo benigno.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -104,12 +108,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/9_2.png" 
-               alt="Patología Ósea 5" 
+               alt="Fractura radio y cúbito" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 5</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor óseo maligno.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura radio y cúbito</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se encontró una cirugía de corrección ortopédica en el miembro anterior izquierdo que une una fractura completa de los huesos radio y cubito con presencia de un tornillo quirúrgico en cada hueso</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -120,12 +124,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/13.png" 
-               alt="Patología Ósea 6" 
+               alt="Fractura húmero" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 6</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Displasia ósea.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura húmero</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de fractura simple el húmero derecho</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -136,12 +140,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/14.png" 
-               alt="Patología Ósea 7" 
+               alt="Fractura craneo" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 7</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Osteosarcoma.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura craneo</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fractura simple en zona izquierdolateral del hueso frontal</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -152,12 +156,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/14_1.png" 
-               alt="Patología Ósea 8" 
+               alt="Fractura craneo" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 8</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Metástasis ósea.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura craneo</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fractura simple en zona caudal del hueso nasal</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -168,12 +172,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/14_2.png" 
-               alt="Patología Ósea 9" 
+               alt="Fractura rostral" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 9</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Condrosarcoma.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura rostral</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fractura simple del hueso maxilar y nasal</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -184,11 +188,11 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/14_3.png" 
-               alt="Patología Ósea 10" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 10</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibroma óseo.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -200,12 +204,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/17.png" 
-               alt="Patología Ósea 11" 
+               alt="Amputación" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 11</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Enfermedad de Paget.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Amputación</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa amputación del ultimo terio de la cola con presencia de puntos de sutura.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -216,11 +220,11 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/21.png" 
-               alt="Patología Ósea 12" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 12</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Osteocondrosis.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -232,12 +236,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/21_1.png" 
-               alt="Patología Ósea 13" 
+               alt="Fractura mandíbula" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 13</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Raquitismo.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura mandíbula</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa fractura simple de la rama izquierda de la mandíbula</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -248,11 +252,11 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/21_2.png" 
-               alt="Patología Ósea 14" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 14</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hiperparatiroidismo óseo.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -264,12 +268,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/25.png" 
-               alt="Patología Ósea 15" 
+               alt="Fractura conminuta" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 15</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Osteogénesis imperfecta.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura conminuta</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa fractura conminuta en mas de 3 fragmentos del hueso palatinom y fractura o ausencia del colmillo superior izquierdo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -280,12 +284,12 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/27.png" 
-               alt="Patología Ósea 16" 
+               alt="Fractura columna" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 16</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Necrosis avascular.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura columna</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa fractura completa de columna a nivel de vértebras lumbares L2L3 con evisceración en la zona dorsal del lomo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -296,11 +300,11 @@ El sistema óseo de la zarigüeya presenta características adaptativas específ
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/27_1.png" 
-               alt="Patología Ósea 17" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Ósea 17</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis displasia.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
