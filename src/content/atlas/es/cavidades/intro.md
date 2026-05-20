@@ -1,16 +1,20 @@
 ---
-title: Sistema Cavidades
+title: Cavidades
 lang: es
 order: 3
 description: Cavidades corporales en la zarigüeya.
 tags: [cavidades]
 ---
 
-## Visión General
+## DESCRIPCIÓN
 
-El sistema de cavidades incluye las cavidades corporales, desempeñando funciones de protección y soporte en la zarigüeya.
+Las cavidades corporales son espacios anatómicos que contienen y protegen los órganos internos. Están delimitadas por estructuras óseas, musculares y membranas serosas, permitiendo la organización y funcionamiento adecuado de los diferentes sistemas del organismo.
 
-## Cavidades Principales
+## FUNCIONES 
+- Protección de órganos internos.
+- Soporte y organización anatómica.
+- Permitir movilidad y expansión de órganos.
+- Disminuir fricción mediante membranas serosas y fluidos.
 
 <div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
