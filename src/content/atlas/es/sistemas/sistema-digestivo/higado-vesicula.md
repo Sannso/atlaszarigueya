@@ -11,13 +11,15 @@ tags: [digestivo, higado, vesicula]
   <span class="back-text">Volver al Sistema Digestivo</span>
 </a>
 
-## Hígado & Vesícula Biliar
+## DESCRIPCIÓN
 
-El hígado y la vesícula biliar son órganos fundamentales del sistema digestivo, responsables del metabolismo, detoxificación y producción de bilis en la zarigüeya.
+El hígado es un órgano glandular de gran tamaño ubicado en la cavidad abdominal, asociado principalmente al sistema digestivo y metabólico. Presenta una consistencia firme, superficie lisa y coloración rojo parduzca característica debido a su abundante irrigación sanguínea. Está dividido en lóbulos y recubierto por una cápsula delgada y brillante.
+La vesícula biliar es un órgano hueco y sacular localizado en la cara visceral del hígado. Su función principal es almacenar, concentrar y liberar la bilis producida por el hígado hacia el intestino delgado durante la digestión, especialmente en la digestión de grasas.
 
-### Estructura hepática y biliar
+### FUNCIÓN
 
-El hígado de la zarigüeya presenta características adaptativas específicas que lo diferencian de otros mamíferos, mientras que la vesícula biliar almacena y concentra la bilis necesaria para la digestión.
+Entre sus funciones principales se encuentran el metabolismo de nutrientes, la producción de proteínas plasmáticas y bilis, el almacenamiento de glucógeno, vitaminas y minerales, así como la detoxificación de sustancias y medicamentos. Además, participa en procesos inmunológicos y en la regulación del equilibrio metabólico del organismo.
+la vesícula biliar presenta paredes delgadas y translúcidas, con superficie lisa y contenido biliar de color verde amarillento a verde oscuro. Su adecuado funcionamiento es esencial para el proceso digestivo y el aprovechamiento de los lípidos.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Hígado & Vesícula Normal</h3>
@@ -26,12 +28,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/1.png" 
-               alt="Hígado Normal 1" 
+               alt="Hígado Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Vista externa del hígado con lobulación normal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">se observa con tamaño, forma y lobulación conservadas, ocupando su posición anatómica habitual en la cavidad abdominal. Presenta cápsula lisa, brillante e íntegra, con coloración rojo parduzca uniforme y consistencia firme</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -42,11 +44,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/2.png" 
-               alt="Hígado Normal 2" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 2</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Lobulillos hepáticos con arquitectura conservada.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -58,11 +60,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/3.png" 
-               alt="Hígado Normal 3" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 3</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Vesícula biliar con estructura normal.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -74,12 +76,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/4.png" 
-               alt="Hígado Normal 4" 
+               alt="Hígado Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 4</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Conductos biliares con permeabilidad normal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Al corte, el parénquima hepático muestra aspecto homogéneo, húmedo y bien delimitado, sin presencia de nódulos, áreas hemorrágicas, necrosis o alteraciones evidentes de la arquitectura tisular.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -90,11 +92,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/5.png" 
-               alt="Hígado Normal 5" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 5</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Parénquima hepático con células sanas.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -106,11 +108,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/6.png" 
-               alt="Hígado Normal 6" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 6</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Vasos sanguíneos hepáticos normales.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -122,11 +124,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/7.png" 
-               alt="Hígado Normal 7" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 7</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Tejido conectivo hepático normal.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -138,12 +140,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/8.png" 
-               alt="Hígado Normal 8" 
+               alt="Vesícula biliar Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal 8</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Conexión hígado-vesícula intacta.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Vesícula biliar Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">La vesícula biliar se observa adherida a la cara visceral del hígado, con forma sacular y paredes delgadas, lisas y translúcidas. Contiene bilis de color verde amarillento a verde oscuro, de aspecto homogéneo.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -153,7 +155,7 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
   </div>
 </div>
 
-## Patologías Hepáticas y Biliares
+## Patologías/Lesiones Hepáticas y Biliares
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -162,12 +164,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/1.png" 
-               alt="Patología Hepática 1" 
+               alt="Vesícula biliar pletórica" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hepatomegalia con aumento del tamaño hepático.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Vesícula biliar pletórica</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">La vesícula biliar se encuentra distendida y llena de contenido biliar</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -178,11 +180,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/2.png" 
-               alt="Patología Hepática 2" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 2</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Cirrosis hepática con tejido cicatricial.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -194,11 +196,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/4.png" 
-               alt="Patología Hepática 3" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 3</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Esteatosis hepática con acumulación de grasa.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -210,11 +212,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/4_1.png" 
-               alt="Patología Hepática 4" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 4</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hepatitis inflamatoria del tejido hepático.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -226,12 +228,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/5.png" 
-               alt="Patología Hepática 5" 
+               alt="Esteatosis marcada" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 5</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor hepático con crecimiento anormal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Esteatosis marcada</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">En el hígado se halla un patrón de nuez moscada a lo largo y ancho de todo su parénquima compatible con hígado graso</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -242,12 +244,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/5_1.png" 
-               alt="Patología Hepática 6" 
+               alt="Esteatosis corte" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 6</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Metástasis hepática con lesiones secundarias.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Esteatosis corte</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Al corte se halla un patrón de nuez moscada a lo largo y ancho de todo su parénquima compatible con hígado graso</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -258,12 +260,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/7.png" 
-               alt="Patología Hepática 7" 
+               alt="Esteatosis hepática leve corte" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 7</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Absceso hepático con acumulación de pus.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Esteatosis hepática corte</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Al corte se halla un patrón de nuez moscada a lo largo y ancho de todo su parénquima</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -274,12 +276,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/7_1.png" 
-               alt="Patología Hepática 8" 
+               alt="Esteatosis hepática leve" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 8</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Necrosis hepática con muerte celular.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Esteatosis hepática leve</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">En el hígado se halla un patrón de nuez moscada a lo largo y ancho de todo su parénquima</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -290,11 +292,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/8.png" 
-               alt="Patología Hepática 9" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 9</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis hepática con tejido conectivo.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -306,12 +308,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/8_2.png" 
-               alt="Patología Hepática 10" 
+               alt="Fractura Hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 10</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Colesterolosis vesicular.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura Hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de una fractura hepática en ambos lóbulos caudales</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -322,12 +324,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/9.png" 
-               alt="Patología Hepática 11" 
+               alt="Lesión" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 11</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Litiasis vesicular con cálculos biliares.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesión</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa lesión blanquecina alargada superficial en la cápsula de bordes bien delimitados y apariencia burbujeante, al corte no afecta el parenquima</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -338,11 +340,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/11.png" 
-               alt="Patología Hepática 12" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 12</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Colecistitis aguda inflamación vesicular.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -354,12 +356,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/12.png" 
-               alt="Patología Hepática 13" 
+               alt="Degeneración hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 13</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Colangitis obstrucción de conductos.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Degeneración hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">se observa con consistencia friable y fácilmente desmenuzable a la manipulación. Presenta pérdida parcial de la firmeza normal del parénquima hepático, con cápsula delicada y tejido blando.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -370,12 +372,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/13.png" 
-               alt="Patología Hepática 14" 
+               alt="Congestión Hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 14</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Insuficiencia hepática avanzada.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Congestión Hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de congestión hepática a lo largo y ancho del parénquima en su totalidad</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -386,12 +388,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/14.png" 
-               alt="Patología Hepática 15" 
+               alt="Cirrosis Hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 15</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hemangioma hepático benigno.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Cirrosis Hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">El órgano presenta consistencia firme a dura y gomosa, superficie irregular y fibrosis. Los bordes  redondeados y la cápsulaengrosada.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -402,12 +404,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/14_1.png" 
-               alt="Patología Hepática 16" 
+               alt="Cirrosis Hepática corte" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 16</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Quistes hepáticos múltiples.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Cirrosis Hepática corte</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Al corte, el parénquima muestra pérdida de la arquitectura normal, bandas fibrosas blanquecinas y textura gomosa o retraída con contenido de exudado serosanguinolento abundante</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -418,12 +420,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/16.png" 
-               alt="Patología Hepática 17" 
+               alt="Degeneración hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 17</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Adenoma hepático benigno.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Degeneración hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">El hígado se encuentra con presencia de impresiones puntiformes multifocales blanquecinas distribuidas de forma homogénea ocupando todo el parénquima</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -434,11 +436,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/16_1.png" 
-               alt="Patología Hepática 18" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 18</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hiperplasia nodular focal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -450,12 +452,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/18.png" 
-               alt="Patología Hepática 19" 
+               alt="Fibrosis hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 19</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Atresia biliar congénita.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fibrosis hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa ligeramente aumentado de tamaño y con bordes discretamente redondeados. La cápsula se aprecia levemente engrosada y el parénquima presentar consistencia ligeramente gomosa al corte. Se observan finas bandas blanquecinas distribuidas de forma multifocal dentro del tejido.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -466,11 +468,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/18_1.png" 
-               alt="Patología Hepática 20" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 20</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Síndrome de Budd-Chiari.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -482,11 +484,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/2_1.png" 
-               alt="Patología Hepática 21" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 21</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Higado graso no alcohólico.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -498,12 +500,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/25.png" 
-               alt="Patología Hepática 22" 
+               alt="Necrosis" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 22</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Porfiria hepática aguda.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Necrosis</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay pérdida de la arquitectura normal del parénquima, coloración grisácea y consistencia friable.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -514,12 +516,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/26.png" 
-               alt="Patología Hepática 23" 
+               alt="Rugosidad capsular" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 23</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Enfermedad de Wilson hepática.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Rugosidad capsular</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa una superficie irregular y de apariencia rugosa, con pérdida de la lisura habitual de la cápsula hepática. El parénquima se observa firme y hay áreas de relieve desigual distribuidas de forma difusa.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -535,7 +537,7 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 24</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hemocromatosis hepática.</p>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se halla presencia de impresiones puntiformes multifocales blanquecinas distribuidas de forma irregular focalizada en la capsula de los lobulos caudales</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -546,12 +548,12 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/28.png" 
-               alt="Patología Hepática 25" 
+               alt="Fracturaa Hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 25</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Colangiocarcinoma.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fracturaa Hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay Presencia de una fractura hepática en el lóbulo lateral izquierdo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -562,11 +564,11 @@ El hígado de la zarigüeya presenta características adaptativas específicas q
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/28_1.png" 
-               alt="Patología Hepática 26" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 26</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hepatocarcinoma primario.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
