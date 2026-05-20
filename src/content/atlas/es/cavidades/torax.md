@@ -11,8 +11,9 @@ tags: [cavidades, torax]
   <span class="back-text">Volver a Cavidades</span>
 </a>
 
-## Tórax
+## DESCRIPCIÓN
 
+La cavidad torácica se localiza craneal al diafragma y está delimitada por costillas, esternón y columna vertebral. Contiene pulmones, corazón, tráquea y grandes vasos sanguíneos.
 La cavidad torácica de la zarigüeya protege los órganos vitales respiratorios y cardiovasculares, adaptada para su estilo de vida marsupial y sus necesidades metabólicas específicas.
 
 ## Imágenes Patológicas
