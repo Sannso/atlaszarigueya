@@ -6,14 +6,19 @@ description: Huesos, músculos y articulaciones en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema locomotor incluye los huesos, músculos y articulaciones, desempeñando funciones de movimiento y soporte en la zarigüeya.
+El sistema locomotor está conformado por huesos, articulaciones, músculos, tendones y ligamentos, estructuras encargadas de brindar soporte, estabilidad y movimiento al organismo. Este sistema trabaja de manera coordinada para permitir el desplazamiento, mantener la postura corporal y proteger órganos internos.
+El componente óseo constituye el armazón estructural del cuerpo, mientras que los músculos generan movimiento mediante contracción. Las articulaciones permiten la unión y movilidad entre los huesos, y los tendones y ligamentos proporcionan fijación y estabilidad mecánica.
 
-### Contenidos sugeridos
-- Estructura de los huesos
-- Músculos esqueléticos
-- Articulaciones
+### FUNCIONES
+- Soporte corporal: mantiene la forma y estructura del organismo.
+- Movimiento y locomoción: permite desplazamiento y actividad muscular.
+- Protección de órganos internos: como cráneo, columna y caja torácica.
+- Mantenimiento de la postura y equilibrio.
+- Reserva de minerales: especialmente calcio y fósforo en el tejido óseo.
+- Producción de células sanguíneas: mediante médula ósea.
+- Amortiguación y estabilidad articular.
 
 <div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
