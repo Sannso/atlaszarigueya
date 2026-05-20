@@ -19,7 +19,7 @@ El bazo es el mayor órgano linfático secundario de la zarigüeya, desempeñand
 
 El bazo de la zarigüeya presenta una estructura lobulada característica con pulpa blanca y pulpa roja bien diferenciadas, permitiendo una eficiente filtración sanguínea y activación linfocitaria.
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Bazo Normal</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
@@ -43,7 +43,7 @@ El bazo de la zarigüeya presenta una estructura lobulada característica con pu
 
 ## Patologías/lesiones del Bazo
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">

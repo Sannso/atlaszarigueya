@@ -19,7 +19,7 @@ El estómago es un órgano muscular y distensible del sistema digestivo, ubicado
 
 La pared del estómago está compuesta por capas musculares que permiten la trituración y mezcla del contenido alimenticio, formando una sustancia semilíquida llamada quimo. Además, produce ácido clorhídrico y enzimas digestivas, como la pepsina, que participan en la digestión de proteínas y ayudan a eliminar microorganismos ingeridos.
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Estómago Normal</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
@@ -43,7 +43,7 @@ La pared del estómago está compuesta por capas musculares que permiten la trit
 
 ## Patologías/lesiones Gástricas
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
@@ -104,22 +104,6 @@ La pared del estómago está compuesta por capas musculares que permiten la trit
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Parásitismo</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay presencia de parásitos con coloración blanquecina de forma cilíndrica compatibles con nematodos y contenido alimentario</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/estomago/patologia/5.png" 
-               alt="NO" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Atrofia gástrica con pérdida de parénquima funcional.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar

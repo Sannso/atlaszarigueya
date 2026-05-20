@@ -21,7 +21,7 @@ La vesícula biliar es un órgano hueco y sacular localizado en la cara visceral
 Entre sus funciones principales se encuentran el metabolismo de nutrientes, la producción de proteínas plasmáticas y bilis, el almacenamiento de glucógeno, vitaminas y minerales, así como la detoxificación de sustancias y medicamentos. Además, participa en procesos inmunológicos y en la regulación del equilibrio metabólico del organismo.
 la vesícula biliar presenta paredes delgadas y translúcidas, con superficie lisa y contenido biliar de color verde amarillento a verde oscuro. Su adecuado funcionamiento es esencial para el proceso digestivo y el aprovechamiento de los lípidos.
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Hígado & Vesícula Normal</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
@@ -43,38 +43,6 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/2.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Lobulillos hepáticos con arquitectura conservada.</p>
-        <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/3.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Vesícula biliar con estructura normal.</p>
-        <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/4.png" 
                alt="Hígado Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
@@ -82,54 +50,6 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Hígado Normal</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Al corte, el parénquima hepático muestra aspecto homogéneo, húmedo y bien delimitado, sin presencia de nódulos, áreas hemorrágicas, necrosis o alteraciones evidentes de la arquitectura tisular.</p>
-        <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/5.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Parénquima hepático con células sanas.</p>
-        <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/6.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Vasos sanguíneos hepáticos normales.</p>
-        <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/normal/7.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tejido conectivo hepático normal.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -157,7 +77,7 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
 
 ## Patologías/Lesiones Hepáticas y Biliares
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
@@ -170,54 +90,6 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Vesícula biliar pletórica</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">La vesícula biliar se encuentra distendida y llena de contenido biliar</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/2.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Cirrosis hepática con tejido cicatricial.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/4.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Esteatosis hepática con acumulación de grasa.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/4_1.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hepatitis inflamatoria del tejido hepático.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -291,22 +163,6 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/8.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis hepática con tejido conectivo.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/8_2.png" 
                alt="Fractura Hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
@@ -330,22 +186,6 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Lesión</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa lesión blanquecina alargada superficial en la cápsula de bordes bien delimitados y apariencia burbujeante, al corte no afecta el parenquima</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/11.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Colecistitis aguda inflamación vesicular.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -435,22 +275,6 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/16_1.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hiperplasia nodular focal.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/18.png" 
                alt="Fibrosis hepática" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
@@ -458,38 +282,6 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Fibrosis hepática</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa ligeramente aumentado de tamaño y con bordes discretamente redondeados. La cápsula se aprecia levemente engrosada y el parénquima presentar consistencia ligeramente gomosa al corte. Se observan finas bandas blanquecinas distribuidas de forma multifocal dentro del tejido.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/18_1.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Síndrome de Budd-Chiari.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/2_1.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Higado graso no alcohólico.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -536,7 +328,7 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática 24</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">Patología Hepática</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se halla presencia de impresiones puntiformes multifocales blanquecinas distribuidas de forma irregular focalizada en la capsula de los lobulos caudales</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -552,24 +344,8 @@ la vesícula biliar presenta paredes delgadas y translúcidas, con superficie li
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Fracturaa Hepática</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay Presencia de una fractura hepática en el lóbulo lateral izquierdo</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/higado-vesicula/patologia/28_1.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hepatocarcinoma primario.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fractura Hepática</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay presencia de una fractura hepática en el lóbulo lateral izquierdo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar

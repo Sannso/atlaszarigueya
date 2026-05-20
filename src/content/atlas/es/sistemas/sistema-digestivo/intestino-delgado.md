@@ -20,15 +20,15 @@ El intestino delgado es un segmento tubular del sistema digestivo que se extiend
 Su función principal es la digestión química final de los nutrientes y su absorción. En este segmento se absorben carbohidratos, proteínas y lípidos, así como vitaminas, minerales y gran parte del agua. Además, participa en procesos inmunológicos locales mediante tejido linfoide asociado a mucosa (placas de Peyer), contribuyendo a la defensa contra agentes patógenos ingeridos.
 
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Intestino Delgado Normal</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/normal/4.png" 
-               alt="Intestino Delgado Normal" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+          <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/normal/4.png"
+               alt="Intestino Delgado Normal"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Intestino Delgado Normal</h4>
@@ -44,7 +44,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
 
 ## Patologías/lesiones del Intestino Delgado
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
@@ -52,7 +52,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/1.png" 
                alt="Enteritis" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Enteritis</h4>
@@ -68,7 +68,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/1_1.png" 
                alt="Congestión intestinal" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Congestión intestinal</h4>
@@ -84,7 +84,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/3.png" 
                alt="Parasitismo intestinal" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Parasitismo Intestinal</h4>
@@ -100,7 +100,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/10.png" 
                alt="Enteritis hemorrágica" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Enteritis hemorrágica</h4>
@@ -116,7 +116,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/13.png" 
                alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">no</h4>
@@ -132,7 +132,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/14.png" 
                alt="Parasitismo intestinal" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Parasitismo intestinal</h4>
@@ -148,7 +148,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/14_1.png" 
                alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">no</h4>
@@ -164,7 +164,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/14_2.png" 
                alt="Enteritis granulomatosa" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Enteritis granulomatosa</h4>
@@ -180,7 +180,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/16.png" 
                alt="Parasitismo intestinal" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Parasitismo intestinal</h4>
@@ -196,7 +196,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/16_1.png" 
                alt="Úlceras Intestinales" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Úlceras Intestinales</h4>
@@ -212,7 +212,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/21.png" 
                alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">no</h4>
@@ -228,7 +228,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/21_1.png" 
                alt="Enteritis catarral" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Enteritis catarral</h4>
@@ -244,7 +244,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/25.png" 
                alt="Lesiones necróticas" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Lesiones necróticas</h4>
@@ -260,7 +260,7 @@ Su función principal es la digestión química final de los nutrientes y su abs
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/27.png" 
                alt="Neoplasia" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
+               class="w-full h-full object-contain rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Neoplaia</h4>
