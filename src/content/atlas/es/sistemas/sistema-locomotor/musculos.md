@@ -11,13 +11,17 @@ tags: [locomotor, musculos]
   <span class="back-text">Volver al Sistema Locomotor</span>
 </a>
 
-## Músculos
+## DESCRIPCIÓN
 
-Los músculos son los tejidos contráctiles que generan fuerza y movimiento en el sistema locomotor de la zarigüeya, permitiendo la locomoción, mantenimiento de postura y otras funciones motoras.
+Los músculos son tejidos blandos especializados compuestos por fibras contráctiles, responsables de generar movimiento mediante contracción y relajación. Se encuentran unidos a los huesos por tendones y presentan abundante vascularización.
 
-### Estructura y función muscular
+### FUNCIONES
 
-El sistema muscular de la zarigüeya está adaptado para sus necesidades de trepado y movimiento rápido, con una distribución de fibras musculares optimizada para tanto resistencia como potencia explosiva.
+- Generar movimiento y locomoción.
+- Mantener la postura corporal.
+- Estabilizar articulaciones.
+- Producir calor corporal mediante actividad muscular.
+- Participar en funciones vitales como respiración y circulación en músculos especializados.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Músculos Normales</h3>
@@ -31,7 +35,7 @@ El sistema muscular de la zarigüeya está adaptado para sus necesidades de trep
   </div>
 </div>
 
-## Patologías de los Músculos
+## Patologías/lesiones de los Músculos
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
