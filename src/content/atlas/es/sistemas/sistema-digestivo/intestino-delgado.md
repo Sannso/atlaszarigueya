@@ -11,13 +11,14 @@ tags: [digestivo, intestino-delgado]
   <span class="back-text">Volver al Sistema Digestivo</span>
 </a>
 
-## Intestino Delgado
+## DESCRIPCIÓN
 
-El intestino delgado es el principal órgano de absorción de nutrientes en la zarigüeya, con características adaptativas específicas para su dieta omnívora.
+El intestino delgado es un segmento tubular del sistema digestivo que se extiende desde el píloro hasta la válvula ileocecal. Anatómicamente se divide en duodeno, yeyuno e íleon. Presenta una pared delgada, flexible y altamente vascularizada, con mucosa plegada en vellosidades intestinales que aumentan significativamente la superficie de absorción. En condiciones normales, su serosa es lisa y brillante, y su luz contiene material digerido en tránsito.
 
-### Estructura y función intestinal
+### FUNCIÓN
 
-El intestino delgado de la zarigüeya presenta vellosidades intestinales especializadas que maximizan la superficie de absorción, permitiendo una eficiente extracción de nutrientes de diversos alimentos.
+Su función principal es la digestión química final de los nutrientes y su absorción. En este segmento se absorben carbohidratos, proteínas y lípidos, así como vitaminas, minerales y gran parte del agua. Además, participa en procesos inmunológicos locales mediante tejido linfoide asociado a mucosa (placas de Peyer), contribuyendo a la defensa contra agentes patógenos ingeridos.
+
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Intestino Delgado Normal</h3>
@@ -26,12 +27,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/normal/4.png" 
-               alt="Intestino Delgado Normal 1" 
+               alt="Intestino Delgado Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Intestino Delgado Normal 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Estructura normal del intestino delgado con vellosidades intactas.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Intestino Delgado Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa longitud conservada, con serosa lisa, brillante y de coloración rosada a pálida. La pared presenta consistencia blanda y elástica, con adecuada diferenciación de sus capas. A la apertura, la mucosa es lisa de aspecto aterciopelado. La luz puede contener contenido líquido o semisólido.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -41,7 +42,7 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
   </div>
 </div>
 
-## Patologías del Intestino Delgado
+## Patologías/lesiones del Intestino Delgado
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -50,12 +51,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/1.png" 
-               alt="Patología Intestinal 1" 
+               alt="Enteritis" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Enteritis inflamatoria del intestino delgado.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Enteritis</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa  la pared de la porción del yeyuno del intestino delgado adelgazada y contenido mucosanguinolento</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -66,12 +67,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/1_1.png" 
-               alt="Patología Intestinal 2" 
+               alt="Congestión intestinal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Ulceración de la mucosa intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Congestión intestinal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa serosa de coloración rojiza, de aspecto húmedo y brillante, con congestión vascular evidente. La pared intestinal presenta leve aumento de la turgenci y áreas de enrojecimiento difuso.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -82,12 +83,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/3.png" 
-               alt="Patología Intestinal 3" 
+               alt="Parasitismo intestinal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 3</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Obstrucción intestinal parcial.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parasitismo Intestinal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de parásito entre 12 y 35 cm de largo a nivel del yeyuno del intestino delgado, de coloración blanquecina, identificado como Macracanthorhynchus hirudinaceus</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -98,12 +99,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/10.png" 
-               alt="Patología Intestinal 4" 
+               alt="Enteritis hemorrágica" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 4</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Síndrome de malabsorción intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Enteritis hemorrágica</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa  la pared de la porción del yeyuno del intestino delgado adelgazada y contenido mucosanguinolento</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -114,11 +115,11 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/13.png" 
-               alt="Patología Intestinal 5" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 5</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Parásitos intestinales.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -130,12 +131,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/14.png" 
-               alt="Patología Intestinal 6" 
+               alt="Parasitismo intestinal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 6</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor intestinal benigno.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parasitismo intestinal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de parásito entre 12 y 35 cm de largo a nivel del yeyuno del intestino delgado, de coloración blanquecina, identificado como Macracanthorhynchus hirudinaceus</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -146,11 +147,11 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/14_1.png" 
-               alt="Patología Intestinal 7" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 7</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Adenocarcinoma intestinal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -162,12 +163,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/14_2.png" 
-               alt="Patología Intestinal 8" 
+               alt="Enteritis granulomatosa" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 8</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Linfoma intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Enteritis granulomatosa</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de múltiples lesiones nodulares, redondeadas, bien delimitadas, de aspecto sobreelevado, distribuidas de forma multifocal a lo largo de la pared intestinal. Las lesiones son de consistencia firmede, coloración más pálida a amarillenta y a pared intestinal se encuentra engrosada y difusa, a serosa presenta irregularidad leve.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -178,12 +179,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/16.png" 
-               alt="Patología Intestinal 9" 
+               alt="Parasitismo intestinal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 9</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Isquemia intestinal aguda.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parasitismo intestinal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de parásito entre 12 y 35 cm de largo a nivel del yeyuno del intestino delgado, de coloración blanquecina, identificado como Macracanthorhynchus hirudinaceus</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -194,12 +195,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/16_1.png" 
-               alt="Patología Intestinal 10" 
+               alt="Úlceras Intestinales" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 10</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Perforación intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Úlceras Intestinales</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay pesencia de ulceras multifocales en la mucosa, de tamaño variable, con pérdida focal del epitelio y exposición de la lámina propia. Las úlceras presentan bordes irregulares, a veces elevados o ligeramente engrosados</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -210,11 +211,11 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/21.png" 
-               alt="Patología Intestinal 11" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 11</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Enfermedad inflamatoria intestinal crónica.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -226,12 +227,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/21_1.png" 
-               alt="Patología Intestinal 12" 
+               alt="Enteritis catarral" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 12</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Diverticulosis intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Enteritis catarral</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay un adelgazamiento de la mucosa a lo largo del intestino delgado con contenido catarral </p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -242,12 +243,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/25.png" 
-               alt="Patología Intestinal 13" 
+               alt="Lesiones necróticas" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 13</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Estenosis intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Lesiones necróticas</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay presencia de lesiones necróticas de forma irregular de coloración negra a lo largo de la porción del yeyuno </p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -258,12 +259,12 @@ El intestino delgado de la zarigüeya presenta vellosidades intestinales especia
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-delgado/patologia/27.png" 
-               alt="Patología Intestinal 14" 
+               alt="Neoplasia" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Intestinal 14</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Vólvulo intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Neoplaia</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se halla presencia de única masa neoplasica a nivel del mesenterio a la altura del yeyuno, de consistencia dura al tacto y a el corte de coloración rosácea, porción regional a la masa con adelgazamiento de la pared y necrosis de coloración grisácea</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
