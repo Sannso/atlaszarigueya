@@ -8,7 +8,7 @@ tags: [sistemas]
 
 ## DESCRIPCIÓN
 
-El sistema reproductor femenino está conformado por ovarios, oviductos, útero, cérvix, vagina, vulva y, en marsupiales, el marsupio. Su función principal es la producción de gametos femeninos, la reproducción y el desarrollo de las crías.
+El sistema reproductor femenino está conformado por ovarios, oviductos, útero, cérvix, vagina, vulva y, en marsupiales, el marsupio. Su función principal es la producción de gametos femeninos, la reproducción y el desarrollo de las crías. Las hembras marsupiales tienen: dos úteros, dos vaginas laterales, un canal medio asociado al parto (según especie/estado reproductivo) y el marsupio.
 
 ### FUNCIONES
 Producción de ovocitos.
