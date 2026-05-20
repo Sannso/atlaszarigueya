@@ -11,13 +11,13 @@ tags: [digestivo, intestino-grueso]
   <span class="back-text">Volver al Sistema Digestivo</span>
 </a>
 
-## Intestino Grueso
+## DESCRIPCIÓN
 
-El intestino grueso es responsable de la absorción de agua y electrolitos, así como de la formación y almacenamiento de heces en la zarigüeya.
+El intestino grueso es la porción terminal del tubo digestivo, que se extiende desde la válvula ileocecal hasta el recto y el ano. Anatómicamente se divide en ciego, colon y recto. Se caracteriza por presentar una pared más gruesa que el intestino delgado, con una luz generalmente más amplia, mucosa sin vellosidades y una superficie relativamente lisa, aunque con pliegues y presencia de abundantes criptas glandulares. Su serosa suele ser lisa y brillante, con variaciones según el contenido fecal.
 
-### Estructura y función colónica
+### FUNCIÓN
 
-El intestino grueso de la zarigüeya presenta una estructura adaptada para su dieta variada, con una capacidad eficiente de reabsorción de agua y una microbiota especializada.
+Su función principal es la absorción de agua y electrolitos, lo que contribuye a la formación y compactación de las heces. Además, participa en la fermentación de residuos no digeridos mediante la microbiota intestinal, lo que permite la producción de ácidos grasos de cadena corta y algunas vitaminas. También cumple un papel importante en la almacenación temporal de las heces hasta su expulsión y en la lubricación del contenido mediante secreción de moco.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Intestino Grueso Normal</h3>
@@ -26,12 +26,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/normal/4.png" 
-               alt="Intestino Grueso Normal 1" 
+               alt="Intestino Grueso Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Intestino Grueso Normal 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Estructura normal del colon con mucosa intacta.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Intestino Grueso Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa disposición anatómica conservada, de calibre y longitud adecuados para la especie. La serosa es lisa, brillante y de coloración rosada pálida. Al tacto, la pared presenta consistencia ligeramente firme y elástica. A la apertura, la mucosa se encuentra íntegra, lisa, de coloración homogénea y la luz intestinal contiene material fecal.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -41,7 +41,7 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
   </div>
 </div>
 
-## Patologías del Intestino Grueso
+## Patologías/lesiones del Intestino Grueso
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -50,12 +50,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/1.png" 
-               alt="Patología Colónica 1" 
+               alt="Parasitismo" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Colitis ulcerosa del intestino grueso.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parasitismo</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de parásitos con coloración blanquecina y forma cilíndrica compatibles con nematodos en la luz de la porción del ciego del intestino grueso</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -66,12 +66,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/2.png" 
-               alt="Patología Colónica 2" 
+               alt="Colitis" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Enfermedad de Crohn intestinal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Colitis</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa engrosamiento de la pared, con pérdida parcial de su distensibilidad normal. La serosa presenta áreas multifocales de congestión, y en algunos segmentos aspecto opaco. A la apertura, la mucosa se encuentra irregular y edematosa.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -82,12 +82,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/2_1.png" 
-               alt="Patología Colónica 3" 
+               alt="Neoplasia intestinal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 3</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Diverticulosis del colon.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Neoplasia intestinal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de única masa neoplasica  a nivel del mesenterio a la altura del colon, de consistencia dura al tacto y a el corte de coloración rosácea. mucosa de coloracion palida y con la pared engrosada</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -98,11 +98,11 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/9.png" 
-               alt="Patología Colónica 4" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 4</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Pólipos colónicos benignos.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -114,12 +114,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/9_1.png" 
-               alt="Patología Colónica 5" 
+               alt="Congestión" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 5</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Cáncer colorrectal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Congestión</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay un adelgazamiento de la mucosa a lo largo de la porción del colon del intestino grueso</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -130,12 +130,12 @@ El intestino grueso de la zarigüeya presenta una estructura adaptada para su di
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-digestivo/intestino-grueso/patologia/14.png" 
-               alt="Patología Colónica 6" 
+               alt="Parasitismo" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Colónica 6</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Megacolon tóxico.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Parasitismo</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de parásitos con coloración blanquecina y forma cilíndrica compatibles con nematodos en la luz de la porción del ciego del intestino grueso</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
