@@ -19,7 +19,7 @@ El pene es el órgano copulador masculino de la zarigüeya, responsable de la in
 
 El pene de la zarigüeya está compuesto por tejido eréctil, glándulas asociadas y una estructura bifurcada en algunas especies. Su diseño permite una cópula efectiva y la transferencia exitosa de material genético.
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Pene Normal</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">

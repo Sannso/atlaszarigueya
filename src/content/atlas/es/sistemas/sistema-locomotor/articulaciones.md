@@ -22,7 +22,7 @@ Las articulaciones son estructuras anatómicas que unen dos o más huesos, permi
 - Facilitar la flexibilidad y locomoción.
 
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Articulaciones Normales</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="col-span-full text-center py-12 bg-gray-50 rounded-xl">
@@ -36,7 +36,7 @@ Las articulaciones son estructuras anatómicas que unen dos o más huesos, permi
 
 ## Patologías/lesiones de las Articulaciones
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">

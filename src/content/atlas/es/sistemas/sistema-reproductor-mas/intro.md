@@ -65,7 +65,7 @@ El sistema reproductor masculino está conformado por testículos, epidídimos, 
 
 ## Galería del Sistema Reproductor Masculino
 
-<div class="system-gallery mb-12">
+<div class="system-gallery my-12">
   <div class="gallery-intro text-center mb-8">
     <h3 class="text-2xl font-bold text-gray-800 mb-3">Vista General del Sistema</h3>
     <p class="text-gray-600 max-w-2xl mx-auto">Explora las imágenes representativas del sistema reproductor masculino de la zarigüeya, mostrando su estructura adaptativa única.</p>

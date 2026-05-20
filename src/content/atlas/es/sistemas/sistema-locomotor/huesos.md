@@ -23,7 +23,7 @@ Los huesos son estructuras rígidas y mineralizadas que conforman el esqueleto d
 - Almacenar minerales como calcio y fósforo.
 - Participar en la producción de células sanguíneas mediante la médula ósea.
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Huesos Normales</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="col-span-full text-center py-12 bg-gray-50 rounded-xl">
@@ -37,25 +37,9 @@ Los huesos son estructuras rígidas y mineralizadas que conforman el esqueleto d
 
 ## Patologías/lesiones de los Huesos
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/4.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fractura ósea aguda.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
@@ -82,22 +66,6 @@ Los huesos son estructuras rígidas y mineralizadas que conforman el esqueleto d
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Fractura fémur</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fractura completa del fémur derecho</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/9_1.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor óseo benigno.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -219,22 +187,6 @@ Los huesos son estructuras rígidas y mineralizadas que conforman el esqueleto d
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/21.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Osteocondrosis.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/21_1.png" 
                alt="Fractura mandíbula" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
@@ -242,22 +194,6 @@ Los huesos son estructuras rígidas y mineralizadas que conforman el esqueleto d
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Fractura mandíbula</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa fractura simple de la rama izquierda de la mandíbula</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/21_2.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hiperparatiroidismo óseo.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -290,22 +226,6 @@ Los huesos son estructuras rígidas y mineralizadas que conforman el esqueleto d
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Fractura columna</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa fractura completa de columna a nivel de vértebras lumbares L2L3 con evisceración en la zona dorsal del lomo</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-locomotor/huesos/patologia/27_1.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis displasia.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar

@@ -17,12 +17,13 @@ La vejiga es el órgano de almacenamiento del sistema urinario, responsable de c
 La vejiga presenta una estructura elástica y muscular que permite almacenar grandes volúmenes de orina de manera temporal, con paredes especializadas que facilitan la retención y expulsión controlada.
 
 ### FUNCIÓN
+
 - Mantener una eliminación urinaria controlada.
 - Proteger vías urinarias superiores evitando el reflujo de orina.
 - Contribuir al equilibrio hírico mediante el almacenamiento urinario temporal.
 
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Vejiga Normal</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="col-span-full text-center py-12 bg-gray-50 rounded-xl">
@@ -36,7 +37,7 @@ La vejiga presenta una estructura elástica y muscular que permite almacenar gra
 
 ## Patologías/lesiones de la Vejiga
 
-<div class="image-gallery mb-12">
+<div class="image-gallery my-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
   <div class="gallery-grid grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
@@ -74,22 +75,6 @@ La vejiga presenta una estructura elástica y muscular que permite almacenar gra
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor vesical benigno.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7_1.png" 
                alt="Vejiga pletórica" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
@@ -106,38 +91,6 @@ La vejiga presenta una estructura elástica y muscular que permite almacenar gra
     <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7_4.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Divertículo vesical.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7_5.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Inflamación vesical crónica.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/8.png" 
                alt="Hematuria" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
@@ -145,38 +98,6 @@ La vejiga presenta una estructura elástica y muscular que permite almacenar gra
         </div>
         <h4 class="font-semibold text-gray-800 mb-2">Hematuria</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Se encuentra contenido hematurico de aproximadamente 8ml</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/16.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Infección vesical.</p>
-        <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
-          <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
-          Click para ampliar
-        </div>
-      </div>
-    </div>
-    <div class="image-card group cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl">
-      <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
-        <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
-          <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/nn.png" 
-               alt="no" 
-               class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
-               loading="lazy">
-        </div>
-        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Obstrucción uretral.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar

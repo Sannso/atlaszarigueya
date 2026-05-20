@@ -12,6 +12,7 @@ El sistema locomotor está conformado por huesos, articulaciones, músculos, ten
 El componente óseo constituye el armazón estructural del cuerpo, mientras que los músculos generan movimiento mediante contracción. Las articulaciones permiten la unión y movilidad entre los huesos, y los tendones y ligamentos proporcionan fijación y estabilidad mecánica.
 
 ### FUNCIONES
+
 - Soporte corporal: mantiene la forma y estructura del organismo.
 - Movimiento y locomoción: permite desplazamiento y actividad muscular.
 - Protección de órganos internos: como cráneo, columna y caja torácica.

@@ -16,7 +16,7 @@ Los principales órganos de los sentidos incluyen los ojos, oídos, nariz, lengu
 Cada órgano sensorial contiene receptores especializados capaces de detectar distintos tipos de estímulos, como luz, sonidos, olores, sabores, temperatura, presión y dolor. Gracias a estas funciones, el cuerpo puede orientarse, comunicarse, protegerse de peligros y mantener interacción con el ambiente.
 El adecuado funcionamiento de los órganos de los sentidos es fundamental para la supervivencia y la calidad de vida, ya que facilitan la interpretación del entorno y la coordinación de múltiples actividades corporales
 
-<div class="subcontent-buttons mb-8">
+<div class="subcontent-buttons my-8">
     <div class="flex flex-wrap gap-3 justify-center">
       <a href="/atlas/es/sistemas/sistema-sentidos/ojos" class="organ-card">
         <div class="card-content">
