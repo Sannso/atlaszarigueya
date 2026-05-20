@@ -6,14 +6,18 @@ description: Vías respiratorias y mecanismos de ventilación en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema respiratorio incluye las vías aéreas superiores e inferiores, desempeñando funciones de ventilación y gasometría en la zarigüeya.
+El sistema respiratorio está conformado por las vías respiratorias superiores e inferiores, incluyendo cavidad nasal, faringe, laringe, tráquea, bronquios, bronquiolos y pulmones. Su principal función es permitir el intercambio gaseoso entre el organismo y el medio externo. Anatómicamente, las vías respiratorias conducen el aire hacia los pulmones, donde los alvéolos pulmonares realizan el intercambio de oxígeno y dióxido de carbono con la sangre. Los pulmones presentan una estructura esponjosa, altamente vascularizada y elástica, recubierta externamente por la pleura.
 
-### Contenidos sugeridos
-- Estructura de las vías respiratorias
-- Mecanismos de ventilación
-- Gasometría y perfusión
+### FUNCIONES
+- Intercambio gaseoso: ingreso de oxígeno y eliminación de dióxido de carbono.
+- Oxigenación sanguínea: esencial para el metabolismo celular.
+- Regulación del equilibrio ácido-base: mediante el control de CO₂.
+- Filtración, humidificación y calentamiento del aire inspirado.
+- Defensa inmunológica: gracias al moco, cilios y células inmunitarias.
+- Producción de sonidos y vocalización mediante la laringe.
+- Participación en el olfato a través de la cavidad nasal.
 
 <div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
