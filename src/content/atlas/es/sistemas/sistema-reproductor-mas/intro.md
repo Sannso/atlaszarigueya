@@ -6,14 +6,17 @@ description: Órganos reproductivos en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
+El sistema reproductor masculino está conformado por testículos, epidídimos, conductos deferentes, glándulas accesorias y pene. Su función principal es la producción y transporte de espermatozoides. Tener en cuenta:
+- Los testículos suelen localizarse en un escroto prepeneano (más hacia craneal de lo esperado).
+- El pene puede ser bífido (con dos puntas), lo cual es NORMAL en marsupiales.
+- La piel escrotal suele ser poco pilosa y más pigmentada.
+- El prepucio puede verse prominente dependiendo de la posición del animal
 
-El sistema reproductor incluye los órganos sexuales internos y externos, desempeñando funciones de reproducción en la zarigüeya.
-
-### Contenidos sugeridos
-- Estructura del sistema reproductor
-- Proceso de reproducción
-- Regulación hormonal
+### FUNCIONES
+- Producción de gametos masculinos.
+- Producción de testosterona.
+- Transporte y liberación del semen.
 
 <div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-4 justify-center max-w-4xl mx-auto">
