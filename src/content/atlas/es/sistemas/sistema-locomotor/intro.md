@@ -63,6 +63,7 @@ El componente óseo constituye el armazón estructural del cuerpo, mientras que 
           </div>
         </div>
       </a>
+      <!-- 
       <a href="/atlas/es/sistemas/sistema-locomotor/musculos" class="organ-card">
         <div class="card-content">
           <div class="card-header">
@@ -83,5 +84,6 @@ El componente óseo constituye el armazón estructural del cuerpo, mientras que 
           </div>
         </div>
       </a>
+      -->
     </div>
 </div>

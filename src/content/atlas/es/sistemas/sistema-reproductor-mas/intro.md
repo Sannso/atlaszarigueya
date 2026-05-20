@@ -20,6 +20,7 @@ El sistema reproductor masculino está conformado por testículos, epidídimos, 
 
 <div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-4 justify-center max-w-4xl mx-auto">
+      <!-- 
       <a href="/atlas/es/sistemas/sistema-reproductor-mas/pene" class="organ-card">
         <div class="card-content">
           <div class="card-header">
@@ -40,6 +41,7 @@ El sistema reproductor masculino está conformado por testículos, epidídimos, 
           </div>
         </div>
       </a>
+      -->
       <a href="/atlas/es/sistemas/sistema-reproductor-mas/testiculos" class="organ-card">
         <div class="card-content">
           <div class="card-header">
