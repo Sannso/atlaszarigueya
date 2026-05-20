@@ -6,14 +6,16 @@ description: Órganos reproductivos en la zarigüeya.
 tags: [sistemas]
 ---
 
-## Visión general
+## DESCRIPCIÓN
 
-El sistema reproductor incluye los órganos sexuales internos y externos, desempeñando funciones de reproducción en la zarigüeya.
+El sistema reproductor femenino está conformado por ovarios, oviductos, útero, cérvix, vagina, vulva y, en marsupiales, el marsupio. Su función principal es la producción de gametos femeninos, la reproducción y el desarrollo de las crías.
 
-### Contenidos sugeridos
-- Estructura del sistema reproductor
-- Proceso de reproducción
-- Regulación hormonal
+### FUNCIONES
+Producción de ovocitos.
+Producción de hormonas sexuales.
+Recepción del esperma durante la cópula.
+Desarrollo y protección del embrión/feto.
+Participación en el parto y lactancia (en especies marsupiales mediante el marsupio).
 
 <div class="subcontent-buttons my-14">
     <div class="flex flex-wrap gap-3 justify-center">
