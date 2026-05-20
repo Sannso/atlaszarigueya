@@ -11,13 +11,13 @@ tags: [respiratorio, pulmones]
   <span class="back-text">Volver al Sistema Respiratorio</span>
 </a>
 
-## Pulmones
+## DESCRIPCIÓN
 
-Los pulmones son los órganos principales del sistema respiratorio, responsables del intercambio gaseoso y la ventilación pulmonar en la zarigüeya.
+Los pulmones son órganos pares, esponjosos y altamente vascularizados, localizados en la cavidad torácica y recubiertos por la pleura. Están divididos en lóbulos y conformados por bronquios, bronquiolos y alvéolos pulmonares, estructuras responsables del intercambio gaseoso.
 
-### Estructura pulmonar
+### FUNCIÓN
 
-Los pulmones de la zarigüeya presentan características adaptativas específicas que los diferencian de otros mamíferos.
+Su función principal es realizar la hematosis, proceso mediante el cual el oxígeno del aire inspirado pasa a la sangre y el dióxido de carbono es eliminado hacia el exterior. Además, participan en la regulación del equilibrio ácido-base, filtración de pequeñas partículas y defensa inmunológica mediante mecanismos mucociliares y células inmunitarias pulmonares.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Pulmones Normales</h3>
@@ -26,11 +26,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/normal/7.png" 
-               alt="Pulmón Normal 1" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Pulmón Normal 1</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Vista externa del pulmón con estructuras normales.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -42,12 +42,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/normal/7_1.png" 
-               alt="Pulmón Normal 2" 
+               alt="Pulmón Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Pulmón Normal 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Lóbulos pulmonares con morfología conservada.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Pulmón Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">se observan pulmones con disposición anatómica conservada, de coloración rosada, superficie lisa, brillante y húmeda. Los lóbulos pulmonares presentan adecuada expansión y elasticidad, con consistencia esponjosa y crepitación conservada a la palpación.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -58,11 +58,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/normal/7_2.png" 
-               alt="Pulmón Normal 3" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Pulmón Normal 3</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Alvéolos pulmonares en estado funcional normal.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -74,12 +74,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/normal/7_3.png" 
-               alt="Pulmón Normal 4" 
+               alt="Pulmón Normal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Pulmón Normal 4</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Bronquios y bronquiolos con estructura normal.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Pulmón Normal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">se observan pulmones con disposición anatómica conservada, de coloración rosada, superficie lisa, brillante y húmeda. Los lóbulos pulmonares presentan adecuada expansión y elasticidad, con consistencia esponjosa y crepitación conservada a la palpación</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -90,11 +90,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/normal/7_4.png" 
-               alt="Pulmón Normal 5" 
+               alt="NO" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Pulmón Normal 5</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">NO</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Pleura pulmonar en estado saludable.</p>
         <div class="mt-3 flex items-center text-xs text-blue-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -105,7 +105,7 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
   </div>
 </div>
 
-## Patologías Pulmonares
+## Patologías/lesiones Pulmonares
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -114,12 +114,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/1.png" 
-               alt="Patología Pulmonar 1" 
+               alt="Congestión" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Alteración estructural del tejido pulmonar.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Congestión</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Lóbulos pulmonares bilaterales eritematosos con congestión de formas irregulares con contorno difuso, coloración violácea, textura friable al corte y distribución multifocal en un 80% del parénquima</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -130,11 +130,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/2.png" 
-               alt="Patología Pulmonar 2" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 2</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Lesión pulmonar con cambios degenerativos.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -146,12 +146,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/3.png" 
-               alt="Patología Pulmonar 3" 
+               alt="Hemorragia" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 3</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Neumonía con infiltrado inflamatorio.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Hemorragia</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hemorragia distribuida de forma generalizada en todos los lóbulos pulmonares de coloración rojo carmes, y presencia de irregularidad de la superficie del parenquima</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -162,11 +162,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/5.png" 
-               alt="Patología Pulmonar 4" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 4</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Fibrosis pulmonar con tejido cicatricial.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -178,11 +178,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/6.png" 
-               alt="Patología Pulmonar 5" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 5</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Edema pulmonar con acumulación de líquido.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -194,11 +194,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/7.png" 
-               alt="Patología Pulmonar 6" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 6</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumoración pulmonar con crecimiento anormal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -210,11 +210,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/8.png" 
-               alt="Patología Pulmonar 7" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 7</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Atelectasia con colapso del tejido pulmonar.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -226,11 +226,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/10.png" 
-               alt="Patología Pulmonar 8" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 8</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Bronquitis crónica con inflamación bronquial.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -242,11 +242,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/11.png" 
-               alt="Patología Pulmonar 9" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 9</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Asma bronquial con obstrucción de las vías aéreas.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -258,11 +258,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/12.png" 
-               alt="Patología Pulmonar 10" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 10</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Enfisema pulmonar con destrucción alveolar.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -274,12 +274,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/13.png" 
-               alt="Patología Pulmonar 11" 
+               alt="Hemorragia multifocal" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 11</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Absceso pulmonar con acumulación de pus.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Hemorragia multifocal</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hemorragia distribuida de forma multifocal en todos los lóbulos pulmonares de coloración rojo oscuro</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -290,12 +290,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/14.png" 
-               alt="Patología Pulmonar 12" 
+               alt="Neumonía granulomatosa" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 12</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tuberculosis pulmonar con lesiones granulomatosas.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Neumonía granulomatosa</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de múltiples lesiones puntiformes blanquecinas multifocales distribuidas en el parénquima pulmonar, acompañadas de áreas de enfisema, caracterizadas por distensión y aumento del volumen alveolar. El parénquima presenta consistencia irregular, con pérdida focal de la arquitectura normal.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -306,12 +306,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/16.png" 
-               alt="Patología Pulmonar 13" 
+               alt="Dificultad respiratoria" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 13</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hipertensión pulmonar con afectación vascular.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Dificultad respiratoria</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay umento de volumen de consistencia y textura esponjosa. El parénquima presenta distensión aérea marcada, con bordes redondeados. A la palpación se evidencia crepitación aumentada. La superficie pleural se observa lisa y brillante.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -322,11 +322,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/17.png" 
-               alt="Patología Pulmonar 14" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 14</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Embolia pulmonar con obstrucción vascular.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -338,12 +338,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/18.png" 
-               alt="Patología Pulmonar 15" 
+               alt="Congestión focalizada" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 15</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Neumotórax con colapso del pulmón.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Congestión focalizada</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de Congestión focalizada en lobulo caudal derecho con bordes difusoso de coloracion violacea</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -354,12 +354,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/24.png" 
-               alt="Patología Pulmonar 16" 
+               alt="Dificultad respiratoria" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 16</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Derrame pleural con acumulación de líquido.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Dificultad respiratoia</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay umento de volumen de consistencia y textura esponjosa. El parénquima presenta distensión aérea marcada, con bordes redondeados. A la palpación se evidencia crepitación aumentada. La superficie pleural se observa lisa y brillante.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -370,11 +370,11 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/25.png" 
-               alt="Patología Pulmonar 17" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 17</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Neumopatía intersticial con afectación difusa.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -386,12 +386,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/26.png" 
-               alt="Patología Pulmonar 18" 
+               alt="Neumonía" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 18</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Sarcoidosis pulmonar con granulomas no caseosos.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Neumonía</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay aumento de consistencia y pérdida parcial de la elasticidad normal, presentando áreas multifocales a difusas de consolidación pulmonar. El parénquima afectado exhibe coloración grisácea.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -402,12 +402,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/27.png" 
-               alt="Patología Pulmonar 19" 
+               alt="Nódulos" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 19</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Silicosis pulmonar con depósitos de sílice.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Nódulos</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Presencia de nódulos pulmonares de consistencia dura y de distribución multifocal en todo el parenquima</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -418,12 +418,12 @@ Los pulmones de la zarigüeya presentan características adaptativas específica
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-respiratorio/pulmones/patologia/28.png" 
-               alt="Patología Pulmonar 20" 
+               alt="Fibrosis" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Pulmonar 20</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Asbestosis pulmonar con exposición a asbestos.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Fibrosis</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Pulmones con superficie pleural de aspecto rugoso e irregular, con pérdida del brillo normal y presencia de áreas opacas multifocales</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
