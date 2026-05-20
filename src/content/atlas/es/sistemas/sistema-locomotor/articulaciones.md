@@ -11,13 +11,16 @@ tags: [locomotor, articulaciones]
   <span class="back-text">Volver al Sistema Locomotor</span>
 </a>
 
-## Articulaciones
+## DESCRIPCIÓN
 
-Las articulaciones son las conexiones estructurales entre los huesos que permiten el movimiento y proporcionan flexibilidad al sistema locomotor de la zarigüeya.
+Las articulaciones son estructuras anatómicas que unen dos o más huesos, permitiendo distintos grados de movilidad y estabilidad. Están conformadas por superficies articulares, cápsula articular, ligamentos y, en algunos casos, cartílago y líquido sinovial.
 
-### Estructura y función articular
+### FUNCIONES
+- Permitir el movimiento corporal.
+- Mantener la unión y estabilidad entre huesos.
+- Amortiguar impactos y distribuir fuerzas mecánicas.
+- Facilitar la flexibilidad y locomoción.
 
-Las articulaciones de la zarigüeya presentan una estructura adaptada para su estilo de vida trepador y terrestre, con cartílago articular, líquido sinovial y ligamentos que garantizan movimientos precisos y estables.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Articulaciones Normales</h3>
@@ -31,7 +34,7 @@ Las articulaciones de la zarigüeya presentan una estructura adaptada para su es
   </div>
 </div>
 
-## Patologías de las Articulaciones
+## Patologías/lesiones de las Articulaciones
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -40,12 +43,12 @@ Las articulaciones de la zarigüeya presentan una estructura adaptada para su es
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/articulaciones/patologia/12.png" 
-               alt="Patología Articular 1" 
+               alt="Luxación" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Articular 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Artritis inflamatoria aguda.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Luxación</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Hay una luxación bilateral de la articulación radiocarpiana en ambos miembros anteriores</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -56,12 +59,12 @@ Las articulaciones de la zarigüeya presentan una estructura adaptada para su es
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-locomotor/articulaciones/patologia/28.png" 
-               alt="Patología Articular 2" 
+               alt="Desarticulación" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Articular 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Artrosis degenerativa.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Desarticulación</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Desarticulación completa de la articulación tibiotarsiana del miembro posterior izquierdo</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
