@@ -71,7 +71,7 @@ La cavidad abdominal es el espacio localizado caudal al diafragma, que contiene 
   </div>
 </div>
 
-## Imágenes Patológicas
+## Patologías/lesiones
 
 <div class="system-images-container flex flex-wrap justify-center gap-8 my-14">
   <div class="system-image-card group relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-6 shadow-lg hover:shadow-2xl transition-all duration-500 hover:scale-105 flex flex-col w-72 h-auto">
