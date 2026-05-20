@@ -11,13 +11,16 @@ tags: [urinario, vejiga, almacenamiento]
   <span class="back-text">Volver al Sistema Urinario</span>
 </a>
 
-## Vejiga
+## DESCRIPCIÓN
 
-La vejiga es el órgano de almacenamiento del sistema urinario de la zarigüeya, responsable de contener la orina hasta su eliminación, con adaptaciones específicas para su estilo de vida nocturno y arbóreo.
+La vejiga es el órgano de almacenamiento del sistema urinario, responsable de contener la orina hasta su eliminación.
+La vejiga presenta una estructura elástica y muscular que permite almacenar grandes volúmenes de orina de manera temporal, con paredes especializadas que facilitan la retención y expulsión controlada.
 
-### Estructura y función vesical
+### FUNCIÓN
+- Mantener una eliminación urinaria controlada.
+- Proteger vías urinarias superiores evitando el reflujo de orina.
+- Contribuir al equilibrio hírico mediante el almacenamiento urinario temporal.
 
-La vejiga de la zarigüeya presenta una estructura elástica y muscular que permite almacenar grandes volúmenes de orina de manera temporal, con paredes especializadas que facilitan la retención y expulsión controlada.
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Vejiga Normal</h3>
@@ -31,7 +34,7 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
   </div>
 </div>
 
-## Patologías de la Vejiga
+## Patologías/lesiones de la Vejiga
 
 <div class="image-gallery mb-12">
   <h3 class="gallery-title text-2xl font-bold mb-6 text-center">Alteraciones Patológicas</h3>
@@ -40,12 +43,12 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/1.png" 
-               alt="Patología Vesical 1" 
+               alt="Distensión vesical" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 1</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Cistitis aguda.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Distensión vesical</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Las mucosas de la vejiga se encuentran adelgazadas y con sedimentación y de coloración roja .</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -56,12 +59,12 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/6.png" 
-               alt="Patología Vesical 2" 
+               alt="Sedimentación icterica" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 2</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Cálculo vesical.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Sedimentación icterica</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa vejiga con coloracion icterica en su mucosa con contenido muy espeso de color amarillo fuerte</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -72,11 +75,11 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7.png" 
-               alt="Patología Vesical 3" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 3</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor vesical benigno.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -88,12 +91,12 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7_1.png" 
-               alt="Patología Vesical 4" 
+               alt="Vejiga pletórica" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 4</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Tumor vesical maligno.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Vejiga pletórica</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se encuentra vejiga distendida con paredes delgadas y con contenido hematúrico de aproximadamente 10 ml</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -104,11 +107,11 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7_4.png" 
-               alt="Patología Vesical 5" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 5</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Divertículo vesical.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -120,11 +123,11 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/7_5.png" 
-               alt="Patología Vesical 6" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 6</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Inflamación vesical crónica.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -136,12 +139,12 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/8.png" 
-               alt="Patología Vesical 7" 
+               alt="Hematuria" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 7</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Trauma vesical.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Hematuria</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se encuentra contenido hematurico de aproximadamente 8ml</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
@@ -152,11 +155,11 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/16.png" 
-               alt="Patología Vesical 8" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 8</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Infección vesical.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -168,11 +171,11 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/nn.png" 
-               alt="Patología Vesical 9" 
+               alt="no" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 9</h4>
+        <h4 class="font-semibold text-gray-800 mb-2">no</h4>
         <p class="text-sm text-gray-600 line-clamp-2 h-10">Obstrucción uretral.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
@@ -184,12 +187,12 @@ La vejiga de la zarigüeya presenta una estructura elástica y muscular que perm
       <div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-violet-50 to-indigo-100 p-4">
         <div class="aspect-square mb-3 bg-white rounded-xl shadow-inner flex items-center justify-center overflow-hidden min-h-[250px]">
           <img src="/images/atlas/sistemas/sistema-urinario/vejiga/patologia/nn2.png" 
-               alt="Patología Vesical 10" 
+               alt="Cistitis" 
                class="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-110"
                loading="lazy">
         </div>
-        <h4 class="font-semibold text-gray-800 mb-2">Patología Vesical 10</h4>
-        <p class="text-sm text-gray-600 line-clamp-2 h-10">Atrofia vesical.</p>
+        <h4 class="font-semibold text-gray-800 mb-2">Cisitis</h4>
+        <p class="text-sm text-gray-600 line-clamp-2 h-10">Se observa engrosamiento difuso de la pared y prominencia marcada de los pliegues mucosos, los cuales presentan aspecto irregular. La mucosa es de coloración amarillenta, con superficie rugosa.</p>
         <div class="mt-3 flex items-center text-xs text-violet-600 font-medium">
           <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/><path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/></svg>
           Click para ampliar
