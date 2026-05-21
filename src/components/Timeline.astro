@@ -2,72 +2,81 @@
 // Timeline.astro — Divulgación Científica
 ---
 
-<!-- Section is 380vh tall so sticky container has 280vh of scroll travel -->
 <section id="tl-section" class="relative bg-[#0b1a0e]" style="height: 380vh;">
 
-  <!-- Ambient radial glow -->
-  <div
-    class="pointer-events-none absolute left-1/2 top-0 h-[500px] w-[900px] -translate-x-1/2 rounded-full bg-emerald-950/60 blur-[140px]"
-  ></div>
+  <!-- Ambient glow -->
+  <div class="pointer-events-none absolute left-1/2 top-0 h-[500px] w-[900px] -translate-x-1/2 rounded-full bg-emerald-950/60 blur-[140px]"></div>
 
   <!-- ─── Sticky viewport ─── -->
-  <div class="sticky top-0 h-screen overflow-hidden">
+  <div class="sticky top-0 flex h-screen flex-col overflow-hidden">
 
-    <!-- ─── Header (always visible once in view) ─── -->
-    <div class="relative z-10 px-6 pb-4 pt-14 text-center">
-      <p class="tl-eyebrow mb-3 text-xs font-semibold uppercase tracking-[0.45em] text-emerald-400 opacity-0">
+    <!-- ─── Header ─── -->
+    <div class="relative z-10 shrink-0 px-6 pb-2 pt-8 text-center lg:pb-4 lg:pt-14">
+      <p class="tl-eyebrow mb-2 text-xs font-semibold uppercase tracking-[0.45em] text-emerald-400 opacity-0 lg:mb-3">
         Nuestro camino
       </p>
-      <h2 class="tl-title text-5xl font-black leading-[0.88] tracking-tight text-white opacity-0 sm:text-6xl lg:text-[5.5rem]">
+      <h2 class="tl-title text-4xl font-black leading-[0.88] tracking-tight text-white opacity-0 sm:text-5xl lg:text-6xl xl:text-[5.5rem]">
         Divulgación<br />
         <em class="not-italic text-emerald-400">Científica</em>
       </h2>
     </div>
 
-    <!-- ─── Panel area ─── -->
-    <div class="relative mx-auto h-[calc(100vh-10rem)] max-w-6xl px-6">
+    <!-- ─── Panel area: takes all remaining height ─── -->
+    <div class="relative mx-auto min-h-0 w-full max-w-6xl flex-1 px-4 lg:px-6">
 
       <!-- ① RREDSI PANEL -->
       <div
         id="tl-rredsi"
-        class="absolute inset-0 flex items-center px-2"
+        class="absolute inset-0 flex items-center px-0"
         style="opacity: 0; transform: translateY(40px);"
       >
-        <div class="grid w-full items-center gap-8 lg:grid-cols-2 lg:gap-12">
+        <!--
+          Mobile:  flex-col-reverse  →  photos on top, info below
+          Desktop: grid 2 cols       →  info left, photos right
+        -->
+        <div class="flex w-full flex-col-reverse gap-3 lg:grid lg:grid-cols-2 lg:items-center lg:gap-12">
 
           <!-- Info -->
-          <div class="space-y-5">
+          <div class="space-y-2 lg:space-y-5">
             <div class="flex items-center gap-3">
-              <div class="h-px w-8 bg-emerald-400"></div>
+              <div class="h-px w-6 bg-emerald-400 lg:w-8"></div>
               <span class="text-xs font-semibold uppercase tracking-[0.25em] text-emerald-400">
                 20 · Mayo · 2026
               </span>
             </div>
 
-            <!-- Logo badge -->
-            <div class="inline-block overflow-hidden rounded-lg bg-white/10 px-4 py-2 backdrop-blur-sm">
-              <img
-                src="/images/timeline/rredsi_logo.webp"
-                alt="RREDSI"
-                class="h-8 w-auto object-contain"
-              />
+            <div class="flex items-center gap-3">
+              <!-- Logo badge -->
+              <div class="inline-block overflow-hidden rounded-lg bg-white/10 px-3 py-1.5 backdrop-blur-sm lg:px-4 lg:py-2">
+                <img
+                  src="/images/timeline/rredsi_logo.webp"
+                  alt="RREDSI"
+                  class="h-6 w-auto object-contain lg:h-8"
+                />
+              </div>
             </div>
 
             <div>
-              <h3 class="mb-2 text-2xl font-bold leading-snug text-white lg:text-3xl">
-                Red Regional de Semilleros<br />de Investigación
+              <h3 class="mb-1 text-lg font-bold leading-snug text-white lg:mb-2 lg:text-3xl">
+                Red Regional de Semilleros<br class="hidden lg:block" /> de Investigación
               </h3>
-              <p class="text-sm leading-relaxed text-gray-400 lg:text-base">
+              <!-- Description hidden on mobile to save space -->
+              <p class="hidden text-sm leading-relaxed text-gray-400 lg:block lg:text-base">
                 El semillero APATVET presentó el Atlas Anatomopatológico Virtual
                 de la zarigüeya común en RREDSI, espacio académico donde semilleros
                 de investigación de toda la región comparten sus avances.
                 Un paso clave para visibilizar nuestra ciencia más allá del aula.
               </p>
+              <!-- Short version for mobile -->
+              <p class="text-xs leading-relaxed text-gray-400 lg:hidden">
+                Semillero APATVET – UTP. Presentamos el Atlas en el encuentro
+                regional de semilleros de investigación.
+              </p>
             </div>
 
-            <div class="flex flex-wrap gap-2">
+            <div class="flex flex-wrap gap-1.5 lg:gap-2">
               {["Ponencia", "Semillero", "UTP", "Divulgación"].map((tag) => (
-                <span class="rounded-full border border-emerald-400/30 px-3 py-0.5 text-xs text-emerald-400/80">
+                <span class="rounded-full border border-emerald-400/30 px-2.5 py-0.5 text-[11px] text-emerald-400/80 lg:px-3 lg:text-xs">
                   {tag}
                 </span>
               ))}
@@ -75,23 +84,22 @@
           </div>
 
           <!-- Photos -->
-          <div class="grid h-64 grid-cols-3 grid-rows-2 gap-2 lg:h-[340px]">
-            <!-- Featured tall image (col-span-2, row-span-2) -->
-            <div class="col-span-2 row-span-2 overflow-hidden rounded-xl">
+          <div class="grid h-40 grid-cols-3 grid-rows-2 gap-1.5 lg:h-[340px] lg:gap-2">
+            <div class="col-span-2 row-span-2 overflow-hidden rounded-lg lg:rounded-xl">
               <img
                 src="/images/timeline/participantes.webp"
                 alt="Participantes RREDSI"
                 class="h-full w-full object-cover transition-transform duration-700 hover:scale-105"
               />
             </div>
-            <div class="overflow-hidden rounded-xl">
+            <div class="overflow-hidden rounded-lg lg:rounded-xl">
               <img
                 src="/images/timeline/ponencia_1.webp"
                 alt="Ponencia RREDSI"
                 class="h-full w-full object-cover transition-transform duration-700 hover:scale-105"
               />
             </div>
-            <div class="overflow-hidden rounded-xl">
+            <div class="overflow-hidden rounded-lg lg:rounded-xl">
               <img
                 src="/images/timeline/ponencia_2.webp"
                 alt="Ponencia RREDSI"
@@ -109,56 +117,45 @@
         class="absolute inset-0 flex items-center justify-center px-2"
         style="opacity: 0; transform: translateY(40px);"
       >
-        <div class="max-w-2xl space-y-6 text-center">
+        <div class="w-full max-w-2xl space-y-4 text-center lg:space-y-6">
 
           <div class="flex items-center justify-center gap-4">
-            <div class="h-px w-10 bg-emerald-400/60"></div>
+            <div class="h-px w-8 bg-emerald-400/60 lg:w-10"></div>
             <span class="text-xs font-semibold uppercase tracking-[0.3em] text-emerald-400">
               Octubre · 2026
             </span>
-            <div class="h-px w-10 bg-emerald-400/60"></div>
+            <div class="h-px w-8 bg-emerald-400/60 lg:w-10"></div>
           </div>
 
-          <div class="inline-flex items-center gap-2 rounded-full border border-emerald-400/30 bg-emerald-400/5 px-5 py-2">
+          <div class="inline-flex items-center gap-2 rounded-full border border-emerald-400/30 bg-emerald-400/5 px-4 py-1.5 lg:px-5 lg:py-2">
             <span class="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400"></span>
-            <span class="text-xs font-semibold uppercase tracking-[0.35em] text-emerald-400">
+            <span class="text-xs font-semibold uppercase tracking-[0.3em] text-emerald-400">
               Próximamente
             </span>
           </div>
 
           <div>
-            <h3 class="text-6xl font-black tracking-tight text-white lg:text-8xl">
+            <h3 class="text-5xl font-black tracking-tight text-white lg:text-8xl">
               CONVETZ
             </h3>
-            <p class="mt-2 font-light text-gray-400 lg:text-lg">
-              Convención Nacional de Estudiantes de<br />
+            <p class="mt-1.5 text-sm font-light text-gray-400 lg:mt-2 lg:text-lg">
+              Convención Nacional de Estudiantes de
               Medicina Veterinaria y Zootecnia
             </p>
           </div>
 
-          <p class="leading-relaxed text-gray-500">
+          <p class="text-xs leading-relaxed text-gray-500 lg:text-base">
             El encuentro nacional más importante para estudiantes de ciencias
-            veterinarias del país. Llevaremos el Atlas Anatomopatológico Virtual
-            a CONVETZ 2026, abriendo conversaciones sobre divulgación científica
-            a escala nacional.
+            veterinarias. Llevaremos el Atlas Anatomopatológico Virtual a CONVETZ 2026,
+            abriendo conversaciones sobre divulgación científica a escala nacional.
           </p>
 
-          <!-- Decorative lock -->
-          <div class="flex justify-center pt-2">
+          <!-- Lock icon: hidden on small screens -->
+          <div class="hidden justify-center pt-2 lg:flex">
             <div class="flex h-20 w-20 items-center justify-center rounded-full border border-emerald-400/20">
               <div class="flex h-14 w-14 items-center justify-center rounded-full border border-emerald-400/35">
-                <svg
-                  class="h-6 w-6 text-emerald-400/50"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="1.5"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"
-                  />
+                <svg class="h-6 w-6 text-emerald-400/50" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
                 </svg>
               </div>
             </div>
@@ -170,26 +167,14 @@
     </div><!-- /panel area -->
 
     <!-- ─── Side navigation dots ─── -->
-    <div class="absolute right-5 top-1/2 z-20 flex -translate-y-1/2 flex-col gap-3">
-      <div
-        id="tl-dot-0"
-        class="h-2 w-2 rounded-full bg-gray-600 transition-all duration-400"
-        title="RREDSI"
-      ></div>
-      <div
-        id="tl-dot-1"
-        class="h-2 w-2 rounded-full bg-gray-600 transition-all duration-400"
-        title="CONVETZ"
-      ></div>
+    <div class="absolute right-4 top-1/2 z-20 flex -translate-y-1/2 flex-col gap-3 lg:right-5">
+      <div id="tl-dot-0" class="h-2 w-2 rounded-full bg-gray-600 transition-all duration-300" title="RREDSI"></div>
+      <div id="tl-dot-1" class="h-2 w-2 rounded-full bg-gray-600 transition-all duration-300" title="CONVETZ"></div>
     </div>
 
     <!-- ─── Bottom progress bar ─── -->
     <div class="absolute bottom-0 left-0 h-[2px] w-full bg-white/5">
-      <div
-        id="tl-bar"
-        class="h-full origin-left bg-emerald-400"
-        style="transform: scaleX(0);"
-      ></div>
+      <div id="tl-bar" class="h-full origin-left bg-emerald-400" style="transform: scaleX(0);"></div>
     </div>
 
   </div><!-- /sticky -->
@@ -201,14 +186,14 @@
 
   gsap.registerPlugin(ScrollTrigger);
 
-  const section  = document.getElementById("tl-section")!;
-  const rredsi   = document.getElementById("tl-rredsi")!;
-  const convetz  = document.getElementById("tl-convetz")!;
-  const dot0     = document.getElementById("tl-dot-0")!;
-  const dot1     = document.getElementById("tl-dot-1")!;
-  const bar      = document.getElementById("tl-bar")!;
+  const section = document.getElementById("tl-section")!;
+  const rredsi  = document.getElementById("tl-rredsi")!;
+  const convetz = document.getElementById("tl-convetz")!;
+  const dot0    = document.getElementById("tl-dot-0")!;
+  const dot1    = document.getElementById("tl-dot-1")!;
+  const bar     = document.getElementById("tl-bar")!;
 
-  // ── Header fades in once as section enters viewport ──────────────────────
+  // Header fades in once as section enters viewport
   gsap.fromTo(
     [".tl-eyebrow", ".tl-title"],
     { autoAlpha: 0, y: 18 },
@@ -226,8 +211,7 @@
     }
   );
 
-  // ── Scroll-scrub timeline for panels ─────────────────────────────────────
-  // Total duration = 8 units  →  280vh of scroll / 8 ≈ 35vh per unit
+  // Scroll-scrub timeline for panels
   const tl = gsap.timeline({
     scrollTrigger: {
       trigger: section,
@@ -236,7 +220,6 @@
       scrub: 1.4,
       onUpdate(self) {
         const p = self.progress;
-
         bar.style.transform = `scaleX(${p})`;
 
         const r = p > 0.22 && p < 0.68;
@@ -251,14 +234,8 @@
     defaults: { ease: "none" },
   });
 
-  // Unit 0–1.5  ···  ramp-in pause (header already appeared above)
-  // Unit 1.5–2.5  ·  RREDSI fades in
-  tl.to(rredsi, { autoAlpha: 1, y: 0, duration: 1 }, 1.5);
-  // Unit 2.5–4.5  ·  RREDSI holds (user reads)
-  // Unit 4.5–5.5  ·  RREDSI fades out
-  tl.to(rredsi, { autoAlpha: 0, y: -28, duration: 1 }, 4.5);
-  // Unit 5.5–6.5  ·  CONVETZ fades in
-  tl.to(convetz, { autoAlpha: 1, y: 0, duration: 1 }, 5.5);
-  // Unit 7.5  ·  end hold
-  tl.to({}, { duration: 0.5 }, 7.5);
+  tl.to(rredsi,  { autoAlpha: 1, y: 0,   duration: 1 }, 1.5);
+  tl.to(rredsi,  { autoAlpha: 0, y: -28, duration: 1 }, 4.5);
+  tl.to(convetz, { autoAlpha: 1, y: 0,   duration: 1 }, 5.5);
+  tl.to({},      { duration: 0.5 },                     7.5);
 </script>
