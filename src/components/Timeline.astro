@@ -5,13 +5,13 @@
 <section id="tl-section" class="relative bg-[#0b1a0e]" style="height: 380vh;">
 
   <!-- Ambient glow -->
-  <div class="pointer-events-none absolute left-1/2 top-0 h-[500px] w-[900px] -translate-x-1/2 rounded-full bg-emerald-950/60 blur-[140px]"></div>
+  <div class="pointer-events-none absolute left-1/2 top-0 h-[300px] w-full -translate-x-1/2 rounded-full bg-emerald-950/60 blur-[100px] lg:h-[500px] lg:w-[900px] lg:blur-[140px]"></div>
 
   <!-- ─── Sticky viewport ─── -->
   <div class="sticky top-0 flex h-screen flex-col overflow-hidden">
 
     <!-- ─── Header ─── -->
-    <div class="relative z-10 shrink-0 px-6 pb-2 pt-8 text-center lg:pb-4 lg:pt-14">
+    <div class="relative z-10 shrink-0 px-6 pb-2 pt-12 text-center lg:pb-4 lg:pt-14">
       <p class="tl-eyebrow mb-2 text-xs font-semibold uppercase tracking-[0.45em] text-emerald-400 opacity-0 lg:mb-3">
         Nuestro camino
       </p>
@@ -27,7 +27,7 @@
       <!-- ① RREDSI PANEL -->
       <div
         id="tl-rredsi"
-        class="absolute inset-0 flex items-center px-0"
+        class="absolute inset-0 flex items-center px-5 lg:px-0"
         style="opacity: 0; transform: translateY(40px);"
       >
         <!--
@@ -37,7 +37,7 @@
         <div class="flex w-full flex-col-reverse gap-3 lg:grid lg:grid-cols-2 lg:items-center lg:gap-12">
 
           <!-- Info -->
-          <div class="space-y-2 lg:space-y-5">
+          <div class="space-y-3 lg:space-y-5">
             <div class="flex items-center gap-3">
               <div class="h-px w-6 bg-emerald-400 lg:w-8"></div>
               <span class="text-xs font-semibold uppercase tracking-[0.25em] text-emerald-400">
@@ -84,7 +84,7 @@
           </div>
 
           <!-- Photos -->
-          <div class="grid h-40 grid-cols-3 grid-rows-2 gap-1.5 lg:h-[340px] lg:gap-2">
+          <div class="grid h-48 grid-cols-3 grid-rows-2 gap-1.5 lg:h-[340px] lg:gap-2">
             <div class="col-span-2 row-span-2 overflow-hidden rounded-lg lg:rounded-xl">
               <img
                 src="/images/timeline/participantes.webp"
@@ -114,7 +114,7 @@
       <!-- ② CONVETZ PANEL -->
       <div
         id="tl-convetz"
-        class="absolute inset-0 flex items-center justify-center px-2"
+        class="absolute inset-0 flex items-center justify-center px-5 lg:px-2"
         style="opacity: 0; transform: translateY(40px);"
       >
         <div class="w-full max-w-2xl space-y-4 text-center lg:space-y-6">
