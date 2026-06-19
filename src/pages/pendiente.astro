@@ -1,0 +1,98 @@
+---
+import Layout from "@layouts/Layout.astro";
+---
+
+<Layout forceLightMode>
+  <div class="min-h-screen relative flex flex-col">
+
+    <!-- Fondo con desenfoque -->
+    <div
+      class="absolute inset-0 bg-cover bg-center bg-no-repeat"
+      style="background-image: url('/images/atlas/general/bgPeople.jpg'); filter: blur(5px); transform: scale(1.06);"
+    ></div>
+    <!-- Capa oscura sobre el fondo -->
+    <div class="absolute inset-0 bg-gradient-to-br from-green-950/88 via-stone-900/82 to-green-900/88"></div>
+
+    <!-- Contenido principal -->
+    <main class="relative z-10 flex-1 flex items-center justify-center px-4 py-16">
+      <div class="max-w-md w-full text-center">
+
+        <!-- Tarjeta glassmorphism -->
+        <div class="bg-white/10 backdrop-blur-md border border-white/20 rounded-3xl px-10 py-12 shadow-2xl">
+
+          <!-- Ícono de candado -->
+          <div class="w-20 h-20 mx-auto mb-8 bg-white/15 rounded-2xl flex items-center justify-center border border-white/20">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-green-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+            </svg>
+          </div>
+
+          <!-- Marca del proyecto -->
+          <p class="text-green-300 text-xs font-montserrat-medium uppercase tracking-widest mb-3">
+            Atlas de la Zarigüeya
+          </p>
+
+          <!-- Título -->
+          <h1 class="text-white text-3xl font-bold font-montserrat-bold leading-tight mb-5">
+            Sitio en espera<br />de activación
+          </h1>
+
+          <!-- Descripción -->
+          <p class="text-white/70 text-sm leading-relaxed mb-8">
+            Este sitio se encuentra temporalmente suspendido. El acceso completo
+            estará disponible una vez se formalice el pago correspondiente al
+            desarrollo del proyecto.
+          </p>
+
+          <!-- Separador -->
+          <div class="border-t border-white/20 pt-7">
+            <p class="text-white/45 text-xs mb-4">¿Eres el propietario del sitio?</p>
+            <a
+              href="https://sanss.netlify.app/cv/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-2 bg-green-500/20 hover:bg-green-500/35 border border-green-400/30 hover:border-green-400/60 text-green-200 hover:text-white text-sm font-semibold px-6 py-3 rounded-full transition-all duration-300"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8.625 12a.375.375 0 11-.75 0 .375.375 0 01.75 0zm0 0H8.25m4.125 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zm0 0H12m4.125 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zm0 0h-.375M21 12c0 4.556-4.03 8.25-9 8.25a9.764 9.764 0 01-2.555-.337A5.972 5.972 0 015.41 20.97a5.969 5.969 0 01-.474-.065 4.48 4.48 0 00.978-2.025c.09-.457-.133-.901-.467-1.226C3.93 16.178 3 14.189 3 12c0-4.556 4.03-8.25 9-8.25s9 3.694 9 8.25z" />
+              </svg>
+              Contactar al desarrollador
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="relative z-10 py-4 text-center text-xs text-white/35">
+      Desarrollado por
+      <a
+        href="https://sanss.netlify.app/cv/"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="underline underline-offset-2 hover:text-white/70 transition-colors"
+      >Sanss</a>
+      · Pereira, Colombia · 2026
+    </footer>
+
+  </div>
+</Layout>
+
+<style>
+  main {
+    animation: fadeIn 0.6s ease-out both;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
