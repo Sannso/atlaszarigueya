@@ -1,12 +1,4 @@
 ---
-// SITIO SUSPENDIDO — redirigir a página de espera de activación
-// Para reactivar: eliminar este bloque y descomentar el contenido original abajo
----
-<meta http-equiv="refresh" content="0;url=/pendiente" />
-<script>window.location.replace('/pendiente');</script>
-
-<!-- CONTENIDO ORIGINAL — descomentar cuando se reactive el sitio
-
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Hero from "@components/Hero.astro";
@@ -16,6 +8,7 @@ import Cta from "@components/Cta.astro";
 import Footer from "@components/Footer.astro";
 import People from "@components/People.astro";
 import Timeline from "@components/Timeline.astro";
+---
 
 <Layout forceLightMode>
 	<section class="flex flex-col relative pt-2 px-5 h-screen lg:h-[75%]">
@@ -41,5 +34,3 @@ import Timeline from "@components/Timeline.astro";
 	<Cta />
 	<Footer />
 </Layout>
-
--->
